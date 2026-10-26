@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-26T21:12:14.795002665Z",
+  "generated": "2026-10-26T21:17:38.145197787Z",
   "tiers": [
     {
       "key": "HT1",
@@ -211,11 +211,12 @@
     {
       "uuid": "d3fec769-5e9d-3ea8-b15b-936dae832bf5",
       "name": "Tjoma144",
-      "points": 60,
+      "points": 80,
       "tiers": {
         "akm_atl": "LT3",
         "aug_atl": "LT3",
-        "p90_atl": "LT3"
+        "p90_atl": "LT3",
+        "m1novi": "LT3"
       },
       "elo": {
         "vintovka": 995,
@@ -4482,6 +4483,15 @@
     }
   ],
   "history": [
+    {
+      "t": "2026-10-27 00:17",
+      "name": "Tjoma144",
+      "kit": "m1novi",
+      "tester": "_neinteresno1",
+      "ts": 11,
+      "ps": 8,
+      "tier": "LT3"
+    },
     {
       "t": "2026-10-27 00:12",
       "name": "proeszlo_YT",
