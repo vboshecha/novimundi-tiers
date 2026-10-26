@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-26T21:11:28.348361875Z",
+  "generated": "2026-10-26T21:12:14.795002665Z",
   "tiers": [
     {
       "key": "HT1",
@@ -279,9 +279,10 @@
     {
       "uuid": "2d338e23-8902-3fc6-8608-eb8dd83caac8",
       "name": "proeszlo_YT",
-      "points": 10,
+      "points": 11,
       "tiers": {
-        "m1novi": "LT4"
+        "m1novi": "LT4",
+        "vintovka": "LT5"
       },
       "elo": {
         "vintovka": 1000,
@@ -4481,6 +4482,15 @@
     }
   ],
   "history": [
+    {
+      "t": "2026-10-27 00:12",
+      "name": "proeszlo_YT",
+      "kit": "vintovka",
+      "tester": "_neinteresno1",
+      "ts": 4,
+      "ps": 11,
+      "tier": "LT5"
+    },
     {
       "t": "2026-10-26 23:53",
       "name": "proeszlo_YT",
