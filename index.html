@@ -172,6 +172,7 @@ details.hitem > summary { cursor: pointer; }
 .hitem .kt span { color: var(--muted, #8a8f98); font-size: 13px; }
 .hitem .tr { margin-left: auto; font: 800 19px var(--body); }
 .hitem .tr.gone { color: #ff6b6b; font-size: 15px; }
+.chg .same { color: var(--muted, #8a8f98); font-size: 13px; margin-right: 6px; }
 .hitem .chev, .hitem .nochev { width: 18px; flex: none; }
 .hitem .chev::before { content: ""; display: block; width: 7px; height: 7px; margin: 0 auto 3px; border-right: 2px solid currentColor; border-bottom: 2px solid currentColor; transform: rotate(45deg); opacity: .6; transition: transform .2s; }
 .hitem[open] .chev::before { transform: rotate(-135deg); margin-bottom: -3px; }
@@ -697,7 +698,10 @@ dialog::backdrop { background: rgba(5, 7, 10, .7); backdrop-filter: blur(3px); }
   function kitByKey(key) { return DATA.kits.find(function (k) { return k.key === key; }); }
   function historyRow(e, withName) {
     var k = kitByKey(e.kit);
-    var change = e.tier ? (e.before ? badge(e.before) + '<i class="arr">→</i>' : "") + badge(e.tier)
+    // перетест: тот же тир со счётом - «подтверждён LT3»
+    var same = e.tier && (e.retest || e.before === e.tier);
+    var change = same ? '<span class="same">подтверждён</span>' + badge(e.tier)
+      : e.tier ? (e.before ? badge(e.before) + '<i class="arr">→</i>' : "") + badge(e.tier)
       : badge(e.before) + '<i class="arr">→</i><span class="gone">снят</span>';
     var test = e.tester ? '<span class="vs"><b>' + esc(e.tester) + '</b> <b class="' + (e.ts > e.ps ? "w" : "l") + '">' + e.ts +
       '</b>:<b class="' + (e.ps > e.ts ? "w" : "l") + '">' + e.ps + "</b> " + esc(e.name) + "</span>" : "";
@@ -735,7 +739,8 @@ dialog::backdrop { background: rgba(5, 7, 10, .7); backdrop-filter: blur(3px); }
     var k = kitByKey(e.kit);
     var duels = duelsOf(e);
     var head = (k ? '<img class="ki" alt="" src="' + esc(iconSrc(k)) + '">' : "") +
-      '<span class="kt"><b>' + esc(k ? k.name.replace(/^Kit\s+/i, "") : e.kit) + "</b><span>" + esc(longDate(e.t)) + "</span></span>" +
+      '<span class="kt"><b>' + esc(k ? k.name.replace(/^Kit\s+/i, "") : e.kit) + "</b><span>" + esc(longDate(e.t)) +
+      (e.tier && (e.retest || e.before === e.tier) ? " · подтверждён" : "") + "</span></span>" +
       '<span class="tr' + (e.tier ? "" : " gone") + '">' + esc(e.tier || "снят") + "</span>";
     if (!duels.length) return '<div class="hitem"><div class="hsum">' + head + '<i class="nochev"></i></div></div>';
     var body = '<div class="duels">Поединки (' + duels.length + ")</div>" + duels.map(function (d) {
