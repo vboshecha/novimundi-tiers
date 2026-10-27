@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T11:49:41.148864951Z",
+  "generated": "2026-10-27T11:54:41.163748289Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1165,9 +1165,9 @@
         "p90_atl": 1000
       },
       "wins": 6,
-      "losses": 48,
-      "kills": 66,
-      "deaths": 122,
+      "losses": 50,
+      "kills": 68,
+      "deaths": 125,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -3851,6 +3851,27 @@
       "licensed": false
     },
     {
+      "uuid": "eb9d01bd-ccc8-3da5-a17d-d5fdf1aec9b3",
+      "name": "Yoawan",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "1f8d7ae1-ecc4-3cfc-8eec-19296bce398c",
       "name": "Kast737",
       "points": 0,
@@ -3974,7 +3995,7 @@
       "wins": 3,
       "losses": 6,
       "kills": 19,
-      "deaths": 34,
+      "deaths": 35,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
@@ -4079,9 +4100,9 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 24,
+      "wins": 25,
       "losses": 8,
-      "kills": 153,
+      "kills": 156,
       "deaths": 48,
       "bestStreak": 0,
       "kits": {
