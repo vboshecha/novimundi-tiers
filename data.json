@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T16:12:17.840658235Z",
+  "generated": "2026-10-27T16:17:17.838912373Z",
   "tiers": [
     {
       "key": "HT1",
@@ -203,9 +203,9 @@
         "p90_atl": 1000
       },
       "wins": 10,
-      "losses": 42,
-      "kills": 165,
-      "deaths": 128,
+      "losses": 43,
+      "kills": 168,
+      "deaths": 135,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
@@ -1629,10 +1629,10 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 28,
+      "wins": 29,
       "losses": 20,
-      "kills": 280,
-      "deaths": 151,
+      "kills": 289,
+      "deaths": 155,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2273,11 +2273,19 @@
         "p90_atl": 1000
       },
       "wins": 4,
-      "losses": 39,
-      "kills": 23,
-      "deaths": 26,
+      "losses": 40,
+      "kills": 24,
+      "deaths": 28,
       "bestStreak": 1,
-      "kits": {},
+      "kits": {
+        "m1novi": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 1
+        }
+      },
       "licensed": true
     },
     {
@@ -3563,18 +3571,18 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 5,
+      "wins": 6,
       "losses": 8,
-      "kills": 15,
-      "deaths": 27,
-      "bestStreak": 0,
+      "kills": 17,
+      "deaths": 28,
+      "bestStreak": 1,
       "kits": {
         "m1novi": {
           "games": 3,
           "wins": 1,
           "losses": 2,
-          "kills": 3,
-          "deaths": 6
+          "kills": 4,
+          "deaths": 7
         },
         "akm_atl": {
           "games": 1,
@@ -3886,9 +3894,9 @@
         "p90_atl": 1000
       },
       "wins": 3,
-      "losses": 21,
-      "kills": 39,
-      "deaths": 102,
+      "losses": 22,
+      "kills": 44,
+      "deaths": 108,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
