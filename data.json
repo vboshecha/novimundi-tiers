@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T15:12:17.843870265Z",
+  "generated": "2026-10-27T15:17:17.844533632Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1629,10 +1629,10 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 11,
+      "wins": 16,
       "losses": 13,
-      "kills": 182,
-      "deaths": 99,
+      "kills": 192,
+      "deaths": 101,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3863,6 +3863,27 @@
           "deaths": 1
         }
       },
+      "licensed": true
+    },
+    {
+      "uuid": "d810a0ec-d332-3473-ba02-2ae5213e47af",
+      "name": "Tlstygado",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000
+      },
+      "wins": 0,
+      "losses": 5,
+      "kills": 3,
+      "deaths": 12,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": true
     },
     {
