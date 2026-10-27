@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T05:56:28.352665468Z",
+  "generated": "2026-10-27T06:01:28.355210847Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3895,6 +3895,27 @@
       "licensed": false
     },
     {
+      "uuid": "b1ca67e8-22df-3eea-aa20-4317b231c1c5",
+      "name": "SpiritMonroy",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "vintovka": 1000,
+        "p90_atl": 1000,
+        "akm_atl": 1000,
+        "dmr_atl": 1000,
+        "m1novi": 1000,
+        "aug_atl": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "ef16cad9-61a9-361c-bcb4-8c81bb0d6b97",
       "name": "Skyward_",
       "points": 0,
@@ -4015,10 +4036,10 @@
         "m1novi": 1000,
         "aug_atl": 1000
       },
-      "wins": 15,
+      "wins": 16,
       "losses": 3,
-      "kills": 83,
-      "deaths": 22,
+      "kills": 88,
+      "deaths": 23,
       "bestStreak": 0,
       "kits": {
         "p90_atl": {
