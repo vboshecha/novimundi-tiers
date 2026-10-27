@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T10:04:41.142207081Z",
+  "generated": "2026-10-27T10:17:43.144858182Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4658,8 +4658,8 @@
       "kit": "vintovka",
       "tier": "LT5",
       "tester": "_neinteresno1",
-      "ts": 4,
-      "ps": 11
+      "ts": 11,
+      "ps": 4
     },
     {
       "t": "2026-10-26 23:53",
@@ -4667,8 +4667,8 @@
       "kit": "m1novi",
       "tier": "LT4",
       "tester": "_neinteresno1",
-      "ts": 8,
-      "ps": 11
+      "ts": 11,
+      "ps": 8
     },
     {
       "t": "2026-10-26 23:51",
