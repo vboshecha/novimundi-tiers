@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T19:51:07.252761895Z",
+  "generated": "2026-10-27T19:53:32.901547139Z",
   "tiers": [
     {
       "key": "HT1",
@@ -517,9 +517,10 @@
     {
       "uuid": "1826d5a3-e618-35c0-9f5a-5eeed5820bdb",
       "name": "ooooowooo",
-      "points": 25,
+      "points": 35,
       "tiers": {
-        "aug_atl": "HT3"
+        "aug_atl": "HT3",
+        "m1novi": "LT4"
       },
       "elo": {
         "akm_atl": 1000,
@@ -5359,6 +5360,15 @@
     }
   ],
   "history": [
+    {
+      "t": "2026-10-27 14:42",
+      "name": "ooooowooo",
+      "kit": "m1novi",
+      "tier": "LT4",
+      "tester": "_neinteresno1",
+      "ts": 11,
+      "ps": 4
+    },
     {
       "t": "2026-10-27 00:18",
       "name": "Tjoma144",
