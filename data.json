@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T06:11:28.355445264Z",
+  "generated": "2026-10-27T06:16:28.354346363Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1556,6 +1556,27 @@
       "kills": 1,
       "deaths": 1,
       "bestStreak": 1,
+      "kits": {},
+      "licensed": false
+    },
+    {
+      "uuid": "e88c164a-930b-3560-ab1c-cf5974b7b677",
+      "name": "ereksen",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "vintovka": 1000,
+        "p90_atl": 1000,
+        "akm_atl": 1000,
+        "dmr_atl": 1000,
+        "m1novi": 1000,
+        "aug_atl": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 5,
+      "deaths": 7,
+      "bestStreak": 0,
       "kits": {},
       "licensed": false
     },
@@ -3907,10 +3928,10 @@
         "m1novi": 1000,
         "aug_atl": 1000
       },
-      "wins": 0,
+      "wins": 1,
       "losses": 1,
       "kills": 3,
-      "deaths": 7,
+      "deaths": 9,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -4037,9 +4058,9 @@
         "aug_atl": 1000
       },
       "wins": 16,
-      "losses": 3,
-      "kills": 93,
-      "deaths": 27,
+      "losses": 4,
+      "kills": 97,
+      "deaths": 29,
       "bestStreak": 0,
       "kits": {
         "p90_atl": {
