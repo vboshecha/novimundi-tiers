@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T11:54:41.163748289Z",
+  "generated": "2026-10-27T11:59:41.188305617Z",
   "tiers": [
     {
       "key": "HT1",
@@ -503,9 +503,9 @@
         "p90_atl": 1000
       },
       "wins": 21,
-      "losses": 254,
-      "kills": 318,
-      "deaths": 486,
+      "losses": 255,
+      "kills": 336,
+      "deaths": 512,
       "bestStreak": 4,
       "kits": {
         "vintovka": {
@@ -705,10 +705,10 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 197,
+      "wins": 198,
       "losses": 559,
-      "kills": 887,
-      "deaths": 643,
+      "kills": 913,
+      "deaths": 661,
       "bestStreak": 17,
       "kits": {
         "vintovka": {
@@ -1165,9 +1165,9 @@
         "p90_atl": 1000
       },
       "wins": 6,
-      "losses": 50,
+      "losses": 51,
       "kills": 68,
-      "deaths": 125,
+      "deaths": 128,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -3864,9 +3864,9 @@
         "p90_atl": 1000
       },
       "wins": 1,
-      "losses": 1,
-      "kills": 1,
-      "deaths": 2,
+      "losses": 2,
+      "kills": 5,
+      "deaths": 3,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -3992,10 +3992,10 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 3,
+      "wins": 4,
       "losses": 6,
       "kills": 19,
-      "deaths": 35,
+      "deaths": 37,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
@@ -4100,10 +4100,10 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 25,
+      "wins": 26,
       "losses": 8,
-      "kills": 156,
-      "deaths": 48,
+      "kills": 161,
+      "deaths": 50,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
