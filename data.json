@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T11:39:41.165694554Z",
+  "generated": "2026-10-27T11:44:41.146647677Z",
   "tiers": [
     {
       "key": "HT1",
@@ -502,10 +502,10 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 19,
-      "losses": 250,
-      "kills": 315,
-      "deaths": 478,
+      "wins": 20,
+      "losses": 252,
+      "kills": 317,
+      "deaths": 484,
       "bestStreak": 4,
       "kits": {
         "vintovka": {
@@ -516,11 +516,11 @@
           "deaths": 22
         },
         "m1novi": {
-          "games": 13,
-          "wins": 3,
-          "losses": 10,
-          "kills": 44,
-          "deaths": 86
+          "games": 16,
+          "wins": 4,
+          "losses": 12,
+          "kills": 46,
+          "deaths": 92
         },
         "aug_atl": {
           "games": 5,
@@ -705,10 +705,10 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 194,
-      "losses": 557,
-      "kills": 884,
-      "deaths": 641,
+      "wins": 195,
+      "losses": 558,
+      "kills": 885,
+      "deaths": 642,
       "bestStreak": 17,
       "kits": {
         "vintovka": {
@@ -719,11 +719,11 @@
           "deaths": 119
         },
         "m1novi": {
-          "games": 18,
-          "wins": 8,
-          "losses": 10,
-          "kills": 25,
-          "deaths": 27
+          "games": 20,
+          "wins": 9,
+          "losses": 11,
+          "kills": 26,
+          "deaths": 28
         },
         "akm_atl": {
           "games": 11,
@@ -776,10 +776,10 @@
         "dmr_atl": 1000,
         "p90_atl": 1000
       },
-      "wins": 11,
+      "wins": 12,
       "losses": 86,
-      "kills": 169,
-      "deaths": 182,
+      "kills": 174,
+      "deaths": 183,
       "bestStreak": 5,
       "kits": {
         "vintovka": {
@@ -790,11 +790,11 @@
           "deaths": 47
         },
         "m1novi": {
-          "games": 5,
-          "wins": 5,
+          "games": 6,
+          "wins": 6,
           "losses": 0,
-          "kills": 61,
-          "deaths": 42
+          "kills": 66,
+          "deaths": 43
         },
         "aug_atl": {
           "games": 11,
