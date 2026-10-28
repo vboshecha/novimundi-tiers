@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-28T09:39:59.206381054Z",
+  "generated": "2026-10-28T09:44:59.202747610Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1531,10 +1531,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 4,
-      "losses": 12,
-      "kills": 17,
-      "deaths": 30,
+      "wins": 5,
+      "losses": 13,
+      "kills": 26,
+      "deaths": 44,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1545,11 +1545,11 @@
           "deaths": 2
         },
         "vintovka": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 1
+          "losses": 2,
+          "kills": 9,
+          "deaths": 14
         },
         "tournament": {
           "games": 3,
@@ -3431,10 +3431,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 17,
+      "wins": 19,
       "losses": 7,
-      "kills": 39,
-      "deaths": 34,
+      "kills": 49,
+      "deaths": 41,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3445,11 +3445,11 @@
           "deaths": 4
         },
         "vintovka": {
-          "games": 1,
-          "wins": 1,
+          "games": 2,
+          "wins": 2,
           "losses": 0,
-          "kills": 1,
-          "deaths": 0
+          "kills": 10,
+          "deaths": 7
         },
         "tournament": {
           "games": 7,
@@ -4592,10 +4592,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 7,
-      "losses": 4,
-      "kills": 27,
-      "deaths": 17,
+      "wins": 8,
+      "losses": 5,
+      "kills": 35,
+      "deaths": 23,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4604,6 +4604,13 @@
           "losses": 0,
           "kills": 4,
           "deaths": 0
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 7,
+          "deaths": 5
         },
         "tournament": {
           "games": 5,
