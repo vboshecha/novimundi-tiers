@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-28T12:14:59.241190841Z",
+  "generated": "2026-10-28T12:19:59.230637002Z",
   "tiers": [
     {
       "key": "HT1",
@@ -217,9 +217,9 @@
         "tournament": 1000
       },
       "wins": 10,
-      "losses": 43,
-      "kills": 168,
-      "deaths": 135,
+      "losses": 44,
+      "kills": 169,
+      "deaths": 137,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1619,10 +1619,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
-      "losses": 5,
+      "wins": 2,
+      "losses": 7,
       "kills": 22,
-      "deaths": 23,
+      "deaths": 28,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1819,9 +1819,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 31,
+      "wins": 34,
       "losses": 20,
-      "kills": 291,
+      "kills": 297,
       "deaths": 155,
       "bestStreak": 0,
       "kits": {
@@ -2891,10 +2891,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 17,
+      "wins": 18,
       "losses": 28,
-      "kills": 131,
-      "deaths": 28,
+      "kills": 136,
+      "deaths": 29,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -3032,10 +3032,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 4,
+      "wins": 5,
       "losses": 4,
-      "kills": 9,
-      "deaths": 30,
+      "kills": 10,
+      "deaths": 34,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -4284,9 +4284,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 36,
+      "losses": 37,
       "kills": 11,
-      "deaths": 56,
+      "deaths": 60,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
@@ -4927,9 +4927,9 @@
         "tournament": 1000
       },
       "wins": 42,
-      "losses": 20,
-      "kills": 286,
-      "deaths": 124,
+      "losses": 21,
+      "kills": 290,
+      "deaths": 125,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
