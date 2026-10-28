@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-27T20:04:59.195261613Z",
+  "generated": "2026-10-28T08:14:59.248748918Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2591,6 +2591,36 @@
       "licensed": false
     },
     {
+      "uuid": "a1ae4ad7-4c1d-3fca-a544-f4ba41b0f894",
+      "name": "ExtraETA",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 3
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "4115e990-861f-3779-bd36-b13aabf53c6d",
       "name": "koffe__",
       "points": 0,
@@ -4749,9 +4779,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 27,
+      "wins": 28,
       "losses": 12,
-      "kills": 179,
+      "kills": 182,
       "deaths": 61,
       "bestStreak": 0,
       "kits": {
@@ -4791,10 +4821,10 @@
           "deaths": 4
         },
         "tournament": {
-          "games": 19,
-          "wins": 13,
+          "games": 20,
+          "wins": 14,
           "losses": 6,
-          "kills": 108,
+          "kills": 111,
           "deaths": 41
         }
       },
