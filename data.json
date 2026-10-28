@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-28T11:04:59.198154457Z",
+  "generated": "2026-10-28T11:19:59.198446122Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2883,7 +2883,7 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 11,
+      "wins": 12,
       "losses": 25,
       "kills": 89,
       "deaths": 16,
@@ -3008,6 +3008,28 @@
           "deaths": 5
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "491ac7cf-78de-312f-856d-ab179c938845",
+      "name": "murgleys123",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
