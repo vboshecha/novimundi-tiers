@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-29T20:06:36.166206215Z",
+  "generated": "2026-10-29T20:11:03.121558445Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1514,6 +1514,43 @@
       "licensed": false
     },
     {
+      "uuid": "12d20174-5e16-32e8-b58c-41d1389b43b2",
+      "name": "fufelsmirts",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 9,
+      "losses": 10,
+      "kills": 73,
+      "deaths": 97,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 4,
+          "wins": 4,
+          "losses": 0,
+          "kills": 40,
+          "deaths": 33
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 3
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "c8cc6f81-ccae-3a49-9329-fdd34bea7496",
       "name": "DoraMur",
       "points": 0,
@@ -1560,43 +1597,6 @@
           "losses": 0,
           "kills": 2,
           "deaths": 1
-        }
-      },
-      "licensed": false
-    },
-    {
-      "uuid": "12d20174-5e16-32e8-b58c-41d1389b43b2",
-      "name": "fufelsmirts",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 9,
-      "losses": 10,
-      "kills": 73,
-      "deaths": 97,
-      "bestStreak": 0,
-      "kits": {
-        "akm_atl": {
-          "games": 4,
-          "wins": 4,
-          "losses": 0,
-          "kills": 40,
-          "deaths": 33
-        },
-        "aug_atl": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 3
         }
       },
       "licensed": false
@@ -3439,36 +3439,6 @@
       "licensed": false
     },
     {
-      "uuid": "39930a3a-283c-3a76-99f1-4c915076f221",
-      "name": "Abdusek",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 0,
-      "losses": 1,
-      "kills": 22,
-      "deaths": 16,
-      "bestStreak": 0,
-      "kits": {
-        "akm_atl": {
-          "games": 1,
-          "wins": 0,
-          "losses": 0,
-          "kills": 22,
-          "deaths": 16
-        }
-      },
-      "licensed": false
-    },
-    {
       "uuid": "b1ca67e8-22df-3eea-aa20-4317b231c1c5",
       "name": "SpiritMonroy",
       "points": 0,
@@ -3515,6 +3485,36 @@
           "losses": 3,
           "kills": 6,
           "deaths": 19
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "39930a3a-283c-3a76-99f1-4c915076f221",
+      "name": "Abdusek",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 22,
+      "deaths": 16,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 0,
+          "kills": 22,
+          "deaths": 16
         }
       },
       "licensed": false
@@ -3844,28 +3844,6 @@
       "licensed": true
     },
     {
-      "uuid": "a626671b-0564-3340-a526-465c44ae2a21",
-      "name": "LoPPste",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 1,
-      "losses": 23,
-      "kills": 10,
-      "deaths": 13,
-      "bestStreak": 0,
-      "kits": {},
-      "licensed": false
-    },
-    {
       "uuid": "ec0fb58a-32e1-3227-b7c4-45a745b41878",
       "name": "ezkanome",
       "points": 0,
@@ -3907,6 +3885,28 @@
           "deaths": 6
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "a626671b-0564-3340-a526-465c44ae2a21",
+      "name": "LoPPste",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 23,
+      "kills": 10,
+      "deaths": 13,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -5016,6 +5016,28 @@
       "licensed": false
     },
     {
+      "uuid": "cddc81e9-de80-363a-9f27-fc0c06eb9e36",
+      "name": "Imperator_Mira",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 4,
+      "kills": 0,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
+    },
+    {
       "uuid": "59550168-703e-3f0a-a292-ceb9d42a8a71",
       "name": "Mr_CrabsOn2",
       "points": 0,
@@ -5051,28 +5073,6 @@
         }
       },
       "licensed": false
-    },
-    {
-      "uuid": "cddc81e9-de80-363a-9f27-fc0c06eb9e36",
-      "name": "Imperator_Mira",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 0,
-      "losses": 4,
-      "kills": 0,
-      "deaths": 5,
-      "bestStreak": 0,
-      "kits": {},
-      "licensed": true
     },
     {
       "uuid": "464a029c-2924-3bb8-b2ac-acd4c8cc8383",
