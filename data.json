@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-29T21:01:02.103887484Z",
+  "generated": "2026-10-29T21:06:02.103773347Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2509,8 +2509,8 @@
       },
       "wins": 5,
       "losses": 14,
-      "kills": 77,
-      "deaths": 101,
+      "kills": 80,
+      "deaths": 105,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3991,8 +3991,8 @@
       },
       "wins": 3,
       "losses": 2,
-      "kills": 30,
-      "deaths": 22,
+      "kills": 34,
+      "deaths": 25,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -4912,18 +4912,18 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 33,
+      "wins": 34,
       "losses": 36,
-      "kills": 278,
-      "deaths": 224,
+      "kills": 289,
+      "deaths": 229,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
           "games": 6,
           "wins": 4,
           "losses": 2,
-          "kills": 17,
-          "deaths": 7
+          "kills": 25,
+          "deaths": 11
         },
         "aug_atl": {
           "games": 9,
@@ -5669,17 +5669,17 @@
         "tournament": 1000
       },
       "wins": 29,
-      "losses": 32,
-      "kills": 296,
-      "deaths": 193,
+      "losses": 33,
+      "kills": 306,
+      "deaths": 200,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
           "games": 5,
           "wins": 2,
           "losses": 3,
-          "kills": 11,
-          "deaths": 8
+          "kills": 19,
+          "deaths": 13
         },
         "aug_atl": {
           "games": 8,
@@ -5925,17 +5925,17 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 2,
-      "kills": 0,
-      "deaths": 5,
+      "losses": 3,
+      "kills": 2,
+      "deaths": 16,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
           "games": 1,
           "wins": 0,
           "losses": 1,
-          "kills": 0,
-          "deaths": 1
+          "kills": 2,
+          "deaths": 10
         },
         "aug_atl": {
           "games": 1,
