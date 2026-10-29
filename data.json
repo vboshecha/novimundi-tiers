@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-29T20:11:03.121558445Z",
+  "generated": "2026-10-29T20:16:02.101847172Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2684,9 +2684,9 @@
         "tournament": 1000
       },
       "wins": 10,
-      "losses": 10,
-      "kills": 47,
-      "deaths": 72,
+      "losses": 11,
+      "kills": 48,
+      "deaths": 75,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2711,11 +2711,11 @@
           "deaths": 4
         },
         "vintovka": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 3
+          "losses": 2,
+          "kills": 1,
+          "deaths": 5
         }
       },
       "licensed": true
@@ -4906,9 +4906,9 @@
         "tournament": 1000
       },
       "wins": 24,
-      "losses": 32,
-      "kills": 215,
-      "deaths": 178,
+      "losses": 33,
+      "kills": 217,
+      "deaths": 181,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4940,11 +4940,11 @@
           "deaths": 7
         },
         "vintovka": {
-          "games": 8,
+          "games": 9,
           "wins": 3,
-          "losses": 5,
-          "kills": 35,
-          "deaths": 26
+          "losses": 6,
+          "kills": 36,
+          "deaths": 29
         },
         "m1novi": {
           "games": 2,
@@ -5661,10 +5661,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 26,
+      "wins": 27,
       "losses": 23,
-      "kills": 243,
-      "deaths": 145,
+      "kills": 247,
+      "deaths": 146,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5696,11 +5696,11 @@
           "deaths": 7
         },
         "vintovka": {
-          "games": 7,
-          "wins": 3,
+          "games": 8,
+          "wins": 4,
           "losses": 4,
-          "kills": 30,
-          "deaths": 25
+          "kills": 34,
+          "deaths": 26
         },
         "m1novi": {
           "games": 1,
