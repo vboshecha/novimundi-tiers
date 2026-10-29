@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-29T21:51:02.095540970Z",
+  "generated": "2026-10-29T22:01:02.092244190Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2507,10 +2507,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 8,
+      "wins": 9,
       "losses": 18,
-      "kills": 126,
-      "deaths": 147,
+      "kills": 142,
+      "deaths": 162,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3997,9 +3997,9 @@
         "tournament": 1000
       },
       "wins": 7,
-      "losses": 5,
-      "kills": 76,
-      "deaths": 71,
+      "losses": 6,
+      "kills": 91,
+      "deaths": 87,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
