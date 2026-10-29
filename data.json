@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-29T14:21:36.163887701Z",
+  "generated": "2026-10-29T14:26:36.168680031Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4932,6 +4932,43 @@
       "licensed": false
     },
     {
+      "uuid": "5ad57268-cba4-3d05-a6f8-4e77a69bbdc6",
+      "name": "papavamnemama",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 3
+        },
+        "m1novi": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 2
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "f873fe2b-c1ab-3e46-88e0-7609e8d77c44",
       "name": "LOLIsodiks",
       "points": 0,
@@ -5991,6 +6028,43 @@
           "losses": 0,
           "kills": 2,
           "deaths": 2
+        }
+      },
+      "licensed": true
+    },
+    {
+      "uuid": "2e30ed34-3050-3a16-915a-ebf38e9e2f8f",
+      "name": "kolpack",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 5,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 0
+        },
+        "m1novi": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 1
         }
       },
       "licensed": true
