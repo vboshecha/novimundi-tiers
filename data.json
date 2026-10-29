@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-29T14:18:35.469504924Z",
+  "generated": "2026-10-29T14:21:36.163887701Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1241,6 +1241,43 @@
       "licensed": false
     },
     {
+      "uuid": "9244dce8-4614-318d-950f-36ea3f0b8bde",
+      "name": "vb_pidaras",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 9,
+      "kills": 0,
+      "deaths": 8,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "25b18d3e-a63d-3863-a806-36e57a745343",
       "name": "travakas",
       "points": 0,
@@ -1304,43 +1341,6 @@
         }
       },
       "licensed": true
-    },
-    {
-      "uuid": "9244dce8-4614-318d-950f-36ea3f0b8bde",
-      "name": "vb_pidaras",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 0,
-      "losses": 9,
-      "kills": 0,
-      "deaths": 8,
-      "bestStreak": 0,
-      "kits": {
-        "vintovka": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 1
-        },
-        "m1novi": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 1
-        }
-      },
-      "licensed": false
     },
     {
       "uuid": "8430c954-7833-3433-8211-27cc0e386c8a",
@@ -1916,10 +1916,17 @@
       },
       "wins": 11,
       "losses": 0,
-      "kills": 12,
-      "deaths": 2,
+      "kills": 13,
+      "deaths": 4,
       "bestStreak": 6,
       "kits": {
+        "dmr_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 2
+        },
         "vintovka": {
           "games": 3,
           "wins": 3,
@@ -2188,6 +2195,43 @@
       "licensed": false
     },
     {
+      "uuid": "af322c0e-3a80-383c-9848-b4c3465f316d",
+      "name": "H1DeZsMY",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 2,
+      "kills": 22,
+      "deaths": 16,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 1
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "d4eba121-372c-3703-b8fb-2644443a7f59",
       "name": "squalo",
       "points": 0,
@@ -2230,36 +2274,6 @@
         }
       },
       "licensed": true
-    },
-    {
-      "uuid": "af322c0e-3a80-383c-9848-b4c3465f316d",
-      "name": "H1DeZsMY",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 1,
-      "losses": 2,
-      "kills": 20,
-      "deaths": 15,
-      "bestStreak": 0,
-      "kits": {
-        "vintovka": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 1
-        }
-      },
-      "licensed": false
     },
     {
       "uuid": "742fcaa0-74bd-3842-946d-5cb6e8e47774",
