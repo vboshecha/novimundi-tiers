@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-29T13:33:35.460623677Z",
+  "generated": "2026-10-29T13:53:35.463341202Z",
   "tiers": [
     {
       "key": "HT1",
@@ -746,9 +746,9 @@
         "tournament": 1000
       },
       "wins": 215,
-      "losses": 565,
-      "kills": 998,
-      "deaths": 711,
+      "losses": 566,
+      "kills": 1000,
+      "deaths": 714,
       "bestStreak": 17,
       "kits": {
         "akm_atl": {
@@ -780,11 +780,11 @@
           "deaths": 21
         },
         "vintovka": {
-          "games": 134,
+          "games": 135,
           "wins": 92,
-          "losses": 42,
-          "kills": 208,
-          "deaths": 119
+          "losses": 43,
+          "kills": 210,
+          "deaths": 122
         },
         "m1novi": {
           "games": 26,
@@ -1859,6 +1859,36 @@
           "losses": 0,
           "kills": 8,
           "deaths": 10
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "c1674712-8767-3cdc-a481-960cb19c1af5",
+      "name": "Apulazee_",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 3,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 2
         }
       },
       "licensed": false
