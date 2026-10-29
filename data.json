@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-29T13:53:35.463341202Z",
+  "generated": "2026-10-29T14:03:35.458355426Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1306,6 +1306,36 @@
       "licensed": true
     },
     {
+      "uuid": "9244dce8-4614-318d-950f-36ea3f0b8bde",
+      "name": "vb_pidaras",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 0,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "8430c954-7833-3433-8211-27cc0e386c8a",
       "name": "shamil_killerrr",
       "points": 0,
@@ -1877,17 +1907,17 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
+      "wins": 3,
       "losses": 0,
-      "kills": 3,
+      "kills": 4,
       "deaths": 2,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
-          "games": 1,
-          "wins": 1,
+          "games": 2,
+          "wins": 2,
           "losses": 0,
-          "kills": 3,
+          "kills": 4,
           "deaths": 2
         }
       },
