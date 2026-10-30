@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-30T16:18:00.708100967Z",
+  "generated": "2026-10-30T16:23:00.703134302Z",
   "tiers": [
     {
       "key": "HT1",
@@ -824,10 +824,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 24,
+      "wins": 25,
       "losses": 88,
-      "kills": 306,
-      "deaths": 248,
+      "kills": 315,
+      "deaths": 251,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
@@ -852,11 +852,11 @@
           "deaths": 19
         },
         "vintovka": {
-          "games": 7,
-          "wins": 4,
+          "games": 8,
+          "wins": 5,
           "losses": 3,
-          "kills": 54,
-          "deaths": 51
+          "kills": 63,
+          "deaths": 54
         },
         "m1novi": {
           "games": 6,
@@ -3745,6 +3745,36 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "c50fac1b-c11f-3ced-ab9e-e009c914dcbb",
+      "name": "eLforde",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 7,
+      "deaths": 11,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 7,
+          "deaths": 11
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "c86e95bc-1ca0-30ec-b497-2ff0db9e2187",
