@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-30T16:23:00.703134302Z",
+  "generated": "2026-10-30T17:18:00.707224401Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2543,9 +2543,9 @@
         "tournament": 1000
       },
       "wins": 9,
-      "losses": 18,
-      "kills": 142,
-      "deaths": 162,
+      "losses": 19,
+      "kills": 160,
+      "deaths": 183,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4702,6 +4702,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "bbcda17d-adee-3d67-90a4-489489a96295",
+      "name": "solgame_noob",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 21,
+      "deaths": 18,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "8d671a12-b695-372e-9756-08d37aec569f",
