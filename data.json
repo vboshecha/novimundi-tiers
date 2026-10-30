@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-30T21:43:00.701548490Z",
+  "generated": "2026-10-30T22:13:00.703084024Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1137,6 +1137,36 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "60041797-8374-3c01-b4b4-38565db7b7b3",
+      "name": "Stalker228_002",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 3,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 2,
+          "wins": 1,
+          "losses": 1,
+          "kills": 3,
+          "deaths": 2
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "01db69b3-d27a-3ff1-8aeb-0171209070ec",
@@ -4754,10 +4784,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 6,
-      "losses": 4,
-      "kills": 16,
-      "deaths": 10,
+      "wins": 7,
+      "losses": 5,
+      "kills": 18,
+      "deaths": 13,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4768,11 +4798,11 @@
           "deaths": 0
         },
         "m1novi": {
-          "games": 2,
-          "wins": 2,
-          "losses": 0,
-          "kills": 5,
-          "deaths": 3
+          "games": 4,
+          "wins": 3,
+          "losses": 1,
+          "kills": 7,
+          "deaths": 6
         },
         "tournament": {
           "games": 4,
