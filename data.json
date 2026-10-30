@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-30T12:57:51.938795630Z",
+  "generated": "2026-10-30T13:32:57.427088646Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3002,6 +3002,57 @@
       "licensed": false
     },
     {
+      "uuid": "5f1cf247-43ca-3d51-83cc-0e05b9a48d06",
+      "name": "koffe_",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 4,
+      "losses": 2,
+      "kills": 28,
+      "deaths": 45,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 7,
+          "deaths": 12
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 4,
+          "deaths": 7
+        },
+        "dmr_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 2
+        },
+        "p90_atl": {
+          "games": 2,
+          "wins": 1,
+          "losses": 1,
+          "kills": 12,
+          "deaths": 13
+        }
+      },
+      "licensed": true
+    },
+    {
       "uuid": "5e3b12e0-8b30-3b00-9c06-2ebbe06a3297",
       "name": "I_FeiKQ",
       "points": 0,
@@ -3066,57 +3117,6 @@
       "bestStreak": 0,
       "kits": {},
       "licensed": false
-    },
-    {
-      "uuid": "5f1cf247-43ca-3d51-83cc-0e05b9a48d06",
-      "name": "koffe_",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 4,
-      "losses": 2,
-      "kills": 28,
-      "deaths": 45,
-      "bestStreak": 0,
-      "kits": {
-        "akm_atl": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 7,
-          "deaths": 12
-        },
-        "aug_atl": {
-          "games": 1,
-          "wins": 1,
-          "losses": 0,
-          "kills": 4,
-          "deaths": 7
-        },
-        "dmr_atl": {
-          "games": 1,
-          "wins": 1,
-          "losses": 0,
-          "kills": 0,
-          "deaths": 2
-        },
-        "p90_atl": {
-          "games": 2,
-          "wins": 1,
-          "losses": 1,
-          "kills": 12,
-          "deaths": 13
-        }
-      },
-      "licensed": true
     },
     {
       "uuid": "9016d0fe-6789-361d-82a3-a36655284d20",
