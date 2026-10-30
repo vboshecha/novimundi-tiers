@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-30T05:16:08.196230998Z",
+  "generated": "2026-10-30T05:21:08.195866573Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1616,24 +1616,24 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 2,
-      "kills": 3,
-      "deaths": 12,
+      "losses": 5,
+      "kills": 4,
+      "deaths": 16,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 0,
-          "wins": 0,
-          "losses": 0,
-          "kills": 1,
-          "deaths": 2
-        },
-        "p90_atl": {
           "games": 1,
           "wins": 0,
           "losses": 1,
+          "kills": 2,
+          "deaths": 3
+        },
+        "p90_atl": {
+          "games": 2,
+          "wins": 0,
+          "losses": 2,
           "kills": 0,
-          "deaths": 2
+          "deaths": 4
         }
       },
       "licensed": true
@@ -5137,6 +5137,43 @@
       "deaths": 1,
       "bestStreak": 0,
       "kits": {},
+      "licensed": true
+    },
+    {
+      "uuid": "88311584-478f-3c08-b772-8f9aa2bbb7e3",
+      "name": "Chezee",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 3,
+      "losses": 0,
+      "kills": 6,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 2
+        },
+        "p90_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 0
+        }
+      },
       "licensed": true
     },
     {
