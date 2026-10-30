@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-30T23:18:00.708807428Z",
+  "generated": "2026-10-30T23:23:00.708849188Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1153,9 +1153,9 @@
         "tournament": 1000
       },
       "wins": 4,
-      "losses": 5,
+      "losses": 6,
       "kills": 7,
-      "deaths": 8,
+      "deaths": 10,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -4798,9 +4798,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 11,
+      "wins": 12,
       "losses": 8,
-      "kills": 24,
+      "kills": 26,
       "deaths": 17,
       "bestStreak": 0,
       "kits": {
