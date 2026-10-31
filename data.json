@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-31T11:37:53.148300929Z",
+  "generated": "2026-10-31T14:52:53.037721744Z",
   "tiers": [
     {
       "key": "HT1",
@@ -825,9 +825,9 @@
         "tournament": 1000
       },
       "wins": 25,
-      "losses": 88,
-      "kills": 315,
-      "deaths": 251,
+      "losses": 89,
+      "kills": 338,
+      "deaths": 267,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
@@ -2818,10 +2818,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 21,
+      "wins": 22,
       "losses": 23,
-      "kills": 314,
-      "deaths": 279,
+      "kills": 342,
+      "deaths": 297,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4948,6 +4948,28 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "34de8235-aea5-3ce9-b2f8-01f1c1729bef",
+      "name": "lifeisstrange",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 7,
+      "deaths": 24,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
     },
     {
       "uuid": "c4ca884c-6e4a-33aa-b27a-00d8802d5edd",
