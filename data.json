@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-31T08:18:07.758471976Z",
+  "generated": "2026-10-31T09:33:07.756941717Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5097,6 +5097,36 @@
       "licensed": false
     },
     {
+      "uuid": "b7f80e62-4240-3863-bfd3-12b418e64b00",
+      "name": "dlyanedvig",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 26,
+      "deaths": 10,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 26,
+          "deaths": 10
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "f76af8eb-bdf2-3873-b166-4b48935cb049",
       "name": "Avixosukafi",
       "points": 0,
@@ -5337,6 +5367,36 @@
       "bestStreak": 0,
       "kits": {},
       "licensed": true
+    },
+    {
+      "uuid": "b7d62934-b4b3-38ba-82c3-36571fa634b3",
+      "name": "geimer675",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 7,
+      "deaths": 13,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 0,
+          "kills": 7,
+          "deaths": 13
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "84ef40c5-cba6-31de-a236-642d23c92cee",
@@ -6980,17 +7040,17 @@
         "tournament": 1000
       },
       "wins": 29,
-      "losses": 17,
-      "kills": 270,
-      "deaths": 213,
+      "losses": 18,
+      "kills": 279,
+      "deaths": 232,
       "bestStreak": 8,
       "kits": {
         "akm_atl": {
-          "games": 2,
+          "games": 3,
           "wins": 0,
           "losses": 2,
-          "kills": 9,
-          "deaths": 7
+          "kills": 18,
+          "deaths": 26
         },
         "dmr_atl": {
           "games": 2,
