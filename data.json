@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-31T09:58:07.795510300Z",
+  "generated": "2026-10-31T10:03:07.791240344Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1312,10 +1312,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 9,
+      "wins": 11,
       "losses": 4,
-      "kills": 36,
-      "deaths": 18,
+      "kills": 41,
+      "deaths": 19,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1333,6 +1333,13 @@
           "deaths": 2
         },
         "vintovka": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 4,
+          "deaths": 1
+        },
+        "tournament": {
           "games": 1,
           "wins": 1,
           "losses": 0,
@@ -5162,10 +5169,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 21,
-      "losses": 11,
-      "kills": 50,
-      "deaths": 37,
+      "wins": 22,
+      "losses": 12,
+      "kills": 52,
+      "deaths": 40,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5211,11 +5218,11 @@
           "deaths": 1
         },
         "tournament": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 1
+          "losses": 2,
+          "kills": 1,
+          "deaths": 3
         }
       },
       "licensed": false
@@ -5300,6 +5307,36 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "ee38260a-698c-30d0-88cc-a5daa40c3f2c",
+      "name": "erogchik70",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 1,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 2
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "aa438bef-5247-3602-a133-01bf51924194",
@@ -6138,9 +6175,9 @@
         "tournament": 1000
       },
       "wins": 13,
-      "losses": 26,
-      "kills": 50,
-      "deaths": 50,
+      "losses": 28,
+      "kills": 53,
+      "deaths": 54,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -6186,11 +6223,11 @@
           "deaths": 7
         },
         "tournament": {
-          "games": 5,
+          "games": 6,
           "wins": 3,
-          "losses": 2,
-          "kills": 14,
-          "deaths": 6
+          "losses": 3,
+          "kills": 16,
+          "deaths": 8
         }
       },
       "licensed": true
