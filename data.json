@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-31T08:13:00.707042600Z",
+  "generated": "2026-10-31T08:18:07.758471976Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1511,9 +1511,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 8,
+      "wins": 10,
       "losses": 27,
-      "kills": 26,
+      "kills": 29,
       "deaths": 32,
       "bestStreak": 0,
       "kits": {
@@ -2082,9 +2082,9 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 5,
+      "losses": 7,
       "kills": 3,
-      "deaths": 9,
+      "deaths": 12,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5097,6 +5097,28 @@
       "licensed": false
     },
     {
+      "uuid": "f76af8eb-bdf2-3873-b166-4b48935cb049",
+      "name": "Avixosukafi",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 28,
+      "deaths": 26,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "742fcaa0-74bd-3842-946d-5cb6e8e47774",
       "name": "TrollGamer_20",
       "points": 0,
@@ -5138,28 +5160,6 @@
           "deaths": 1
         }
       },
-      "licensed": false
-    },
-    {
-      "uuid": "f76af8eb-bdf2-3873-b166-4b48935cb049",
-      "name": "Avixosukafi",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 0,
-      "losses": 1,
-      "kills": 28,
-      "deaths": 26,
-      "bestStreak": 0,
-      "kits": {},
       "licensed": false
     },
     {
