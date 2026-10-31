@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-10-31T10:53:07.858651222Z",
+  "generated": "2026-10-31T10:56:10.910370435Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1082,7 +1082,7 @@
       },
       "wins": 34,
       "losses": 219,
-      "kills": 377,
+      "kills": 378,
       "deaths": 441,
       "bestStreak": 2,
       "kits": {
@@ -1315,7 +1315,7 @@
       "wins": 18,
       "losses": 8,
       "kills": 76,
-      "deaths": 39,
+      "deaths": 40,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1344,7 +1344,7 @@
           "wins": 4,
           "losses": 2,
           "kills": 19,
-          "deaths": 10
+          "deaths": 11
         }
       },
       "licensed": false
@@ -4506,7 +4506,7 @@
       },
       "wins": 17,
       "losses": 60,
-      "kills": 107,
+      "kills": 108,
       "deaths": 198,
       "bestStreak": 0,
       "kits": {
@@ -5141,28 +5141,6 @@
       "licensed": false
     },
     {
-      "uuid": "f76af8eb-bdf2-3873-b166-4b48935cb049",
-      "name": "Avixosukafi",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 0,
-      "losses": 1,
-      "kills": 28,
-      "deaths": 26,
-      "bestStreak": 0,
-      "kits": {},
-      "licensed": false
-    },
-    {
       "uuid": "742fcaa0-74bd-3842-946d-5cb6e8e47774",
       "name": "TrollGamer_20",
       "points": 0,
@@ -5178,7 +5156,7 @@
       },
       "wins": 29,
       "losses": 16,
-      "kills": 92,
+      "kills": 93,
       "deaths": 61,
       "bestStreak": 0,
       "kits": {
@@ -5228,10 +5206,32 @@
           "games": 7,
           "wins": 3,
           "losses": 4,
-          "kills": 17,
+          "kills": 18,
           "deaths": 10
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "f76af8eb-bdf2-3873-b166-4b48935cb049",
+      "name": "Avixosukafi",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 28,
+      "deaths": 26,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -5435,7 +5435,7 @@
       "wins": 0,
       "losses": 1,
       "kills": 7,
-      "deaths": 6,
+      "deaths": 7,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -5478,8 +5478,8 @@
       },
       "wins": 0,
       "losses": 7,
-      "kills": 34,
-      "deaths": 82,
+      "kills": 35,
+      "deaths": 83,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -6153,50 +6153,6 @@
       "licensed": true
     },
     {
-      "uuid": "361ceced-c822-3172-9a78-9a9d28d6d021",
-      "name": "matveykaa1",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 3,
-      "losses": 7,
-      "kills": 35,
-      "deaths": 41,
-      "bestStreak": 0,
-      "kits": {
-        "p90_atl": {
-          "games": 1,
-          "wins": 1,
-          "losses": 0,
-          "kills": 0,
-          "deaths": 1
-        },
-        "m1novi": {
-          "games": 3,
-          "wins": 0,
-          "losses": 3,
-          "kills": 18,
-          "deaths": 16
-        },
-        "tournament": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 3
-        }
-      },
-      "licensed": true
-    },
-    {
       "uuid": "9db4f94b-a9e4-3398-8170-4bb500dced29",
       "name": "Egor70",
       "points": 0,
@@ -6264,6 +6220,50 @@
           "losses": 7,
           "kills": 20,
           "deaths": 22
+        }
+      },
+      "licensed": true
+    },
+    {
+      "uuid": "361ceced-c822-3172-9a78-9a9d28d6d021",
+      "name": "matveykaa1",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 3,
+      "losses": 7,
+      "kills": 35,
+      "deaths": 41,
+      "bestStreak": 0,
+      "kits": {
+        "p90_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        },
+        "m1novi": {
+          "games": 3,
+          "wins": 0,
+          "losses": 3,
+          "kills": 18,
+          "deaths": 16
+        },
+        "tournament": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 3
         }
       },
       "licensed": true
@@ -7164,7 +7164,7 @@
       "wins": 36,
       "losses": 22,
       "kills": 349,
-      "deaths": 282,
+      "deaths": 283,
       "bestStreak": 12,
       "kits": {
         "akm_atl": {
