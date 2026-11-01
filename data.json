@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-01T06:42:53.033391142Z",
+  "generated": "2026-11-01T07:12:53.035115992Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1194,6 +1194,28 @@
           "deaths": 1
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "f3fefb06-1e5a-346a-a12c-6d1cc9090ff5",
+      "name": "wwwwwteam",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -5044,9 +5066,9 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 29,
+      "losses": 30,
       "kills": 7,
-      "deaths": 105,
+      "deaths": 106,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -7206,8 +7228,8 @@
         "tournament": 1000
       },
       "wins": 40,
-      "losses": 34,
-      "kills": 370,
+      "losses": 36,
+      "kills": 372,
       "deaths": 293,
       "bestStreak": 14,
       "kits": {
