@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-01T08:52:53.052058641Z",
+  "generated": "2026-11-01T08:57:53.055998688Z",
   "tiers": [
     {
       "key": "HT1",
@@ -216,10 +216,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 20,
+      "wins": 21,
       "losses": 48,
-      "kills": 284,
-      "deaths": 212,
+      "kills": 294,
+      "deaths": 215,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1651,9 +1651,9 @@
         "tournament": 1000
       },
       "wins": 11,
-      "losses": 14,
+      "losses": 15,
       "kills": 90,
-      "deaths": 130,
+      "deaths": 132,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1687,10 +1687,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 44,
+      "wins": 45,
       "losses": 27,
-      "kills": 466,
-      "deaths": 243,
+      "kills": 473,
+      "deaths": 246,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5074,9 +5074,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 72,
+      "losses": 82,
       "kills": 7,
-      "deaths": 160,
+      "deaths": 170,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -6775,9 +6775,9 @@
         "tournament": 1000
       },
       "wins": 8,
-      "losses": 25,
-      "kills": 67,
-      "deaths": 168,
+      "losses": 26,
+      "kills": 68,
+      "deaths": 175,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7082,9 +7082,9 @@
         "tournament": 1000
       },
       "wins": 57,
-      "losses": 25,
-      "kills": 390,
-      "deaths": 199,
+      "losses": 26,
+      "kills": 395,
+      "deaths": 207,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7235,9 +7235,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 68,
+      "wins": 78,
       "losses": 57,
-      "kills": 431,
+      "kills": 441,
       "deaths": 293,
       "bestStreak": 14,
       "kits": {
