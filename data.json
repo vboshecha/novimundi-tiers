@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-01T08:57:53.055998688Z",
+  "generated": "2026-11-01T09:02:53.054248831Z",
   "tiers": [
     {
       "key": "HT1",
@@ -216,10 +216,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 21,
+      "wins": 22,
       "losses": 48,
-      "kills": 294,
-      "deaths": 215,
+      "kills": 296,
+      "deaths": 217,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1650,10 +1650,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 11,
+      "wins": 12,
       "losses": 15,
       "kills": 90,
-      "deaths": 132,
+      "deaths": 133,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1687,10 +1687,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 45,
+      "wins": 46,
       "losses": 27,
-      "kills": 473,
-      "deaths": 246,
+      "kills": 480,
+      "deaths": 247,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5074,9 +5074,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 82,
+      "losses": 86,
       "kills": 7,
-      "deaths": 170,
+      "deaths": 175,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -6775,9 +6775,9 @@
         "tournament": 1000
       },
       "wins": 8,
-      "losses": 26,
+      "losses": 27,
       "kills": 68,
-      "deaths": 175,
+      "deaths": 179,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7082,9 +7082,9 @@
         "tournament": 1000
       },
       "wins": 57,
-      "losses": 26,
-      "kills": 395,
-      "deaths": 207,
+      "losses": 27,
+      "kills": 397,
+      "deaths": 212,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7235,9 +7235,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 78,
+      "wins": 82,
       "losses": 57,
-      "kills": 441,
+      "kills": 448,
       "deaths": 293,
       "bestStreak": 14,
       "kits": {
