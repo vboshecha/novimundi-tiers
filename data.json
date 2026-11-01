@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-01T16:17:53.030992839Z",
+  "generated": "2026-11-01T21:02:53.032872947Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3585,9 +3585,9 @@
         "tournament": 1000
       },
       "wins": 5,
-      "losses": 12,
+      "losses": 13,
       "kills": 21,
-      "deaths": 53,
+      "deaths": 55,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5674,6 +5674,28 @@
           "deaths": 14
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "822bb411-eff8-3f88-b778-04d08e1366bc",
+      "name": "Bulbashka2203",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 2,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
