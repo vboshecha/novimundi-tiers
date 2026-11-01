@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-01T15:17:53.039110013Z",
+  "generated": "2026-11-01T15:22:53.034547897Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1375,6 +1375,50 @@
           "losses": 2,
           "kills": 19,
           "deaths": 11
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "2cd6369f-aee1-3627-8acb-e17d9b29501f",
+      "name": "thecrewprokoffi",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 3,
+      "losses": 2,
+      "kills": 9,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 1,
+          "deaths": 1
+        },
+        "dmr_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        },
+        "m1novi": {
+          "games": 2,
+          "wins": 1,
+          "losses": 1,
+          "kills": 5,
+          "deaths": 3
         }
       },
       "licensed": false
@@ -2958,24 +3002,24 @@
         "tournament": 1000
       },
       "wins": 5,
-      "losses": 9,
-      "kills": 45,
-      "deaths": 75,
+      "losses": 14,
+      "kills": 51,
+      "deaths": 84,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "kills": 0,
-          "deaths": 2
+          "deaths": 3
         },
         "dmr_atl": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "kills": 2,
-          "deaths": 2
+          "deaths": 3
         },
         "p90_atl": {
           "games": 1,
@@ -2992,11 +3036,11 @@
           "deaths": 20
         },
         "m1novi": {
-          "games": 1,
+          "games": 3,
           "wins": 0,
-          "losses": 1,
-          "kills": 1,
-          "deaths": 2
+          "losses": 3,
+          "kills": 5,
+          "deaths": 7
         }
       },
       "licensed": true
@@ -3802,6 +3846,50 @@
           "losses": 0,
           "kills": 4,
           "deaths": 1
+        }
+      },
+      "licensed": true
+    },
+    {
+      "uuid": "4e34eef0-1ce9-396f-9b0c-be1bc9ab5332",
+      "name": "Sousokker",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 2,
+      "losses": 3,
+      "kills": 6,
+      "deaths": 8,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        },
+        "dmr_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
+        },
+        "m1novi": {
+          "games": 2,
+          "wins": 1,
+          "losses": 1,
+          "kills": 3,
+          "deaths": 4
         }
       },
       "licensed": true
