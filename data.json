@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-01T14:22:53.041021764Z",
+  "generated": "2026-11-01T14:27:53.040925772Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3734,8 +3734,8 @@
       },
       "wins": 0,
       "losses": 6,
-      "kills": 2,
-      "deaths": 16,
+      "kills": 3,
+      "deaths": 17,
       "bestStreak": 0,
       "kits": {
         "dmr_atl": {
@@ -3758,6 +3758,13 @@
           "losses": 1,
           "kills": 1,
           "deaths": 3
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 1
         }
       },
       "licensed": false
@@ -4694,10 +4701,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 15,
+      "wins": 16,
       "losses": 17,
-      "kills": 54,
-      "deaths": 46,
+      "kills": 58,
+      "deaths": 47,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4736,11 +4743,11 @@
           "deaths": 5
         },
         "tournament": {
-          "games": 4,
-          "wins": 2,
+          "games": 5,
+          "wins": 3,
           "losses": 2,
-          "kills": 5,
-          "deaths": 5
+          "kills": 9,
+          "deaths": 6
         }
       },
       "licensed": false
@@ -5454,9 +5461,9 @@
         "tournament": 1000
       },
       "wins": 12,
-      "losses": 20,
-      "kills": 34,
-      "deaths": 55,
+      "losses": 21,
+      "kills": 35,
+      "deaths": 58,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5495,11 +5502,11 @@
           "deaths": 4
         },
         "tournament": {
-          "games": 4,
+          "games": 5,
           "wins": 1,
-          "losses": 3,
-          "kills": 1,
-          "deaths": 8
+          "losses": 4,
+          "kills": 2,
+          "deaths": 11
         }
       },
       "licensed": false
@@ -6357,9 +6364,17 @@
       "wins": 0,
       "losses": 1,
       "kills": 2,
-      "deaths": 1,
+      "deaths": 3,
       "bestStreak": 0,
-      "kits": {},
+      "kits": {
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
       "licensed": true
     },
     {
