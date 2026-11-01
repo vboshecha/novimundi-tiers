@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-01T14:52:53.030999256Z",
+  "generated": "2026-11-01T15:17:53.039110013Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2959,7 +2959,7 @@
       },
       "wins": 5,
       "losses": 9,
-      "kills": 44,
+      "kills": 45,
       "deaths": 75,
       "bestStreak": 0,
       "kits": {
@@ -2974,7 +2974,7 @@
           "games": 1,
           "wins": 0,
           "losses": 1,
-          "kills": 1,
+          "kills": 2,
           "deaths": 2
         },
         "p90_atl": {
