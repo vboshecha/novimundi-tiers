@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-02T13:22:53.038038574Z",
+  "generated": "2026-11-02T13:27:53.039278166Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1672,9 +1672,9 @@
         "tournament": 1000
       },
       "wins": 23,
-      "losses": 61,
+      "losses": 67,
       "kills": 53,
-      "deaths": 92,
+      "deaths": 98,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1699,18 +1699,18 @@
           "deaths": 4
         },
         "p90_atl": {
-          "games": 2,
+          "games": 3,
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "kills": 2,
-          "deaths": 1
+          "deaths": 2
         },
         "vintovka": {
-          "games": 5,
+          "games": 6,
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "kills": 3,
-          "deaths": 6
+          "deaths": 7
         },
         "m1novi": {
           "games": 2,
@@ -1720,11 +1720,11 @@
           "deaths": 2
         },
         "tournament": {
-          "games": 5,
+          "games": 6,
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "kills": 10,
-          "deaths": 14
+          "deaths": 15
         }
       },
       "licensed": false
@@ -8129,9 +8129,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 30,
+      "wins": 36,
       "losses": 122,
-      "kills": 184,
+      "kills": 190,
       "deaths": 88,
       "bestStreak": 0,
       "kits": {
@@ -8157,17 +8157,17 @@
           "deaths": 1
         },
         "p90_atl": {
-          "games": 1,
-          "wins": 1,
+          "games": 2,
+          "wins": 2,
           "losses": 0,
-          "kills": 1,
+          "kills": 2,
           "deaths": 0
         },
         "vintovka": {
-          "games": 5,
-          "wins": 3,
+          "games": 6,
+          "wins": 4,
           "losses": 2,
-          "kills": 3,
+          "kills": 4,
           "deaths": 5
         },
         "m1novi": {
@@ -8178,10 +8178,10 @@
           "deaths": 1
         },
         "tournament": {
-          "games": 3,
-          "wins": 3,
+          "games": 4,
+          "wins": 4,
           "losses": 0,
-          "kills": 14,
+          "kills": 15,
           "deaths": 5
         }
       },
