@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-02T16:52:53.040423099Z",
+  "generated": "2026-11-02T16:57:53.031960381Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2399,10 +2399,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 3,
+      "wins": 4,
       "losses": 9,
-      "kills": 67,
-      "deaths": 72,
+      "kills": 82,
+      "deaths": 74,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2420,11 +2420,11 @@
           "deaths": 1
         },
         "p90_atl": {
-          "games": 3,
-          "wins": 0,
+          "games": 4,
+          "wins": 1,
           "losses": 3,
-          "kills": 8,
-          "deaths": 14
+          "kills": 23,
+          "deaths": 16
         },
         "vintovka": {
           "games": 2,
@@ -4702,9 +4702,9 @@
         "tournament": 1000
       },
       "wins": 19,
-      "losses": 22,
-      "kills": 129,
-      "deaths": 194,
+      "losses": 23,
+      "kills": 133,
+      "deaths": 196,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4729,11 +4729,11 @@
           "deaths": 1
         },
         "p90_atl": {
-          "games": 6,
+          "games": 7,
           "wins": 3,
-          "losses": 3,
-          "kills": 16,
-          "deaths": 38
+          "losses": 4,
+          "kills": 20,
+          "deaths": 40
         },
         "vintovka": {
           "games": 2,
@@ -6384,9 +6384,9 @@
         "tournament": 1000
       },
       "wins": 42,
-      "losses": 42,
-      "kills": 337,
-      "deaths": 273,
+      "losses": 43,
+      "kills": 338,
+      "deaths": 289,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6411,11 +6411,11 @@
           "deaths": 4
         },
         "p90_atl": {
-          "games": 7,
+          "games": 8,
           "wins": 4,
-          "losses": 3,
-          "kills": 16,
-          "deaths": 17
+          "losses": 4,
+          "kills": 17,
+          "deaths": 33
         },
         "vintovka": {
           "games": 11,
