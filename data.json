@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-02T16:22:53.044128367Z",
+  "generated": "2026-11-02T16:27:53.045555764Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3370,9 +3370,9 @@
         "tournament": 1000
       },
       "wins": 22,
-      "losses": 33,
-      "kills": 195,
-      "deaths": 261,
+      "losses": 34,
+      "kills": 196,
+      "deaths": 264,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3380,7 +3380,7 @@
           "wins": 3,
           "losses": 3,
           "kills": 14,
-          "deaths": 25
+          "deaths": 26
         },
         "aug_atl": {
           "games": 13,
@@ -4702,9 +4702,9 @@
         "tournament": 1000
       },
       "wins": 18,
-      "losses": 17,
-      "kills": 113,
-      "deaths": 162,
+      "losses": 19,
+      "kills": 114,
+      "deaths": 167,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4712,7 +4712,7 @@
           "wins": 3,
           "losses": 2,
           "kills": 24,
-          "deaths": 19
+          "deaths": 20
         },
         "aug_atl": {
           "games": 8,
@@ -4729,11 +4729,11 @@
           "deaths": 1
         },
         "p90_atl": {
-          "games": 5,
+          "games": 6,
           "wins": 3,
-          "losses": 2,
+          "losses": 3,
           "kills": 16,
-          "deaths": 36
+          "deaths": 37
         },
         "vintovka": {
           "games": 1,
@@ -5950,6 +5950,43 @@
       "licensed": false
     },
     {
+      "uuid": "b9b40c58-c8bc-3ace-a822-aa1303da2f39",
+      "name": "KeslerVak",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 4,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        },
+        "p90_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 2
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "822bb411-eff8-3f88-b778-04d08e1366bc",
       "name": "Bulbashka2203",
       "points": 0,
@@ -6339,10 +6376,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 37,
+      "wins": 39,
       "losses": 41,
-      "kills": 308,
-      "deaths": 248,
+      "kills": 312,
+      "deaths": 249,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6367,8 +6404,8 @@
           "deaths": 4
         },
         "p90_atl": {
-          "games": 6,
-          "wins": 3,
+          "games": 7,
+          "wins": 4,
           "losses": 3,
           "kills": 15,
           "deaths": 16
@@ -7305,17 +7342,17 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 39,
-      "losses": 42,
-      "kills": 425,
-      "deaths": 265,
+      "wins": 40,
+      "losses": 43,
+      "kills": 429,
+      "deaths": 267,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
           "games": 8,
           "wins": 5,
           "losses": 3,
-          "kills": 45,
+          "kills": 46,
           "deaths": 27
         },
         "aug_atl": {
@@ -7333,10 +7370,10 @@
           "deaths": 4
         },
         "p90_atl": {
-          "games": 7,
-          "wins": 3,
+          "games": 8,
+          "wins": 4,
           "losses": 4,
-          "kills": 45,
+          "kills": 47,
           "deaths": 25
         },
         "vintovka": {
