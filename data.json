@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-02T12:37:53.059264439Z",
+  "generated": "2026-11-02T12:42:53.060395259Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1674,7 +1674,7 @@
       "wins": 17,
       "losses": 38,
       "kills": 43,
-      "deaths": 64,
+      "deaths": 66,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1717,7 +1717,7 @@
           "wins": 3,
           "losses": 0,
           "kills": 10,
-          "deaths": 10
+          "deaths": 12
         }
       },
       "licensed": false
@@ -2241,8 +2241,8 @@
       },
       "wins": 10,
       "losses": 33,
-      "kills": 34,
-      "deaths": 87,
+      "kills": 35,
+      "deaths": 89,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2270,8 +2270,8 @@
           "games": 1,
           "wins": 0,
           "losses": 1,
-          "kills": 1,
-          "deaths": 3
+          "kills": 2,
+          "deaths": 5
         }
       },
       "licensed": false
@@ -2355,10 +2355,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 2,
-      "losses": 6,
-      "kills": 7,
-      "deaths": 17,
+      "wins": 4,
+      "losses": 7,
+      "kills": 9,
+      "deaths": 18,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -2767,6 +2767,28 @@
       "licensed": false
     },
     {
+      "uuid": "e9971315-4d12-3f4d-b053-ee8cd115296d",
+      "name": "Sigma1448",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 2,
+      "losses": 1,
+      "kills": 3,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "6f272ca6-8e7b-309e-bdc3-5dc8b4639973",
       "name": "AlexeyGame15",
       "points": 0,
@@ -2826,8 +2848,8 @@
       },
       "wins": 29,
       "losses": 37,
-      "kills": 214,
-      "deaths": 45,
+      "kills": 216,
+      "deaths": 46,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2855,8 +2877,8 @@
           "games": 1,
           "wins": 1,
           "losses": 0,
-          "kills": 6,
-          "deaths": 0
+          "kills": 8,
+          "deaths": 1
         }
       },
       "licensed": true
@@ -5928,9 +5950,9 @@
         "tournament": 1000
       },
       "wins": 12,
-      "losses": 5,
-      "kills": 27,
-      "deaths": 12,
+      "losses": 8,
+      "kills": 28,
+      "deaths": 16,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6692,7 +6714,7 @@
       "wins": 12,
       "losses": 19,
       "kills": 29,
-      "deaths": 67,
+      "deaths": 68,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6721,7 +6743,7 @@
           "wins": 1,
           "losses": 0,
           "kills": 1,
-          "deaths": 2
+          "deaths": 3
         }
       },
       "licensed": false
@@ -8102,7 +8124,7 @@
       },
       "wins": 7,
       "losses": 117,
-      "kills": 156,
+      "kills": 159,
       "deaths": 82,
       "bestStreak": 0,
       "kits": {
@@ -8138,7 +8160,7 @@
           "games": 1,
           "wins": 1,
           "losses": 0,
-          "kills": 8,
+          "kills": 11,
           "deaths": 5
         }
       },
