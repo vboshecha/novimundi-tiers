@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-02T15:02:53.036254473Z",
+  "generated": "2026-11-02T15:07:53.037825844Z",
   "tiers": [
     {
       "key": "HT1",
@@ -824,10 +824,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 26,
+      "wins": 27,
       "losses": 92,
-      "kills": 404,
-      "deaths": 320,
+      "kills": 415,
+      "deaths": 329,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
@@ -852,18 +852,18 @@
           "deaths": 19
         },
         "vintovka": {
-          "games": 8,
-          "wins": 5,
+          "games": 9,
+          "wins": 6,
           "losses": 3,
-          "kills": 72,
-          "deaths": 58
+          "kills": 77,
+          "deaths": 60
         },
         "m1novi": {
           "games": 6,
           "wins": 6,
           "losses": 0,
-          "kills": 66,
-          "deaths": 43
+          "kills": 72,
+          "deaths": 50
         }
       },
       "licensed": true
@@ -7176,6 +7176,43 @@
           "losses": 3,
           "kills": 6,
           "deaths": 9
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "54af59d6-0c80-38cf-ae5d-1fce8bbf38a3",
+      "name": "hooruusss",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 13,
+      "deaths": 20,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 6,
+          "deaths": 14
+        },
+        "m1novi": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 7,
+          "deaths": 6
         }
       },
       "licensed": false
