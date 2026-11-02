@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-02T19:50:18.806896227Z",
+  "generated": "2026-11-02T19:55:18.693325164Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2384,6 +2384,28 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "90ec8b72-4e19-3709-8ebc-ca73fe513043",
+      "name": "vare4kaaferistka",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
     },
     {
       "uuid": "a9540ef2-6b54-378f-b6cf-5504b7deed3e",
@@ -7772,6 +7794,28 @@
       "bestStreak": 0,
       "kits": {},
       "licensed": false
+    },
+    {
+      "uuid": "81bf9b86-d705-397f-8e14-13fb341b7879",
+      "name": "I_ectb_Grut",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 3,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
     },
     {
       "uuid": "5ad57268-cba4-3d05-a6f8-4e77a69bbdc6",
