@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-03T09:15:41.048489584Z",
+  "generated": "2026-11-03T09:17:16.784754673Z",
   "tiers": [
     {
       "key": "HT1",
@@ -217,9 +217,9 @@
         "tournament": 1000
       },
       "wins": 28,
-      "losses": 51,
+      "losses": 52,
       "kills": 319,
-      "deaths": 237,
+      "deaths": 239,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -230,11 +230,11 @@
           "deaths": 35
         },
         "dmr_atl": {
-          "games": 0,
+          "games": 1,
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "kills": 6,
-          "deaths": 9
+          "deaths": 11
         },
         "m1novi": {
           "games": 1,
@@ -1153,6 +1153,77 @@
       "licensed": true
     },
     {
+      "uuid": "d5acea4f-3b63-3515-9ff1-155321551ae5",
+      "name": "ponkeukajaba",
+      "points": 20,
+      "tiers": {
+        "akm_atl": "LT3"
+      },
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 4,
+      "losses": 2,
+      "kills": 43,
+      "deaths": 39,
+      "bestStreak": 2,
+      "kits": {
+        "akm_atl": {
+          "games": 2,
+          "wins": 2,
+          "losses": 0,
+          "kills": 10,
+          "deaths": 6
+        },
+        "aug_atl": {
+          "games": 2,
+          "wins": 2,
+          "losses": 0,
+          "kills": 12,
+          "deaths": 2
+        }
+      },
+      "licensed": true
+    },
+    {
+      "uuid": "c50fac1b-c11f-3ced-ab9e-e009c914dcbb",
+      "name": "eLforde",
+      "points": 20,
+      "tiers": {
+        "vintovka": "LT3"
+      },
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 7,
+      "deaths": 11,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 7,
+          "deaths": 11
+        }
+      },
+      "licensed": true
+    },
+    {
       "uuid": "60041797-8374-3c01-b4b4-38565db7b7b3",
       "name": "Stalker228_002",
       "points": 0,
@@ -1882,9 +1953,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 56,
+      "wins": 57,
       "losses": 30,
-      "kills": 539,
+      "kills": 541,
       "deaths": 265,
       "bestStreak": 0,
       "kits": {
@@ -1903,10 +1974,10 @@
           "deaths": 3
         },
         "dmr_atl": {
-          "games": 0,
-          "wins": 0,
+          "games": 1,
+          "wins": 1,
           "losses": 0,
-          "kills": 9,
+          "kills": 11,
           "deaths": 6
         },
         "p90_atl": {
@@ -3000,43 +3071,6 @@
         }
       },
       "licensed": false
-    },
-    {
-      "uuid": "d5acea4f-3b63-3515-9ff1-155321551ae5",
-      "name": "ponkeukajaba",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 4,
-      "losses": 2,
-      "kills": 43,
-      "deaths": 39,
-      "bestStreak": 2,
-      "kits": {
-        "akm_atl": {
-          "games": 2,
-          "wins": 2,
-          "losses": 0,
-          "kills": 10,
-          "deaths": 6
-        },
-        "aug_atl": {
-          "games": 2,
-          "wins": 2,
-          "losses": 0,
-          "kills": 12,
-          "deaths": 2
-        }
-      },
-      "licensed": true
     },
     {
       "uuid": "3ef54742-2e37-3c79-b1cd-7aef7896acc4",
@@ -4614,36 +4648,6 @@
         }
       },
       "licensed": false
-    },
-    {
-      "uuid": "c50fac1b-c11f-3ced-ab9e-e009c914dcbb",
-      "name": "eLforde",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 0,
-      "losses": 1,
-      "kills": 7,
-      "deaths": 11,
-      "bestStreak": 0,
-      "kits": {
-        "vintovka": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 7,
-          "deaths": 11
-        }
-      },
-      "licensed": true
     },
     {
       "uuid": "c86e95bc-1ca0-30ec-b497-2ff0db9e2187",
@@ -8565,6 +8569,24 @@
     }
   ],
   "history": [
+    {
+      "t": "2026-10-30 19:23",
+      "name": "eLforde",
+      "kit": "vintovka",
+      "tier": "LT3",
+      "tester": "_neinteresno1",
+      "ts": 11,
+      "ps": 7
+    },
+    {
+      "t": "2026-10-29 20:31",
+      "name": "ponkeukajaba",
+      "kit": "akm_atl",
+      "tier": "LT3",
+      "tester": "paranoia761",
+      "ts": 9,
+      "ps": 11
+    },
     {
       "t": "2026-10-27 14:42",
       "name": "ooooowooo",
