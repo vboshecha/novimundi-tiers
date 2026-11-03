@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-03T17:03:48.075651296Z",
+  "generated": "2026-11-03T17:58:48.084177269Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1711,6 +1711,36 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "adce726c-16d3-32c1-9023-b5ae1edf8cfc",
+      "name": "sable1",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 4,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 3,
+          "deaths": 2
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "5ae012c7-efd5-34a3-a2ae-6d1e2358e399",
@@ -5160,6 +5190,36 @@
       "licensed": false
     },
     {
+      "uuid": "a94cb3c9-5545-303c-a2b0-4830d2f6c579",
+      "name": "pulemetchitsa",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 2,
+      "losses": 0,
+      "kills": 2,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 1
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "2e30ed34-3050-3a16-915a-ebf38e9e2f8f",
       "name": "kolpack",
       "points": 0,
@@ -8021,6 +8081,36 @@
           "losses": 1,
           "kills": 0,
           "deaths": 1
+        }
+      },
+      "licensed": true
+    },
+    {
+      "uuid": "057b2ba7-2470-31b0-bd77-55f87c5c2c03",
+      "name": "Darep",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 1,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 1,
+          "deaths": 3
         }
       },
       "licensed": true
