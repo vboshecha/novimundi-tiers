@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-03T16:28:48.092976764Z",
+  "generated": "2026-11-03T16:33:48.095665065Z",
   "tiers": [
     {
       "key": "HT1",
@@ -216,18 +216,25 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 42,
-      "losses": 56,
-      "kills": 442,
-      "deaths": 292,
+      "wins": 43,
+      "losses": 57,
+      "kills": 448,
+      "deaths": 295,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 3,
+          "games": 4,
           "wins": 0,
-          "losses": 3,
-          "kills": 27,
-          "deaths": 35
+          "losses": 4,
+          "kills": 30,
+          "deaths": 37
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
         },
         "dmr_atl": {
           "games": 2,
@@ -1617,12 +1624,26 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 4,
+      "wins": 6,
       "losses": 3,
-      "kills": 34,
-      "deaths": 30,
+      "kills": 35,
+      "deaths": 35,
       "bestStreak": 0,
       "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 2
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 2
+        },
         "dmr_atl": {
           "games": 1,
           "wins": 1,
@@ -1997,24 +2018,24 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 68,
-      "losses": 42,
-      "kills": 690,
-      "deaths": 352,
+      "wins": 69,
+      "losses": 43,
+      "kills": 697,
+      "deaths": 354,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 6,
+          "games": 7,
           "wins": 3,
-          "losses": 3,
-          "kills": 80,
-          "deaths": 44
+          "losses": 4,
+          "kills": 83,
+          "deaths": 46
         },
         "aug_atl": {
-          "games": 1,
-          "wins": 0,
+          "games": 2,
+          "wins": 1,
           "losses": 1,
-          "kills": 4,
+          "kills": 5,
           "deaths": 3
         },
         "dmr_atl": {
@@ -4074,12 +4095,26 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 8,
-      "losses": 6,
-      "kills": 89,
-      "deaths": 77,
+      "wins": 9,
+      "losses": 7,
+      "kills": 93,
+      "deaths": 85,
       "bestStreak": 0,
       "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 3
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 2,
+          "deaths": 2
+        },
         "dmr_atl": {
           "games": 1,
           "wins": 0,
@@ -4302,6 +4337,36 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "6970d44c-2f6e-350a-b280-116766466631",
+      "name": "Risotto",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 3,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 1
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "095d7641-4cd8-30f8-9201-40a4849493c4",
@@ -6666,11 +6731,18 @@
         "tournament": 1000
       },
       "wins": 7,
-      "losses": 11,
+      "losses": 12,
       "kills": 50,
       "deaths": 132,
       "bestStreak": 0,
       "kits": {
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 0
+        },
         "dmr_atl": {
           "games": 1,
           "wins": 0,
