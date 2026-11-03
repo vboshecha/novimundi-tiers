@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-03T18:08:48.083856854Z",
+  "generated": "2026-11-03T18:13:48.083876480Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1726,18 +1726,25 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 3,
-      "losses": 1,
-      "kills": 15,
-      "deaths": 5,
+      "wins": 4,
+      "losses": 2,
+      "kills": 25,
+      "deaths": 8,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 0,
+          "games": 1,
           "wins": 0,
+          "losses": 1,
+          "kills": 2,
+          "deaths": 2
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 1,
           "losses": 0,
-          "kills": 0,
-          "deaths": 1
+          "kills": 8,
+          "deaths": 2
         },
         "m1novi": {
           "games": 1,
@@ -5211,11 +5218,25 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 2,
-      "kills": 3,
-      "deaths": 9,
+      "losses": 4,
+      "kills": 5,
+      "deaths": 15,
       "bestStreak": 0,
       "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 1,
+          "deaths": 2
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 1,
+          "deaths": 4
+        },
         "m1novi": {
           "games": 1,
           "wins": 1,
@@ -8106,18 +8127,25 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 0,
-      "losses": 4,
-      "kills": 6,
-      "deaths": 10,
+      "wins": 1,
+      "losses": 5,
+      "kills": 9,
+      "deaths": 16,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 0,
-          "wins": 0,
+          "games": 1,
+          "wins": 1,
           "losses": 0,
+          "kills": 3,
+          "deaths": 2
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
           "kills": 1,
-          "deaths": 0
+          "deaths": 4
         },
         "m1novi": {
           "games": 1,
