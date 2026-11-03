@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-03T21:31:20.494443863Z",
+  "generated": "2026-11-03T21:36:20.491920051Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3962,9 +3962,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 15,
+      "wins": 17,
       "losses": 5,
-      "kills": 111,
+      "kills": 114,
       "deaths": 51,
       "bestStreak": 0,
       "kits": {
@@ -3981,6 +3981,13 @@
           "losses": 0,
           "kills": 3,
           "deaths": 1
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 0
         }
       },
       "licensed": false
@@ -7233,10 +7240,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 4,
-      "losses": 9,
-      "kills": 28,
-      "deaths": 61,
+      "wins": 5,
+      "losses": 10,
+      "kills": 29,
+      "deaths": 63,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7252,6 +7259,13 @@
           "losses": 1,
           "kills": 1,
           "deaths": 3
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 2
         }
       },
       "licensed": true
@@ -7667,9 +7681,9 @@
         "tournament": 1000
       },
       "wins": 6,
-      "losses": 7,
+      "losses": 9,
       "kills": 62,
-      "deaths": 55,
+      "deaths": 58,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7684,6 +7698,13 @@
           "wins": 0,
           "losses": 1,
           "kills": 4,
+          "deaths": 2
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
           "deaths": 2
         }
       },
@@ -8638,10 +8659,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
-      "losses": 5,
-      "kills": 23,
-      "deaths": 36,
+      "wins": 2,
+      "losses": 6,
+      "kills": 25,
+      "deaths": 37,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8657,6 +8678,13 @@
           "losses": 1,
           "kills": 1,
           "deaths": 3
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 0
         }
       },
       "licensed": true
