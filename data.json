@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-03T14:53:48.110665591Z",
+  "generated": "2026-11-03T14:58:48.124250667Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1793,10 +1793,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 23,
+      "wins": 24,
       "losses": 78,
       "kills": 53,
-      "deaths": 110,
+      "deaths": 111,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1961,9 +1961,9 @@
         "tournament": 1000
       },
       "wins": 61,
-      "losses": 35,
-      "kills": 560,
-      "deaths": 291,
+      "losses": 36,
+      "kills": 567,
+      "deaths": 294,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3026,10 +3026,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 30,
+      "wins": 31,
       "losses": 38,
-      "kills": 220,
-      "deaths": 47,
+      "kills": 222,
+      "deaths": 49,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7579,10 +7579,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 16,
+      "wins": 17,
       "losses": 31,
-      "kills": 54,
-      "deaths": 77,
+      "kills": 55,
+      "deaths": 79,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8133,6 +8133,28 @@
           "deaths": 1
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "92f36af8-3e87-3eca-8574-2482ca52ee3a",
+      "name": "Mir_crocus",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 0,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
