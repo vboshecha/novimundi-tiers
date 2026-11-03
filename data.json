@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-03T12:48:48.078823435Z",
+  "generated": "2026-11-03T14:23:48.091787435Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5123,6 +5123,28 @@
       "licensed": false
     },
     {
+      "uuid": "894b9339-3fab-36a5-bf0b-f7ed798d9116",
+      "name": "_lok1ra_",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 4,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "25b18d3e-a63d-3863-a806-36e57a745343",
       "name": "travakas",
       "points": 0,
@@ -8128,9 +8150,9 @@
         "tournament": 1000
       },
       "wins": 58,
-      "losses": 33,
-      "kills": 403,
-      "deaths": 232,
+      "losses": 34,
+      "kills": 405,
+      "deaths": 236,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
