@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-04T12:57:47.796862195Z",
+  "generated": "2026-11-04T13:02:47.781243291Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1917,9 +1917,9 @@
         "tournament": 1000
       },
       "wins": 24,
-      "losses": 87,
-      "kills": 95,
-      "deaths": 177,
+      "losses": 88,
+      "kills": 99,
+      "deaths": 180,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1965,11 +1965,11 @@
           "deaths": 2
         },
         "tournament": {
-          "games": 7,
+          "games": 8,
           "wins": 3,
-          "losses": 4,
-          "kills": 13,
-          "deaths": 24
+          "losses": 5,
+          "kills": 17,
+          "deaths": 27
         }
       },
       "licensed": false
@@ -2563,10 +2563,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 12,
+      "wins": 13,
       "losses": 17,
-      "kills": 38,
-      "deaths": 66,
+      "kills": 40,
+      "deaths": 67,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2605,11 +2605,11 @@
           "deaths": 5
         },
         "tournament": {
-          "games": 3,
-          "wins": 1,
+          "games": 4,
+          "wins": 2,
           "losses": 2,
-          "kills": 3,
-          "deaths": 11
+          "kills": 5,
+          "deaths": 12
         }
       },
       "licensed": false
@@ -3156,10 +3156,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 35,
+      "wins": 36,
       "losses": 44,
-      "kills": 291,
-      "deaths": 94,
+      "kills": 295,
+      "deaths": 96,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3184,11 +3184,11 @@
           "deaths": 12
         },
         "tournament": {
-          "games": 3,
-          "wins": 3,
+          "games": 4,
+          "wins": 4,
           "losses": 0,
-          "kills": 25,
-          "deaths": 2
+          "kills": 29,
+          "deaths": 4
         }
       },
       "licensed": true
@@ -3267,10 +3267,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 7,
+      "wins": 8,
       "losses": 32,
       "kills": 16,
-      "deaths": 72,
+      "deaths": 75,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -3281,11 +3281,11 @@
           "deaths": 1
         },
         "tournament": {
-          "games": 0,
-          "wins": 0,
+          "games": 1,
+          "wins": 1,
           "losses": 0,
           "kills": 0,
-          "deaths": 1
+          "deaths": 4
         }
       },
       "licensed": false
@@ -8040,9 +8040,9 @@
         "tournament": 1000
       },
       "wins": 19,
-      "losses": 38,
-      "kills": 81,
-      "deaths": 138,
+      "losses": 39,
+      "kills": 83,
+      "deaths": 141,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8067,11 +8067,11 @@
           "deaths": 18
         },
         "tournament": {
-          "games": 2,
+          "games": 3,
           "wins": 1,
-          "losses": 1,
-          "kills": 3,
-          "deaths": 8
+          "losses": 2,
+          "kills": 5,
+          "deaths": 11
         }
       },
       "licensed": false
