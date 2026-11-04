@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-04T17:11:00.494921761Z",
+  "generated": "2026-11-04T17:16:00.479591098Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2797,10 +2797,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 19,
-      "losses": 48,
-      "kills": 31,
-      "deaths": 92,
+      "wins": 20,
+      "losses": 49,
+      "kills": 32,
+      "deaths": 93,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2832,11 +2832,11 @@
           "deaths": 2
         },
         "tournament": {
-          "games": 49,
-          "wins": 19,
-          "losses": 30,
-          "kills": 24,
-          "deaths": 48
+          "games": 51,
+          "wins": 20,
+          "losses": 31,
+          "kills": 25,
+          "deaths": 49
         }
       },
       "licensed": true
@@ -6048,10 +6048,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 57,
-      "losses": 35,
-      "kills": 137,
-      "deaths": 75,
+      "wins": 59,
+      "losses": 36,
+      "kills": 139,
+      "deaths": 76,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6090,11 +6090,11 @@
           "deaths": 6
         },
         "tournament": {
-          "games": 56,
-          "wins": 34,
-          "losses": 22,
-          "kills": 74,
-          "deaths": 37
+          "games": 58,
+          "wins": 35,
+          "losses": 23,
+          "kills": 76,
+          "deaths": 38
         }
       },
       "licensed": false
@@ -8179,9 +8179,9 @@
         "tournament": 1000
       },
       "wins": 22,
-      "losses": 32,
+      "losses": 35,
       "kills": 37,
-      "deaths": 58,
+      "deaths": 59,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8206,11 +8206,11 @@
           "deaths": 3
         },
         "tournament": {
-          "games": 43,
+          "games": 45,
           "wins": 19,
-          "losses": 24,
+          "losses": 26,
           "kills": 24,
-          "deaths": 37
+          "deaths": 38
         }
       },
       "licensed": false
