@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-04T13:22:47.802113487Z",
+  "generated": "2026-11-04T13:27:47.841917801Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1917,9 +1917,9 @@
         "tournament": 1000
       },
       "wins": 24,
-      "losses": 88,
-      "kills": 101,
-      "deaths": 184,
+      "losses": 89,
+      "kills": 103,
+      "deaths": 185,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2564,9 +2564,9 @@
         "tournament": 1000
       },
       "wins": 13,
-      "losses": 17,
-      "kills": 42,
-      "deaths": 71,
+      "losses": 18,
+      "kills": 43,
+      "deaths": 72,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2785,7 +2785,7 @@
       },
       "wins": 13,
       "losses": 25,
-      "kills": 16,
+      "kills": 17,
       "deaths": 39,
       "bestStreak": 0,
       "kits": {
@@ -2814,7 +2814,7 @@
           "games": 31,
           "wins": 13,
           "losses": 18,
-          "kills": 14,
+          "kills": 15,
           "deaths": 24
         }
       },
@@ -3156,9 +3156,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 36,
+      "wins": 37,
       "losses": 44,
-      "kills": 304,
+      "kills": 306,
       "deaths": 96,
       "bestStreak": 0,
       "kits": {
@@ -3268,9 +3268,9 @@
         "tournament": 1000
       },
       "wins": 8,
-      "losses": 32,
+      "losses": 33,
       "kills": 16,
-      "deaths": 79,
+      "deaths": 80,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -5756,6 +5756,28 @@
       "licensed": false
     },
     {
+      "uuid": "7015a98f-d8ec-397a-9190-9d6d95f05217",
+      "name": "Nestor_",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 3,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
+    },
+    {
       "uuid": "27678e03-2856-3e18-b4a1-31bd21706a5f",
       "name": "Litvia123",
       "points": 0,
@@ -5970,7 +5992,7 @@
       "wins": 41,
       "losses": 21,
       "kills": 77,
-      "deaths": 38,
+      "deaths": 39,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6013,7 +6035,7 @@
           "wins": 24,
           "losses": 13,
           "kills": 43,
-          "deaths": 18
+          "deaths": 19
         }
       },
       "licensed": false
@@ -8040,9 +8062,9 @@
         "tournament": 1000
       },
       "wins": 19,
-      "losses": 39,
+      "losses": 40,
       "kills": 87,
-      "deaths": 145,
+      "deaths": 146,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
