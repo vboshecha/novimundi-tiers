@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-04T12:52:47.818433027Z",
+  "generated": "2026-11-04T12:57:47.796862195Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1917,9 +1917,9 @@
         "tournament": 1000
       },
       "wins": 24,
-      "losses": 86,
-      "kills": 92,
-      "deaths": 171,
+      "losses": 87,
+      "kills": 95,
+      "deaths": 177,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1968,8 +1968,8 @@
           "games": 7,
           "wins": 3,
           "losses": 4,
-          "kills": 11,
-          "deaths": 21
+          "kills": 13,
+          "deaths": 24
         }
       },
       "licensed": false
@@ -2563,10 +2563,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 11,
+      "wins": 12,
       "losses": 17,
-      "kills": 35,
-      "deaths": 63,
+      "kills": 38,
+      "deaths": 66,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2608,8 +2608,8 @@
           "games": 3,
           "wins": 1,
           "losses": 2,
-          "kills": 1,
-          "deaths": 9
+          "kills": 3,
+          "deaths": 11
         }
       },
       "licensed": false
@@ -3156,10 +3156,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 34,
+      "wins": 35,
       "losses": 44,
-      "kills": 286,
-      "deaths": 93,
+      "kills": 291,
+      "deaths": 94,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3187,8 +3187,8 @@
           "games": 3,
           "wins": 3,
           "losses": 0,
-          "kills": 21,
-          "deaths": 1
+          "kills": 25,
+          "deaths": 2
         }
       },
       "licensed": true
@@ -3268,9 +3268,9 @@
         "tournament": 1000
       },
       "wins": 7,
-      "losses": 31,
+      "losses": 32,
       "kills": 16,
-      "deaths": 68,
+      "deaths": 72,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -3278,6 +3278,13 @@
           "wins": 0,
           "losses": 2,
           "kills": 1,
+          "deaths": 1
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
           "deaths": 1
         }
       },
@@ -3515,6 +3522,36 @@
           "losses": 3,
           "kills": 1,
           "deaths": 7
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "d59c4cc0-31af-3bd8-8e5a-a680e2cdb7a5",
+      "name": "mister_chpok",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 1,
+          "deaths": 2
         }
       },
       "licensed": false
@@ -8002,10 +8039,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 18,
+      "wins": 19,
       "losses": 38,
-      "kills": 75,
-      "deaths": 135,
+      "kills": 81,
+      "deaths": 138,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8033,8 +8070,8 @@
           "games": 2,
           "wins": 1,
           "losses": 1,
-          "kills": 1,
-          "deaths": 5
+          "kills": 3,
+          "deaths": 8
         }
       },
       "licensed": false
@@ -8659,9 +8696,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 2,
+      "wins": 3,
       "losses": 7,
-      "kills": 25,
+      "kills": 27,
       "deaths": 38,
       "bestStreak": 0,
       "kits": {
@@ -8673,10 +8710,10 @@
           "deaths": 2
         },
         "vintovka": {
-          "games": 1,
-          "wins": 0,
+          "games": 2,
+          "wins": 1,
           "losses": 1,
-          "kills": 1,
+          "kills": 3,
           "deaths": 4
         },
         "m1novi": {
