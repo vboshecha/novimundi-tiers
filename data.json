@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-05T16:29:54.877536726Z",
+  "generated": "2026-11-05T16:34:54.880298486Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4572,17 +4572,24 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 1,
-      "kills": 3,
-      "deaths": 3,
+      "losses": 3,
+      "kills": 4,
+      "deaths": 7,
       "bestStreak": 0,
       "kits": {
-        "tournament": {
+        "vintovka": {
           "games": 1,
           "wins": 0,
           "losses": 1,
-          "kills": 3,
+          "kills": 0,
           "deaths": 3
+        },
+        "tournament": {
+          "games": 2,
+          "wins": 0,
+          "losses": 2,
+          "kills": 4,
+          "deaths": 4
         }
       },
       "licensed": false
@@ -6166,10 +6173,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 60,
+      "wins": 62,
       "losses": 38,
-      "kills": 142,
-      "deaths": 79,
+      "kills": 147,
+      "deaths": 81,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -6194,11 +6201,11 @@
           "deaths": 0
         },
         "vintovka": {
-          "games": 7,
-          "wins": 4,
+          "games": 8,
+          "wins": 5,
           "losses": 3,
-          "kills": 14,
-          "deaths": 8
+          "kills": 17,
+          "deaths": 9
         },
         "m1novi": {
           "games": 5,
@@ -6208,11 +6215,11 @@
           "deaths": 7
         },
         "tournament": {
-          "games": 59,
-          "wins": 35,
+          "games": 60,
+          "wins": 36,
           "losses": 24,
-          "kills": 77,
-          "deaths": 40
+          "kills": 79,
+          "deaths": 41
         }
       },
       "licensed": false
@@ -8334,9 +8341,9 @@
         "tournament": 1000
       },
       "wins": 24,
-      "losses": 36,
-      "kills": 40,
-      "deaths": 62,
+      "losses": 38,
+      "kills": 42,
+      "deaths": 64,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -8347,11 +8354,11 @@
           "deaths": 1
         },
         "vintovka": {
-          "games": 2,
+          "games": 3,
           "wins": 0,
-          "losses": 2,
-          "kills": 2,
-          "deaths": 6
+          "losses": 3,
+          "kills": 4,
+          "deaths": 7
         },
         "m1novi": {
           "games": 2,
@@ -8361,11 +8368,11 @@
           "deaths": 3
         },
         "tournament": {
-          "games": 46,
+          "games": 47,
           "wins": 20,
-          "losses": 26,
+          "losses": 27,
           "kills": 26,
-          "deaths": 39
+          "deaths": 40
         }
       },
       "licensed": false
