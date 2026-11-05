@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-05T08:14:54.869391115Z",
+  "generated": "2026-11-05T13:19:54.872461607Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3196,6 +3196,36 @@
           "losses": 20,
           "kills": 28,
           "deaths": 27
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "6f0c9401-41eb-3af7-80cb-90c6bac75858",
+      "name": "Makar22878",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 3,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
         }
       },
       "licensed": false
@@ -9040,6 +9070,36 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "51309ed8-a63a-33d5-a2a7-0a876f04bac2",
+      "name": "CCatffish12",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 3,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "a6d41a51-d473-3062-b944-094028daa3ae",
