@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-04T18:41:00.475839565Z",
+  "generated": "2026-11-05T02:19:55.297385917Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2784,6 +2784,36 @@
       "licensed": false
     },
     {
+      "uuid": "80afe558-6081-3209-8108-70ede91fabe2",
+      "name": "villis_686",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 2,
+      "kills": 6,
+      "deaths": 10,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 2,
+          "wins": 1,
+          "losses": 1,
+          "kills": 4,
+          "deaths": 7
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "fb35155e-8cef-3fe1-b91d-7030db385317",
       "name": "Mxrgen",
       "points": 0,
@@ -2840,36 +2870,6 @@
         }
       },
       "licensed": true
-    },
-    {
-      "uuid": "80afe558-6081-3209-8108-70ede91fabe2",
-      "name": "villis_686",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 1,
-      "losses": 2,
-      "kills": 6,
-      "deaths": 10,
-      "bestStreak": 0,
-      "kits": {
-        "m1novi": {
-          "games": 2,
-          "wins": 1,
-          "losses": 1,
-          "kills": 4,
-          "deaths": 7
-        }
-      },
-      "licensed": false
     },
     {
       "uuid": "732a4ab7-2f23-3c6d-9d24-5eaaf2ab619c",
