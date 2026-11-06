@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-06T14:14:54.893068585Z",
+  "generated": "2026-11-06T14:19:54.866508748Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1819,15 +1819,15 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 5,
+      "wins": 6,
       "losses": 3,
       "kills": 14,
       "deaths": 23,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
-          "games": 0,
-          "wins": 0,
+          "games": 1,
+          "wins": 1,
           "losses": 0,
           "kills": 0,
           "deaths": 5
@@ -1974,10 +1974,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 28,
+      "wins": 30,
       "losses": 102,
-      "kills": 135,
-      "deaths": 236,
+      "kills": 137,
+      "deaths": 237,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2009,10 +2009,10 @@
           "deaths": 3
         },
         "vintovka": {
-          "games": 7,
-          "wins": 3,
+          "games": 8,
+          "wins": 4,
           "losses": 4,
-          "kills": 13,
+          "kills": 14,
           "deaths": 26
         },
         "m1novi": {
@@ -2652,9 +2652,9 @@
         "tournament": 1000
       },
       "wins": 19,
-      "losses": 26,
-      "kills": 68,
-      "deaths": 117,
+      "losses": 28,
+      "kills": 69,
+      "deaths": 121,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2686,9 +2686,9 @@
           "deaths": 2
         },
         "vintovka": {
-          "games": 2,
+          "games": 3,
           "wins": 1,
-          "losses": 1,
+          "losses": 2,
           "kills": 4,
           "deaths": 13
         },
@@ -3311,10 +3311,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 46,
+      "wins": 48,
       "losses": 56,
-      "kills": 419,
-      "deaths": 147,
+      "kills": 423,
+      "deaths": 148,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3332,8 +3332,8 @@
           "deaths": 0
         },
         "vintovka": {
-          "games": 5,
-          "wins": 3,
+          "games": 6,
+          "wins": 4,
           "losses": 2,
           "kills": 35,
           "deaths": 19
@@ -5999,15 +5999,15 @@
         "tournament": 1000
       },
       "wins": 5,
-      "losses": 13,
+      "losses": 14,
       "kills": 34,
       "deaths": 48,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
-          "games": 0,
+          "games": 1,
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "kills": 3,
           "deaths": 9
         },
@@ -8438,10 +8438,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 27,
-      "losses": 59,
+      "wins": 28,
+      "losses": 60,
       "kills": 135,
-      "deaths": 229,
+      "deaths": 230,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8459,8 +8459,8 @@
           "deaths": 1
         },
         "vintovka": {
-          "games": 8,
-          "wins": 2,
+          "games": 9,
+          "wins": 3,
           "losses": 6,
           "kills": 28,
           "deaths": 35
@@ -8540,16 +8540,16 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 5,
-      "losses": 4,
-      "kills": 46,
-      "deaths": 24,
+      "wins": 6,
+      "losses": 5,
+      "kills": 49,
+      "deaths": 27,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
-          "games": 0,
+          "games": 1,
           "wins": 0,
-          "losses": 0,
+          "losses": 1,
           "kills": 16,
           "deaths": 6
         },
@@ -9154,17 +9154,17 @@
         "tournament": 1000
       },
       "wins": 6,
-      "losses": 11,
-      "kills": 39,
-      "deaths": 79,
+      "losses": 13,
+      "kills": 43,
+      "deaths": 83,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "kills": 8,
-          "deaths": 19
+          "deaths": 20
         },
         "tournament": {
           "games": 3,
