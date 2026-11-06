@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-06T20:09:54.890004301Z",
+  "generated": "2026-11-06T20:14:54.892242506Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1295,9 +1295,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 24,
+      "wins": 25,
       "losses": 21,
-      "kills": 78,
+      "kills": 79,
       "deaths": 35,
       "bestStreak": 0,
       "kits": {
@@ -1316,10 +1316,10 @@
           "deaths": 4
         },
         "tournament": {
-          "games": 31,
-          "wins": 15,
+          "games": 32,
+          "wins": 16,
           "losses": 16,
-          "kills": 41,
+          "kills": 42,
           "deaths": 24
         }
       },
@@ -1726,10 +1726,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 14,
-      "losses": 5,
-      "kills": 40,
-      "deaths": 20,
+      "wins": 19,
+      "losses": 7,
+      "kills": 46,
+      "deaths": 23,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1761,10 +1761,10 @@
           "deaths": 0
         },
         "m1novi": {
-          "games": 5,
-          "wins": 4,
+          "games": 6,
+          "wins": 5,
           "losses": 1,
-          "kills": 23,
+          "kills": 24,
           "deaths": 13
         }
       },
@@ -2116,9 +2116,9 @@
         "tournament": 1000
       },
       "wins": 21,
-      "losses": 55,
+      "losses": 56,
       "kills": 39,
-      "deaths": 101,
+      "deaths": 102,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2150,11 +2150,11 @@
           "deaths": 2
         },
         "tournament": {
-          "games": 56,
+          "games": 57,
           "wins": 21,
-          "losses": 35,
+          "losses": 36,
           "kills": 31,
-          "deaths": 55
+          "deaths": 56
         }
       },
       "licensed": true
@@ -2401,10 +2401,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 6,
-      "losses": 14,
-      "kills": 36,
-      "deaths": 48,
+      "wins": 8,
+      "losses": 19,
+      "kills": 39,
+      "deaths": 54,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2436,11 +2436,11 @@
           "deaths": 3
         },
         "m1novi": {
-          "games": 5,
+          "games": 6,
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "kills": 13,
-          "deaths": 23
+          "deaths": 24
         }
       },
       "licensed": false
@@ -7858,17 +7858,17 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "kills": 2,
-      "deaths": 6,
+      "deaths": 7,
       "bestStreak": 0,
       "kits": {
         "tournament": {
-          "games": 3,
+          "games": 4,
           "wins": 0,
-          "losses": 3,
+          "losses": 4,
           "kills": 2,
-          "deaths": 6
+          "deaths": 7
         }
       },
       "licensed": true
@@ -8274,9 +8274,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 65,
+      "wins": 66,
       "losses": 44,
-      "kills": 159,
+      "kills": 162,
       "deaths": 89,
       "bestStreak": 1,
       "kits": {
@@ -8316,10 +8316,10 @@
           "deaths": 7
         },
         "tournament": {
-          "games": 66,
-          "wins": 38,
+          "games": 67,
+          "wins": 39,
           "losses": 28,
-          "kills": 90,
+          "kills": 93,
           "deaths": 47
         }
       },
@@ -9273,9 +9273,9 @@
         "tournament": 1000
       },
       "wins": 27,
-      "losses": 44,
+      "losses": 45,
       "kills": 50,
-      "deaths": 73,
+      "deaths": 75,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -9300,11 +9300,11 @@
           "deaths": 4
         },
         "tournament": {
-          "games": 53,
+          "games": 54,
           "wins": 23,
-          "losses": 30,
+          "losses": 31,
           "kills": 32,
-          "deaths": 46
+          "deaths": 48
         }
       },
       "licensed": false
