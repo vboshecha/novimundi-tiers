@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-06T13:04:54.894828125Z",
+  "generated": "2026-11-06T13:09:54.884548699Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1819,10 +1819,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
-      "losses": 0,
-      "kills": 3,
-      "deaths": 4,
+      "wins": 2,
+      "losses": 2,
+      "kills": 4,
+      "deaths": 5,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -1966,10 +1966,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 27,
-      "losses": 96,
+      "wins": 28,
+      "losses": 98,
       "kills": 127,
-      "deaths": 211,
+      "deaths": 214,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2593,7 +2593,7 @@
         "tournament": 1000
       },
       "wins": 10,
-      "losses": 38,
+      "losses": 39,
       "kills": 37,
       "deaths": 105,
       "bestStreak": 0,
@@ -2643,10 +2643,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 15,
-      "losses": 23,
-      "kills": 54,
-      "deaths": 93,
+      "wins": 17,
+      "losses": 24,
+      "kills": 55,
+      "deaths": 95,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3303,9 +3303,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 42,
-      "losses": 53,
-      "kills": 370,
+      "wins": 43,
+      "losses": 55,
+      "kills": 373,
       "deaths": 132,
       "bestStreak": 0,
       "kits": {
@@ -5991,9 +5991,9 @@
         "tournament": 1000
       },
       "wins": 5,
-      "losses": 6,
-      "kills": 19,
-      "deaths": 24,
+      "losses": 9,
+      "kills": 21,
+      "deaths": 25,
       "bestStreak": 0,
       "kits": {
         "tournament": {
@@ -9131,10 +9131,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 3,
-      "losses": 8,
-      "kills": 27,
-      "deaths": 56,
+      "wins": 4,
+      "losses": 9,
+      "kills": 28,
+      "deaths": 57,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
