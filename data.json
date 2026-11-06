@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-06T13:09:54.884548699Z",
+  "generated": "2026-11-06T13:14:54.902277357Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1821,8 +1821,8 @@
       },
       "wins": 2,
       "losses": 2,
-      "kills": 4,
-      "deaths": 5,
+      "kills": 5,
+      "deaths": 7,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -1969,7 +1969,7 @@
       "wins": 28,
       "losses": 98,
       "kills": 127,
-      "deaths": 214,
+      "deaths": 217,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2645,8 +2645,8 @@
       },
       "wins": 17,
       "losses": 24,
-      "kills": 55,
-      "deaths": 95,
+      "kills": 56,
+      "deaths": 96,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3305,8 +3305,8 @@
       },
       "wins": 43,
       "losses": 55,
-      "kills": 373,
-      "deaths": 132,
+      "kills": 379,
+      "deaths": 134,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5992,8 +5992,8 @@
       },
       "wins": 5,
       "losses": 9,
-      "kills": 21,
-      "deaths": 25,
+      "kills": 24,
+      "deaths": 27,
       "bestStreak": 0,
       "kits": {
         "tournament": {
@@ -9133,8 +9133,8 @@
       },
       "wins": 4,
       "losses": 9,
-      "kills": 28,
-      "deaths": 57,
+      "kills": 30,
+      "deaths": 60,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
