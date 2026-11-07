@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-06T21:29:54.866320334Z",
+  "generated": "2026-11-07T09:44:54.871272286Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6566,6 +6566,43 @@
       "licensed": true
     },
     {
+      "uuid": "fc4f8e4e-2491-3bd9-842b-84758e7b2532",
+      "name": "Asko233222",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 3,
+      "deaths": 10,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 4
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 3,
+          "deaths": 6
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "0ee3399d-3701-3bcb-bb37-73b29ba182f3",
       "name": "PapaMOGGlo",
       "points": 0,
@@ -7087,25 +7124,25 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 21,
+      "wins": 22,
       "losses": 52,
-      "kills": 247,
-      "deaths": 226,
+      "kills": 257,
+      "deaths": 229,
       "bestStreak": 3,
       "kits": {
         "akm_atl": {
           "games": 3,
           "wins": 0,
           "losses": 3,
-          "kills": 20,
+          "kills": 24,
           "deaths": 21
         },
         "aug_atl": {
-          "games": 7,
-          "wins": 5,
+          "games": 8,
+          "wins": 6,
           "losses": 1,
-          "kills": 59,
-          "deaths": 52
+          "kills": 65,
+          "deaths": 55
         },
         "dmr_atl": {
           "games": 9,
