@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-07T17:14:54.875503167Z",
+  "generated": "2026-11-07T17:19:54.876634273Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2013,6 +2013,28 @@
       "licensed": false
     },
     {
+      "uuid": "8b175e8a-1015-396d-b49a-48ff0300a3c2",
+      "name": "Vanek0110",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 0,
+      "deaths": 8,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "f6a034c7-c285-323c-bc1f-5bce3e599f18",
       "name": "xequze",
       "points": 0,
@@ -3710,10 +3732,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 17,
-      "losses": 65,
-      "kills": 111,
-      "deaths": 208,
+      "wins": 18,
+      "losses": 66,
+      "kills": 113,
+      "deaths": 213,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5194,10 +5216,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 17,
+      "wins": 19,
       "losses": 35,
-      "kills": 73,
-      "deaths": 87,
+      "kills": 84,
+      "deaths": 88,
       "bestStreak": 0,
       "kits": {
         "dmr_atl": {
