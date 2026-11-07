@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-07T14:14:54.889479862Z",
+  "generated": "2026-11-07T14:19:54.890551826Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1656,8 +1656,8 @@
       },
       "wins": 80,
       "losses": 48,
-      "kills": 885,
-      "deaths": 439,
+      "kills": 895,
+      "deaths": 442,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1843,6 +1843,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "18061382-c046-3bd2-a49f-8ab7af083909",
+      "name": "cvetan_cachev",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 4,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "994e6940-04f5-322b-a964-ce03cb009688",
@@ -4583,7 +4605,7 @@
       "wins": 9,
       "losses": 16,
       "kills": 72,
-      "deaths": 186,
+      "deaths": 193,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4771,9 +4793,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 14,
+      "wins": 15,
       "losses": 23,
-      "kills": 41,
+      "kills": 42,
       "deaths": 81,
       "bestStreak": 0,
       "kits": {
@@ -5122,9 +5144,9 @@
         "tournament": 1000
       },
       "wins": 31,
-      "losses": 62,
+      "losses": 63,
       "kills": 147,
-      "deaths": 238,
+      "deaths": 241,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6131,8 +6153,8 @@
       },
       "wins": 7,
       "losses": 9,
-      "kills": 65,
-      "deaths": 90,
+      "kills": 68,
+      "deaths": 93,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
