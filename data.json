@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-07T19:54:54.872182321Z",
+  "generated": "2026-11-07T19:59:54.872300867Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4875,6 +4875,36 @@
       "licensed": false
     },
     {
+      "uuid": "5cb1ab63-2861-36ae-a421-9f4b082d07f0",
+      "name": "Jothok",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 1,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 1
+        }
+      },
+      "licensed": true
+    },
+    {
       "uuid": "d536bae7-41b1-3e6c-adb0-cff1ef3734d1",
       "name": "JaxT",
       "points": 0,
@@ -4918,10 +4948,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 20,
-      "losses": 38,
-      "kills": 77,
-      "deaths": 96,
+      "wins": 22,
+      "losses": 39,
+      "kills": 80,
+      "deaths": 100,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -4967,11 +4997,11 @@
           "deaths": 7
         },
         "tournament": {
-          "games": 13,
-          "wins": 5,
-          "losses": 8,
-          "kills": 21,
-          "deaths": 23
+          "games": 15,
+          "wins": 6,
+          "losses": 9,
+          "kills": 24,
+          "deaths": 25
         }
       },
       "licensed": true
@@ -9627,9 +9657,9 @@
         "tournament": 1000
       },
       "wins": 9,
-      "losses": 10,
-      "kills": 64,
-      "deaths": 59,
+      "losses": 12,
+      "kills": 67,
+      "deaths": 61,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -9654,11 +9684,11 @@
           "deaths": 2
         },
         "tournament": {
-          "games": 2,
+          "games": 3,
           "wins": 1,
-          "losses": 1,
-          "kills": 1,
-          "deaths": 1
+          "losses": 2,
+          "kills": 2,
+          "deaths": 3
         }
       },
       "licensed": true
