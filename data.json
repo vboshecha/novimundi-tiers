@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-08T15:49:54.865445428Z",
+  "generated": "2026-11-08T18:59:54.870089606Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5244,8 +5244,8 @@
       },
       "wins": 11,
       "losses": 6,
-      "kills": 108,
-      "deaths": 75,
+      "kills": 117,
+      "deaths": 84,
       "bestStreak": 2,
       "kits": {
         "akm_atl": {
@@ -5273,8 +5273,8 @@
           "games": 10,
           "wins": 8,
           "losses": 1,
-          "kills": 85,
-          "deaths": 48
+          "kills": 94,
+          "deaths": 57
         },
         "vintovka": {
           "games": 1,
@@ -6911,8 +6911,8 @@
       },
       "wins": 8,
       "losses": 14,
-      "kills": 62,
-      "deaths": 97,
+      "kills": 71,
+      "deaths": 106,
       "bestStreak": 2,
       "kits": {
         "akm_atl": {
@@ -6940,8 +6940,8 @@
           "games": 7,
           "wins": 2,
           "losses": 5,
-          "kills": 20,
-          "deaths": 30
+          "kills": 29,
+          "deaths": 39
         },
         "vintovka": {
           "games": 1,
