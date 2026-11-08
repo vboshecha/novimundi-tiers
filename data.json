@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-08T15:44:54.878593625Z",
+  "generated": "2026-11-08T15:49:54.865445428Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5242,9 +5242,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 10,
+      "wins": 11,
       "losses": 6,
-      "kills": 106,
+      "kills": 108,
       "deaths": 75,
       "bestStreak": 2,
       "kits": {
@@ -5270,10 +5270,10 @@
           "deaths": 10
         },
         "p90_atl": {
-          "games": 9,
-          "wins": 7,
+          "games": 10,
+          "wins": 8,
           "losses": 1,
-          "kills": 83,
+          "kills": 85,
           "deaths": 48
         },
         "vintovka": {
@@ -6358,9 +6358,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 6,
+      "losses": 7,
       "kills": 37,
-      "deaths": 52,
+      "deaths": 53,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6385,11 +6385,11 @@
           "deaths": 4
         },
         "p90_atl": {
-          "games": 6,
+          "games": 7,
           "wins": 1,
-          "losses": 4,
+          "losses": 5,
           "kills": 18,
-          "deaths": 36
+          "deaths": 37
         }
       },
       "licensed": false
@@ -6910,9 +6910,9 @@
         "tournament": 1000
       },
       "wins": 8,
-      "losses": 13,
+      "losses": 14,
       "kills": 62,
-      "deaths": 96,
+      "deaths": 97,
       "bestStreak": 2,
       "kits": {
         "akm_atl": {
@@ -6937,11 +6937,11 @@
           "deaths": 14
         },
         "p90_atl": {
-          "games": 6,
+          "games": 7,
           "wins": 2,
-          "losses": 4,
+          "losses": 5,
           "kills": 20,
-          "deaths": 29
+          "deaths": 30
         },
         "vintovka": {
           "games": 1,
@@ -7547,7 +7547,7 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 31,
+      "wins": 32,
       "losses": 58,
       "kills": 333,
       "deaths": 281,
@@ -7575,8 +7575,8 @@
           "deaths": 47
         },
         "p90_atl": {
-          "games": 13,
-          "wins": 4,
+          "games": 14,
+          "wins": 5,
           "losses": 7,
           "kills": 71,
           "deaths": 84
