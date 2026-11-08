@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-08T11:34:54.868052791Z",
+  "generated": "2026-11-08T11:44:54.869822939Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2027,9 +2027,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 11,
-      "kills": 14,
-      "deaths": 53,
+      "losses": 12,
+      "kills": 20,
+      "deaths": 64,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
@@ -3567,6 +3567,28 @@
       "licensed": true
     },
     {
+      "uuid": "38ec7d78-9b89-3113-b45b-07ff586a1022",
+      "name": "desch",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 13,
+      "deaths": 7,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
+    },
+    {
       "uuid": "b1ec59df-5238-3865-b4b1-d2d2233537df",
       "name": "Tyler_Morgan",
       "points": 0,
@@ -3804,6 +3826,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "6abc6571-70bc-3114-9159-0585c0387f8b",
+      "name": "Svastigo1488s",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 7,
+      "deaths": 17,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "0b6f776c-e352-3aac-b29a-c38a5a1ebffd",
@@ -4755,6 +4799,28 @@
           "deaths": 3
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "7c9bc7a0-80f6-3543-a5a1-167c8c4a0c65",
+      "name": "LoloFateYT",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 15,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -9601,9 +9667,9 @@
         "tournament": 1000
       },
       "wins": 8,
-      "losses": 11,
-      "kills": 16,
-      "deaths": 17,
+      "losses": 12,
+      "kills": 21,
+      "deaths": 23,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
