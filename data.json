@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-08T13:39:54.865333363Z",
+  "generated": "2026-11-08T14:04:54.873699442Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3784,10 +3784,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 25,
+      "wins": 26,
       "losses": 73,
-      "kills": 162,
-      "deaths": 247,
+      "kills": 166,
+      "deaths": 248,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -9681,6 +9681,28 @@
           "deaths": 1
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "c2eb8106-5f2d-3ea0-924c-8aac49520c73",
+      "name": "skebobchik56",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
