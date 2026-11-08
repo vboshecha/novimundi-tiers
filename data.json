@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-07T20:04:54.865384293Z",
+  "generated": "2026-11-08T09:19:54.866494360Z",
   "tiers": [
     {
       "key": "HT1",
@@ -8281,6 +8281,36 @@
       "licensed": true
     },
     {
+      "uuid": "4da5e867-41df-36b6-9623-070fcc2e2d53",
+      "name": "L9rg",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 11,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "3ca201bd-a295-339c-b6c3-b01152cd8f09",
       "name": "xWendetto",
       "points": 0,
@@ -9455,6 +9485,36 @@
           "losses": 2,
           "kills": 4,
           "deaths": 12
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "600a5c22-9a76-3d1e-813a-84d3ce57435f",
+      "name": "Nosok_022",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 2,
+      "deaths": 11,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
         }
       },
       "licensed": false
