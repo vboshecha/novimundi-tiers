@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-09T18:49:54.874696420Z",
+  "generated": "2026-11-09T18:54:54.874481124Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5300,10 +5300,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 17,
+      "wins": 18,
       "losses": 11,
-      "kills": 164,
-      "deaths": 124,
+      "kills": 168,
+      "deaths": 128,
       "bestStreak": 4,
       "kits": {
         "akm_atl": {
@@ -5335,11 +5335,11 @@
           "deaths": 79
         },
         "vintovka": {
-          "games": 2,
-          "wins": 2,
+          "games": 3,
+          "wins": 3,
           "losses": 0,
-          "kills": 6,
-          "deaths": 9
+          "kills": 9,
+          "deaths": 12
         },
         "m1novi": {
           "games": 1,
@@ -6981,10 +6981,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 16,
+      "wins": 17,
       "losses": 24,
-      "kills": 147,
-      "deaths": 187,
+      "kills": 149,
+      "deaths": 192,
       "bestStreak": 3,
       "kits": {
         "akm_atl": {
@@ -7016,11 +7016,11 @@
           "deaths": 76
         },
         "vintovka": {
-          "games": 2,
-          "wins": 0,
+          "games": 3,
+          "wins": 1,
           "losses": 2,
-          "kills": 7,
-          "deaths": 8
+          "kills": 8,
+          "deaths": 13
         },
         "m1novi": {
           "games": 2,
@@ -7648,9 +7648,9 @@
         "tournament": 1000
       },
       "wins": 39,
-      "losses": 64,
-      "kills": 388,
-      "deaths": 326,
+      "losses": 65,
+      "kills": 396,
+      "deaths": 331,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -7682,11 +7682,11 @@
           "deaths": 105
         },
         "vintovka": {
-          "games": 1,
+          "games": 2,
           "wins": 1,
-          "losses": 0,
-          "kills": 5,
-          "deaths": 6
+          "losses": 1,
+          "kills": 13,
+          "deaths": 10
         },
         "m1novi": {
           "games": 3,
