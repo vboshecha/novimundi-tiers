@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-09T18:29:54.871904245Z",
+  "generated": "2026-11-09T18:34:54.878619104Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5302,8 +5302,8 @@
       },
       "wins": 15,
       "losses": 9,
-      "kills": 148,
-      "deaths": 109,
+      "kills": 151,
+      "deaths": 111,
       "bestStreak": 4,
       "kits": {
         "akm_atl": {
@@ -5331,8 +5331,8 @@
           "games": 14,
           "wins": 10,
           "losses": 3,
-          "kills": 111,
-          "deaths": 70
+          "kills": 114,
+          "deaths": 72
         },
         "vintovka": {
           "games": 2,
@@ -6424,8 +6424,8 @@
       },
       "wins": 5,
       "losses": 9,
-      "kills": 54,
-      "deaths": 72,
+      "kills": 56,
+      "deaths": 74,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6453,8 +6453,8 @@
           "games": 9,
           "wins": 2,
           "losses": 6,
-          "kills": 31,
-          "deaths": 45
+          "kills": 33,
+          "deaths": 47
         },
         "vintovka": {
           "games": 1,
@@ -6982,9 +6982,9 @@
         "tournament": 1000
       },
       "wins": 14,
-      "losses": 21,
-      "kills": 129,
-      "deaths": 168,
+      "losses": 22,
+      "kills": 131,
+      "deaths": 176,
       "bestStreak": 3,
       "kits": {
         "akm_atl": {
@@ -7012,8 +7012,8 @@
           "games": 13,
           "wins": 5,
           "losses": 8,
-          "kills": 55,
-          "deaths": 67
+          "kills": 56,
+          "deaths": 70
         },
         "vintovka": {
           "games": 2,
@@ -7647,10 +7647,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 37,
+      "wins": 38,
       "losses": 61,
-      "kills": 368,
-      "deaths": 309,
+      "kills": 376,
+      "deaths": 312,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -7678,8 +7678,8 @@
           "games": 16,
           "wins": 6,
           "losses": 8,
-          "kills": 83,
-          "deaths": 93
+          "kills": 86,
+          "deaths": 95
         },
         "vintovka": {
           "games": 1,
