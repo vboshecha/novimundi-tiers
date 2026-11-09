@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-09T19:59:54.890079858Z",
+  "generated": "2026-11-09T20:04:54.881987375Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3601,10 +3601,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 4,
-      "losses": 5,
-      "kills": 50,
-      "deaths": 20,
+      "wins": 5,
+      "losses": 6,
+      "kills": 51,
+      "deaths": 21,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3620,6 +3620,13 @@
           "losses": 1,
           "kills": 2,
           "deaths": 3
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
         }
       },
       "licensed": true
@@ -6850,9 +6857,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 4,
+      "losses": 6,
       "kills": 4,
-      "deaths": 6,
+      "deaths": 8,
       "bestStreak": 0,
       "kits": {
         "dmr_atl": {
@@ -7149,11 +7156,19 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 1,
-      "kills": 1,
-      "deaths": 1,
+      "losses": 3,
+      "kills": 5,
+      "deaths": 3,
       "bestStreak": 0,
-      "kits": {},
+      "kits": {
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 0
+        }
+      },
       "licensed": false
     },
     {
@@ -7457,9 +7472,9 @@
         "tournament": 1000
       },
       "wins": 4,
-      "losses": 19,
-      "kills": 19,
-      "deaths": 22,
+      "losses": 21,
+      "kills": 20,
+      "deaths": 23,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -10037,10 +10052,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 11,
-      "losses": 16,
-      "kills": 44,
-      "deaths": 48,
+      "wins": 12,
+      "losses": 17,
+      "kills": 46,
+      "deaths": 50,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -10090,7 +10105,7 @@
           "wins": 1,
           "losses": 0,
           "kills": 1,
-          "deaths": 0
+          "deaths": 1
         }
       },
       "licensed": true
