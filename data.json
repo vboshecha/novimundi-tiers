@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-10T15:52:52.680029031Z",
+  "generated": "2026-11-10T15:57:52.671100576Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5342,10 +5342,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 35,
+      "wins": 36,
       "losses": 18,
-      "kills": 254,
-      "deaths": 193,
+      "kills": 256,
+      "deaths": 194,
       "bestStreak": 4,
       "kits": {
         "akm_atl": {
@@ -5370,11 +5370,11 @@
           "deaths": 23
         },
         "p90_atl": {
-          "games": 22,
-          "wins": 14,
+          "games": 23,
+          "wins": 15,
           "losses": 7,
-          "kills": 154,
-          "deaths": 100
+          "kills": 156,
+          "deaths": 101
         },
         "vintovka": {
           "games": 4,
@@ -6471,10 +6471,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 17,
+      "wins": 18,
       "losses": 24,
-      "kills": 116,
-      "deaths": 157,
+      "kills": 120,
+      "deaths": 159,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6499,11 +6499,11 @@
           "deaths": 18
         },
         "p90_atl": {
-          "games": 17,
-          "wins": 6,
+          "games": 18,
+          "wins": 7,
           "losses": 10,
-          "kills": 55,
-          "deaths": 80
+          "kills": 59,
+          "deaths": 82
         },
         "vintovka": {
           "games": 2,
@@ -7827,9 +7827,9 @@
         "tournament": 1000
       },
       "wins": 49,
-      "losses": 71,
-      "kills": 447,
-      "deaths": 373,
+      "losses": 72,
+      "kills": 450,
+      "deaths": 379,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -7854,11 +7854,11 @@
           "deaths": 58
         },
         "p90_atl": {
-          "games": 22,
+          "games": 23,
           "wins": 8,
-          "losses": 12,
-          "kills": 97,
-          "deaths": 114
+          "losses": 13,
+          "kills": 100,
+          "deaths": 120
         },
         "vintovka": {
           "games": 3,
