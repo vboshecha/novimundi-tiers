@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-11T18:21:04.814928596Z",
+  "generated": "2026-11-11T18:26:04.819033061Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3000,10 +3000,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 20,
+      "wins": 21,
       "losses": 10,
-      "kills": 127,
-      "deaths": 62,
+      "kills": 131,
+      "deaths": 65,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3032,7 +3032,7 @@
           "wins": 2,
           "losses": 1,
           "kills": 7,
-          "deaths": 4
+          "deaths": 6
         }
       },
       "licensed": false
@@ -4426,10 +4426,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 30,
+      "wins": 31,
       "losses": 22,
-      "kills": 98,
-      "deaths": 76,
+      "kills": 100,
+      "deaths": 79,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4478,8 +4478,8 @@
           "games": 10,
           "wins": 3,
           "losses": 7,
-          "kills": 19,
-          "deaths": 18
+          "kills": 20,
+          "deaths": 19
         }
       },
       "licensed": false
@@ -5264,9 +5264,9 @@
         "tournament": 1000
       },
       "wins": 25,
-      "losses": 42,
-      "kills": 93,
-      "deaths": 108,
+      "losses": 43,
+      "kills": 96,
+      "deaths": 112,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -5315,8 +5315,8 @@
           "games": 19,
           "wins": 7,
           "losses": 12,
-          "kills": 31,
-          "deaths": 30
+          "kills": 33,
+          "deaths": 31
         }
       },
       "licensed": true
@@ -10385,9 +10385,9 @@
         "tournament": 1000
       },
       "wins": 10,
-      "losses": 13,
-      "kills": 68,
-      "deaths": 62,
+      "losses": 14,
+      "kills": 72,
+      "deaths": 65,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -10415,8 +10415,8 @@
           "games": 5,
           "wins": 2,
           "losses": 3,
-          "kills": 3,
-          "deaths": 4
+          "kills": 5,
+          "deaths": 5
         }
       },
       "licensed": true
