@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-10T22:55:58.950117436Z",
+  "generated": "2026-11-11T16:41:04.807831374Z",
   "tiers": [
     {
       "key": "HT1",
@@ -218,8 +218,8 @@
       },
       "wins": 61,
       "losses": 60,
-      "kills": 652,
-      "deaths": 396,
+      "kills": 653,
+      "deaths": 397,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1326,6 +1326,36 @@
       "licensed": false
     },
     {
+      "uuid": "a479efee-258b-3b3e-8daa-2ff6891e9e79",
+      "name": "Heilvete",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 3
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "16d13978-a3dd-3509-b1f4-65950d785c7a",
       "name": "panda40651348",
       "points": 0,
@@ -1663,8 +1693,8 @@
       },
       "wins": 86,
       "losses": 51,
-      "kills": 1002,
-      "deaths": 495,
+      "kills": 1003,
+      "deaths": 496,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6637,6 +6667,36 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "67181570-5a48-35cf-8e24-50d2a0af21a8",
+      "name": "AshR0se",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 3,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 0
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "e88c164a-930b-3560-ab1c-cf5974b7b677",
