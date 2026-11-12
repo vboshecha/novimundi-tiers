@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-12T16:04:46.056336373Z",
+  "generated": "2026-11-12T16:34:10.651458477Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1757,6 +1757,43 @@
       "licensed": false
     },
     {
+      "uuid": "12d20174-5e16-32e8-b58c-41d1389b43b2",
+      "name": "fufelsmirts",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 18,
+      "losses": 18,
+      "kills": 102,
+      "deaths": 150,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 4,
+          "wins": 4,
+          "losses": 0,
+          "kills": 40,
+          "deaths": 33
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 3
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "c8cc6f81-ccae-3a49-9329-fdd34bea7496",
       "name": "DoraMur",
       "points": 0,
@@ -1824,43 +1861,6 @@
           "losses": 0,
           "kills": 19,
           "deaths": 4
-        }
-      },
-      "licensed": false
-    },
-    {
-      "uuid": "12d20174-5e16-32e8-b58c-41d1389b43b2",
-      "name": "fufelsmirts",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 18,
-      "losses": 18,
-      "kills": 102,
-      "deaths": 150,
-      "bestStreak": 0,
-      "kits": {
-        "akm_atl": {
-          "games": 4,
-          "wins": 4,
-          "losses": 0,
-          "kills": 40,
-          "deaths": 33
-        },
-        "aug_atl": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 0,
-          "deaths": 3
         }
       },
       "licensed": false
@@ -4866,28 +4866,6 @@
       "licensed": false
     },
     {
-      "uuid": "275e744b-9166-3d15-ae77-0b9af6e43d08",
-      "name": "golviGGG",
-      "points": 0,
-      "tiers": {},
-      "elo": {
-        "akm_atl": 1000,
-        "aug_atl": 1000,
-        "dmr_atl": 1000,
-        "p90_atl": 1000,
-        "vintovka": 1000,
-        "m1novi": 1000,
-        "tournament": 1000
-      },
-      "wins": 0,
-      "losses": 1,
-      "kills": 2,
-      "deaths": 6,
-      "bestStreak": 0,
-      "kits": {},
-      "licensed": true
-    },
-    {
       "uuid": "1c18fd5a-dbcc-3908-b4eb-ab680e28334a",
       "name": "_Keo_",
       "points": 0,
@@ -4929,6 +4907,28 @@
           "deaths": 8
         }
       },
+      "licensed": true
+    },
+    {
+      "uuid": "275e744b-9166-3d15-ae77-0b9af6e43d08",
+      "name": "golviGGG",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 2,
+      "deaths": 6,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": true
     },
     {
