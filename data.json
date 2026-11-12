@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-12T19:04:10.648942651Z",
+  "generated": "2026-11-12T20:04:10.656308395Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2588,6 +2588,43 @@
       "deaths": 12,
       "bestStreak": 0,
       "kits": {},
+      "licensed": false
+    },
+    {
+      "uuid": "c212e21c-563f-3502-858f-ead88c60787f",
+      "name": "0uantum",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 3,
+      "losses": 1,
+      "kills": 8,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 3,
+          "wins": 2,
+          "losses": 1,
+          "kills": 5,
+          "deaths": 2
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 0
+        }
+      },
       "licensed": false
     },
     {
@@ -8940,6 +8977,43 @@
           "losses": 4,
           "kills": 4,
           "deaths": 4
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "2ca50562-9a26-351f-8a4d-b9a888215beb",
+      "name": "nekromine",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 3,
+      "kills": 2,
+      "deaths": 8,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 3,
+          "wins": 1,
+          "losses": 2,
+          "kills": 2,
+          "deaths": 5
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 2
         }
       },
       "licensed": false
