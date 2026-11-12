@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-12T15:34:46.092721318Z",
+  "generated": "2026-11-12T15:39:46.118986552Z",
   "tiers": [
     {
       "key": "HT1",
@@ -216,9 +216,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 80,
+      "wins": 81,
       "losses": 70,
-      "kills": 827,
+      "kills": 835,
       "deaths": 494,
       "bestStreak": 0,
       "kits": {
@@ -1770,10 +1770,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 103,
+      "wins": 104,
       "losses": 68,
-      "kills": 1211,
-      "deaths": 628,
+      "kills": 1215,
+      "deaths": 629,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3994,9 +3994,9 @@
         "tournament": 1000
       },
       "wins": 30,
-      "losses": 78,
+      "losses": 80,
       "kills": 194,
-      "deaths": 286,
+      "deaths": 290,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5394,9 +5394,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 3,
+      "losses": 4,
       "kills": 17,
-      "deaths": 26,
+      "deaths": 27,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
@@ -5852,10 +5852,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 29,
-      "losses": 43,
-      "kills": 236,
-      "deaths": 149,
+      "wins": 30,
+      "losses": 44,
+      "kills": 239,
+      "deaths": 152,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6991,6 +6991,28 @@
       "licensed": true
     },
     {
+      "uuid": "1a87a71c-cd7f-340c-bfa7-ac62d3c3cac8",
+      "name": "Zybnic",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 1,
+      "deaths": 6,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "e88c164a-930b-3560-ab1c-cf5974b7b677",
       "name": "ereksen",
       "points": 0,
@@ -7880,7 +7902,7 @@
       "wins": 56,
       "losses": 73,
       "kills": 536,
-      "deaths": 225,
+      "deaths": 226,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -9958,9 +9980,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 4,
-      "kills": 26,
-      "deaths": 31,
+      "losses": 6,
+      "kills": 28,
+      "deaths": 35,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
