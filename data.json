@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-12T20:19:10.649027949Z",
+  "generated": "2026-11-12T20:44:10.657900547Z",
   "tiers": [
     {
       "key": "HT1",
@@ -7840,6 +7840,36 @@
       "licensed": false
     },
     {
+      "uuid": "c6d5c7b7-867b-35bf-adfa-d4dd029af36e",
+      "name": "_Niki0_",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 2,
+      "deaths": 6,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 1,
+          "deaths": 2
+        }
+      },
+      "licensed": true
+    },
+    {
       "uuid": "4115e990-861f-3779-bd36-b13aabf53c6d",
       "name": "koffe__",
       "points": 0,
@@ -10792,6 +10822,36 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "97c92bcd-af05-3acf-b07b-10472ac02caf",
+      "name": "byba228",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 2,
+      "losses": 0,
+      "kills": 6,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 1
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "c2eb8106-5f2d-3ea0-924c-8aac49520c73",
