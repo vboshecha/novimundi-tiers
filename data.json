@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-13T16:54:10.727775259Z",
+  "generated": "2026-11-13T16:59:10.735667499Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3735,7 +3735,7 @@
       "wins": 21,
       "losses": 8,
       "kills": 69,
-      "deaths": 79,
+      "deaths": 81,
       "bestStreak": 0,
       "kits": {
         "dmr_atl": {
@@ -4105,7 +4105,7 @@
       "wins": 36,
       "losses": 95,
       "kills": 260,
-      "deaths": 390,
+      "deaths": 392,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5645,7 +5645,7 @@
       },
       "wins": 8,
       "losses": 13,
-      "kills": 133,
+      "kills": 134,
       "deaths": 109,
       "bestStreak": 0,
       "kits": {
@@ -6111,8 +6111,8 @@
       },
       "wins": 8,
       "losses": 1,
-      "kills": 46,
-      "deaths": 16,
+      "kills": 47,
+      "deaths": 18,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
@@ -6148,7 +6148,7 @@
       },
       "wins": 37,
       "losses": 57,
-      "kills": 347,
+      "kills": 351,
       "deaths": 236,
       "bestStreak": 0,
       "kits": {
@@ -6798,7 +6798,7 @@
       "wins": 3,
       "losses": 2,
       "kills": 7,
-      "deaths": 15,
+      "deaths": 18,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -7089,8 +7089,8 @@
       },
       "wins": 2,
       "losses": 3,
-      "kills": 17,
-      "deaths": 17,
+      "kills": 18,
+      "deaths": 19,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -8334,8 +8334,8 @@
       },
       "wins": 57,
       "losses": 74,
-      "kills": 553,
-      "deaths": 229,
+      "kills": 557,
+      "deaths": 230,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -10487,8 +10487,8 @@
       },
       "wins": 10,
       "losses": 18,
-      "kills": 143,
-      "deaths": 157,
+      "kills": 145,
+      "deaths": 158,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -12230,8 +12230,8 @@
       },
       "wins": 5,
       "losses": 4,
-      "kills": 30,
-      "deaths": 25,
+      "kills": 32,
+      "deaths": 27,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
