@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-13T15:14:10.736130786Z",
+  "generated": "2026-11-13T15:19:10.797476477Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4097,8 +4097,8 @@
       },
       "wins": 36,
       "losses": 91,
-      "kills": 245,
-      "deaths": 369,
+      "kills": 246,
+      "deaths": 371,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5630,8 +5630,8 @@
       },
       "wins": 8,
       "losses": 11,
-      "kills": 127,
-      "deaths": 100,
+      "kills": 129,
+      "deaths": 102,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -6097,7 +6097,7 @@
       "wins": 37,
       "losses": 53,
       "kills": 331,
-      "deaths": 217,
+      "deaths": 218,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7211,7 +7211,7 @@
       },
       "wins": 23,
       "losses": 17,
-      "kills": 162,
+      "kills": 165,
       "deaths": 119,
       "bestStreak": 0,
       "kits": {
@@ -7306,7 +7306,7 @@
       },
       "wins": 2,
       "losses": 3,
-      "kills": 23,
+      "kills": 26,
       "deaths": 17,
       "bestStreak": 0,
       "kits": {
@@ -7337,7 +7337,7 @@
       "wins": 36,
       "losses": 112,
       "kills": 177,
-      "deaths": 287,
+      "deaths": 289,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8173,7 +8173,7 @@
       "wins": 11,
       "losses": 4,
       "kills": 47,
-      "deaths": 50,
+      "deaths": 51,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -8721,7 +8721,7 @@
       },
       "wins": 10,
       "losses": 3,
-      "kills": 16,
+      "kills": 18,
       "deaths": 40,
       "bestStreak": 0,
       "kits": {
@@ -9434,7 +9434,7 @@
       "wins": 12,
       "losses": 10,
       "kills": 48,
-      "deaths": 80,
+      "deaths": 81,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -10400,7 +10400,7 @@
       "wins": 10,
       "losses": 17,
       "kills": 143,
-      "deaths": 151,
+      "deaths": 154,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
