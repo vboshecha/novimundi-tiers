@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-13T16:04:10.705810128Z",
+  "generated": "2026-11-13T16:09:10.730302737Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1360,10 +1360,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 51,
+      "wins": 52,
       "losses": 35,
-      "kills": 172,
-      "deaths": 84,
+      "kills": 176,
+      "deaths": 86,
       "bestStreak": 10,
       "kits": {
         "dmr_atl": {
@@ -2048,9 +2048,9 @@
         "tournament": 1000
       },
       "wins": 4,
-      "losses": 8,
+      "losses": 9,
       "kills": 15,
-      "deaths": 20,
+      "deaths": 22,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3732,10 +3732,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 16,
+      "wins": 17,
       "losses": 7,
-      "kills": 53,
-      "deaths": 66,
+      "kills": 57,
+      "deaths": 67,
       "bestStreak": 0,
       "kits": {
         "dmr_atl": {
@@ -5914,10 +5914,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 52,
+      "wins": 53,
       "losses": 28,
-      "kills": 423,
-      "deaths": 306,
+      "kills": 424,
+      "deaths": 309,
       "bestStreak": 4,
       "kits": {
         "akm_atl": {
@@ -6110,9 +6110,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 0,
-      "kills": 29,
-      "deaths": 7,
+      "losses": 1,
+      "kills": 30,
+      "deaths": 10,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -6496,9 +6496,9 @@
         "tournament": 1000
       },
       "wins": 12,
-      "losses": 11,
-      "kills": 24,
-      "deaths": 30,
+      "losses": 12,
+      "kills": 27,
+      "deaths": 33,
       "bestStreak": 0,
       "kits": {
         "dmr_atl": {
@@ -7059,9 +7059,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 1,
-      "kills": 7,
-      "deaths": 11,
+      "losses": 2,
+      "kills": 12,
+      "deaths": 13,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -7146,9 +7146,9 @@
         "tournament": 1000
       },
       "wins": 28,
-      "losses": 40,
-      "kills": 232,
-      "deaths": 302,
+      "losses": 41,
+      "kills": 233,
+      "deaths": 305,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7908,10 +7908,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 26,
+      "wins": 27,
       "losses": 37,
-      "kills": 223,
-      "deaths": 322,
+      "kills": 224,
+      "deaths": 325,
       "bestStreak": 3,
       "kits": {
         "akm_atl": {
@@ -8706,10 +8706,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 59,
+      "wins": 60,
       "losses": 84,
-      "kills": 567,
-      "deaths": 479,
+      "kills": 570,
+      "deaths": 481,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -9945,9 +9945,9 @@
         "tournament": 1000
       },
       "wins": 22,
-      "losses": 98,
-      "kills": 360,
-      "deaths": 291,
+      "losses": 99,
+      "kills": 366,
+      "deaths": 292,
       "bestStreak": 4,
       "kits": {
         "akm_atl": {
@@ -10200,9 +10200,9 @@
         "tournament": 1000
       },
       "wins": 95,
-      "losses": 58,
-      "kills": 263,
-      "deaths": 143,
+      "losses": 59,
+      "kills": 267,
+      "deaths": 144,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
@@ -10743,9 +10743,9 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 2,
-      "kills": 2,
-      "deaths": 4,
+      "losses": 3,
+      "kills": 3,
+      "deaths": 7,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -11616,9 +11616,9 @@
         "tournament": 1000
       },
       "wins": 56,
-      "losses": 88,
+      "losses": 89,
       "kills": 164,
-      "deaths": 235,
+      "deaths": 238,
       "bestStreak": 7,
       "kits": {
         "akm_atl": {
@@ -12185,9 +12185,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 2,
-      "kills": 10,
-      "deaths": 11,
+      "losses": 3,
+      "kills": 11,
+      "deaths": 14,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
