@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-13T14:24:10.670309164Z",
+  "generated": "2026-11-13T14:29:10.696300571Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4095,10 +4095,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 33,
+      "wins": 34,
       "losses": 89,
-      "kills": 225,
-      "deaths": 347,
+      "kills": 227,
+      "deaths": 348,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4147,8 +4147,8 @@
           "games": 18,
           "wins": 6,
           "losses": 12,
-          "kills": 44,
-          "deaths": 74
+          "kills": 45,
+          "deaths": 75
         }
       },
       "licensed": true
@@ -5056,9 +5056,9 @@
         "tournament": 1000
       },
       "wins": 20,
-      "losses": 3,
-      "kills": 66,
-      "deaths": 49,
+      "losses": 4,
+      "kills": 67,
+      "deaths": 51,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5086,8 +5086,8 @@
           "games": 5,
           "wins": 5,
           "losses": 0,
-          "kills": 15,
-          "deaths": 11
+          "kills": 16,
+          "deaths": 12
         }
       },
       "licensed": true
@@ -5628,10 +5628,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 4,
+      "wins": 5,
       "losses": 10,
-      "kills": 101,
-      "deaths": 82,
+      "kills": 103,
+      "deaths": 83,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -5653,7 +5653,7 @@
           "wins": 0,
           "losses": 1,
           "kills": 4,
-          "deaths": 7
+          "deaths": 8
         }
       },
       "licensed": false
@@ -6094,10 +6094,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 33,
+      "wins": 34,
       "losses": 52,
-      "kills": 302,
-      "deaths": 201,
+      "kills": 304,
+      "deaths": 203,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6146,8 +6146,8 @@
           "games": 11,
           "wins": 4,
           "losses": 7,
-          "kills": 83,
-          "deaths": 43
+          "kills": 84,
+          "deaths": 45
         }
       },
       "licensed": true
@@ -7210,9 +7210,9 @@
         "tournament": 1000
       },
       "wins": 22,
-      "losses": 13,
-      "kills": 139,
-      "deaths": 95,
+      "losses": 14,
+      "kills": 141,
+      "deaths": 97,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7247,8 +7247,8 @@
           "games": 5,
           "wins": 5,
           "losses": 0,
-          "kills": 28,
-          "deaths": 12
+          "kills": 30,
+          "deaths": 13
         }
       },
       "licensed": false
@@ -8954,9 +8954,9 @@
         "tournament": 1000
       },
       "wins": 11,
-      "losses": 9,
+      "losses": 10,
       "kills": 49,
-      "deaths": 75,
+      "deaths": 78,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8985,7 +8985,7 @@
           "wins": 4,
           "losses": 2,
           "kills": 13,
-          "deaths": 17
+          "deaths": 19
         }
       },
       "licensed": false
@@ -9424,9 +9424,9 @@
         "tournament": 1000
       },
       "wins": 12,
-      "losses": 5,
-      "kills": 39,
-      "deaths": 49,
+      "losses": 6,
+      "kills": 41,
+      "deaths": 50,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -9454,7 +9454,7 @@
           "games": 3,
           "wins": 3,
           "losses": 0,
-          "kills": 7,
+          "kills": 9,
           "deaths": 7
         }
       },
@@ -10389,10 +10389,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 6,
+      "wins": 7,
       "losses": 16,
-      "kills": 114,
-      "deaths": 133,
+      "kills": 116,
+      "deaths": 134,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -10413,8 +10413,8 @@
           "games": 6,
           "wins": 1,
           "losses": 5,
-          "kills": 20,
-          "deaths": 33
+          "kills": 22,
+          "deaths": 34
         }
       },
       "licensed": false
