@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-14T08:10:27.246203906Z",
+  "generated": "2026-11-14T08:15:27.241782149Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5731,9 +5731,9 @@
         "tournament": 1000
       },
       "wins": 13,
-      "losses": 18,
-      "kills": 174,
-      "deaths": 151,
+      "losses": 19,
+      "kills": 181,
+      "deaths": 157,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -5751,11 +5751,11 @@
           "deaths": 80
         },
         "tournament": {
-          "games": 4,
+          "games": 5,
           "wins": 2,
-          "losses": 2,
-          "kills": 26,
-          "deaths": 19
+          "losses": 3,
+          "kills": 33,
+          "deaths": 25
         }
       },
       "licensed": false
@@ -7633,10 +7633,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 38,
+      "wins": 39,
       "losses": 113,
-      "kills": 178,
-      "deaths": 294,
+      "kills": 182,
+      "deaths": 297,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7682,11 +7682,11 @@
           "deaths": 9
         },
         "tournament": {
-          "games": 18,
-          "wins": 7,
+          "games": 19,
+          "wins": 8,
           "losses": 11,
-          "kills": 48,
-          "deaths": 51
+          "kills": 52,
+          "deaths": 54
         }
       },
       "licensed": false
@@ -8543,10 +8543,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 63,
+      "wins": 64,
       "losses": 81,
-      "kills": 635,
-      "deaths": 274,
+      "kills": 637,
+      "deaths": 278,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8585,11 +8585,11 @@
           "deaths": 29
         },
         "tournament": {
-          "games": 19,
-          "wins": 12,
+          "games": 20,
+          "wins": 13,
           "losses": 7,
-          "kills": 115,
-          "deaths": 39
+          "kills": 117,
+          "deaths": 43
         }
       },
       "licensed": true
