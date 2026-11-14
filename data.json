@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-14T15:25:27.246085359Z",
+  "generated": "2026-11-14T15:30:27.250728904Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1588,9 +1588,9 @@
         "tournament": 1000
       },
       "wins": 15,
-      "losses": 23,
-      "kills": 93,
-      "deaths": 163,
+      "losses": 24,
+      "kills": 94,
+      "deaths": 170,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1785,9 +1785,9 @@
         "tournament": 1000
       },
       "wins": 109,
-      "losses": 80,
-      "kills": 1303,
-      "deaths": 713,
+      "losses": 81,
+      "kills": 1306,
+      "deaths": 721,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3073,6 +3073,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "a0c5f86b-692a-3b1c-9136-33291647725b",
+      "name": "Step1ch",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 19,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "d19f7585-ec49-3d82-8d27-a1bd805101b9",
@@ -10830,8 +10852,8 @@
       },
       "wins": 0,
       "losses": 2,
-      "kills": 12,
-      "deaths": 16,
+      "kills": 39,
+      "deaths": 32,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
