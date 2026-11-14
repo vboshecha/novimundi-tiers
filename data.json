@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-14T16:30:27.236428449Z",
+  "generated": "2026-11-14T16:40:27.234272807Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5972,11 +5972,11 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "kills": 44,
+      "kills": 45,
       "deaths": 55,
-      "bestStreak": 0,
+      "bestStreak": 1,
       "kits": {},
       "licensed": true
     },
@@ -10788,6 +10788,28 @@
       "losses": 1,
       "kills": 28,
       "deaths": 26,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
+      "uuid": "a06a20f8-0c1a-3761-b732-9544dd468b92",
+      "name": "lotre111",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 4,
+      "deaths": 3,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
