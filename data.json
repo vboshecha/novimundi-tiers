@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-15T11:05:27.241843840Z",
+  "generated": "2026-11-15T11:10:27.238112094Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1303,6 +1303,28 @@
       "licensed": false
     },
     {
+      "uuid": "7473117b-37f2-307f-a2f7-b651579f09b8",
+      "name": "TTaPok",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 8,
+      "deaths": 6,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
+    },
+    {
       "uuid": "857b4e57-d6a9-33d9-a35d-3d62ba00d26c",
       "name": "Avtomatisaziya",
       "points": 0,
@@ -2384,9 +2406,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 3,
+      "wins": 4,
       "losses": 9,
-      "kills": 16,
+      "kills": 17,
       "deaths": 23,
       "bestStreak": 0,
       "kits": {
@@ -6018,6 +6040,43 @@
       "licensed": true
     },
     {
+      "uuid": "b914ca00-4b99-39dc-bf32-b551e8ba0626",
+      "name": "Boss_kokos",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 42,
+      "deaths": 14,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 12,
+          "deaths": 1
+        },
+        "aug_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 10,
+          "deaths": 1
+        }
+      },
+      "licensed": true
+    },
+    {
       "uuid": "9db4f94b-a9e4-3398-8170-4bb500dced29",
       "name": "Egor70",
       "points": 0,
@@ -7821,6 +7880,28 @@
           "deaths": 54
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "1ae19bc7-71d7-38fe-8698-4c56146bb080",
+      "name": "terez_09p",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 7,
+      "deaths": 12,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -10668,9 +10749,9 @@
         "tournament": 1000
       },
       "wins": 107,
-      "losses": 64,
+      "losses": 65,
       "kills": 300,
-      "deaths": 165,
+      "deaths": 166,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
