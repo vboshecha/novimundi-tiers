@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-14T19:20:27.234406204Z",
+  "generated": "2026-11-15T10:30:27.248490721Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2369,6 +2369,36 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "32715fdc-0f07-3b2e-aaca-e65f3c9dd5ec",
+      "name": "Paksofi4",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 1
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "fb35155e-8cef-3fe1-b91d-7030db385317",
@@ -10630,10 +10660,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 98,
+      "wins": 99,
       "losses": 61,
-      "kills": 277,
-      "deaths": 149,
+      "kills": 279,
+      "deaths": 150,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
@@ -10661,8 +10691,8 @@
           "games": 35,
           "wins": 23,
           "losses": 12,
-          "kills": 82,
-          "deaths": 49
+          "kills": 83,
+          "deaths": 50
         },
         "m1novi": {
           "games": 6,
