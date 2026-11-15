@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-15T13:30:27.242237864Z",
+  "generated": "2026-11-15T13:35:27.241665338Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6338,9 +6338,9 @@
         "tournament": 1000
       },
       "wins": 75,
-      "losses": 36,
-      "kills": 635,
-      "deaths": 447,
+      "losses": 37,
+      "kills": 640,
+      "deaths": 451,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -6365,11 +6365,11 @@
           "deaths": 31
         },
         "p90_atl": {
-          "games": 45,
+          "games": 46,
           "wins": 31,
-          "losses": 11,
-          "kills": 336,
-          "deaths": 222
+          "losses": 12,
+          "kills": 341,
+          "deaths": 226
         },
         "vintovka": {
           "games": 6,
@@ -7578,9 +7578,9 @@
         "tournament": 1000
       },
       "wins": 31,
-      "losses": 52,
-      "kills": 332,
-      "deaths": 431,
+      "losses": 53,
+      "kills": 336,
+      "deaths": 436,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7605,11 +7605,11 @@
           "deaths": 24
         },
         "p90_atl": {
-          "games": 34,
+          "games": 35,
           "wins": 12,
-          "losses": 21,
-          "kills": 162,
-          "deaths": 206
+          "losses": 22,
+          "kills": 166,
+          "deaths": 211
         },
         "vintovka": {
           "games": 3,
@@ -8413,10 +8413,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 41,
+      "wins": 42,
       "losses": 56,
-      "kills": 349,
-      "deaths": 487,
+      "kills": 353,
+      "deaths": 491,
       "bestStreak": 7,
       "kits": {
         "akm_atl": {
@@ -8441,11 +8441,11 @@
           "deaths": 43
         },
         "p90_atl": {
-          "games": 38,
-          "wins": 15,
+          "games": 39,
+          "wins": 16,
           "losses": 22,
-          "kills": 170,
-          "deaths": 209
+          "kills": 174,
+          "deaths": 213
         },
         "vintovka": {
           "games": 5,
