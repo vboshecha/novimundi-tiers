@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-16T17:24:39.281932986Z",
+  "generated": "2026-11-16T18:39:39.288502441Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4433,10 +4433,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 41,
+      "wins": 42,
       "losses": 101,
-      "kills": 297,
-      "deaths": 448,
+      "kills": 299,
+      "deaths": 449,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6688,10 +6688,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 42,
-      "losses": 63,
-      "kills": 416,
-      "deaths": 281,
+      "wins": 43,
+      "losses": 64,
+      "kills": 420,
+      "deaths": 283,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7447,6 +7447,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "6a47899e-b7e6-3f08-95ef-84ea4d64c2aa",
+      "name": "le_valera",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "60041797-8374-3c01-b4b4-38565db7b7b3",
