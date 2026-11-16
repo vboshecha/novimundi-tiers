@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-16T13:29:39.283605573Z",
+  "generated": "2026-11-16T14:14:39.285923513Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3609,6 +3609,28 @@
       "licensed": true
     },
     {
+      "uuid": "78ca309e-cfbf-3d5a-88ae-4db3eab655b7",
+      "name": "Faktilov",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "9016d0fe-6789-361d-82a3-a36655284d20",
       "name": "maxsharkapidr",
       "points": 0,
@@ -4062,6 +4084,28 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "65ae8243-71aa-3c8f-9687-e538a5fa7054",
+      "name": "FRIZZZY",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 2,
+      "deaths": 1,
+      "bestStreak": 1,
+      "kits": {},
+      "licensed": true
     },
     {
       "uuid": "311cf322-4c80-39bb-9016-e49460399365",
