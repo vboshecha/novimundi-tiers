@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-16T10:44:39.282019033Z",
+  "generated": "2026-11-16T12:44:39.306308931Z",
   "tiers": [
     {
       "key": "HT1",
@@ -779,17 +779,17 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 6,
+      "wins": 7,
       "losses": 9,
-      "kills": 67,
+      "kills": 72,
       "deaths": 56,
       "bestStreak": 3,
       "kits": {
         "akm_atl": {
-          "games": 3,
-          "wins": 2,
+          "games": 4,
+          "wins": 3,
           "losses": 1,
-          "kills": 17,
+          "kills": 22,
           "deaths": 11
         },
         "aug_atl": {
@@ -11100,6 +11100,36 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "39f50435-8f73-3099-9e96-ee14d8fe4d63",
+      "name": "Anton06292",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 5
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "3c1356a8-d987-3603-b73b-78014568e85a",
