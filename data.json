@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-15T20:54:39.284539307Z",
+  "generated": "2026-11-16T10:24:39.292180011Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2412,6 +2412,28 @@
           "deaths": 13
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "5b1cb783-1265-33e6-a97e-921aa4e686ce",
+      "name": "_thehotentest_",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 0,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -8058,9 +8080,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 10,
+      "wins": 12,
       "losses": 8,
-      "kills": 28,
+      "kills": 32,
       "deaths": 8,
       "bestStreak": 0,
       "kits": {},
