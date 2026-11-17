@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-17T18:34:41.989309604Z",
+  "generated": "2026-11-17T18:39:41.987467864Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6638,10 +6638,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 82,
+      "wins": 83,
       "losses": 42,
-      "kills": 717,
-      "deaths": 506,
+      "kills": 733,
+      "deaths": 510,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -6652,11 +6652,11 @@
           "deaths": 37
         },
         "aug_atl": {
-          "games": 7,
-          "wins": 4,
+          "games": 8,
+          "wins": 5,
           "losses": 3,
-          "kills": 37,
-          "deaths": 37
+          "kills": 53,
+          "deaths": 41
         },
         "dmr_atl": {
           "games": 9,
@@ -7909,9 +7909,9 @@
         "tournament": 1000
       },
       "wins": 32,
-      "losses": 62,
-      "kills": 385,
-      "deaths": 493,
+      "losses": 63,
+      "kills": 393,
+      "deaths": 505,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7922,11 +7922,11 @@
           "deaths": 49
         },
         "aug_atl": {
-          "games": 5,
+          "games": 6,
           "wins": 1,
-          "losses": 4,
-          "kills": 27,
-          "deaths": 32
+          "losses": 5,
+          "kills": 35,
+          "deaths": 44
         },
         "dmr_atl": {
           "games": 7,
@@ -8804,9 +8804,9 @@
         "tournament": 1000
       },
       "wins": 48,
-      "losses": 64,
-      "kills": 409,
-      "deaths": 563,
+      "losses": 65,
+      "kills": 417,
+      "deaths": 579,
       "bestStreak": 7,
       "kits": {
         "akm_atl": {
@@ -8817,11 +8817,11 @@
           "deaths": 61
         },
         "aug_atl": {
-          "games": 8,
+          "games": 9,
           "wins": 3,
-          "losses": 5,
-          "kills": 38,
-          "deaths": 41
+          "losses": 6,
+          "kills": 46,
+          "deaths": 57
         },
         "dmr_atl": {
           "games": 8,
