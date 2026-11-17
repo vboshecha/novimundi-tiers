@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-17T19:09:41.981831810Z",
+  "generated": "2026-11-17T21:19:41.983530716Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2499,6 +2499,36 @@
           "losses": 2,
           "kills": 0,
           "deaths": 4
+        }
+      },
+      "licensed": true
+    },
+    {
+      "uuid": "3b05cd15-8aac-320b-94f9-3abf551909be",
+      "name": "DKPROX13",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
         }
       },
       "licensed": true
@@ -7344,6 +7374,36 @@
       "deaths": 32,
       "bestStreak": 0,
       "kits": {},
+      "licensed": false
+    },
+    {
+      "uuid": "beb23c51-6d52-397a-937a-194a82e7effb",
+      "name": "AdminsAREdump",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 1,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        }
+      },
       "licensed": false
     },
     {
