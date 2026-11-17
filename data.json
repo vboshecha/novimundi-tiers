@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-17T14:54:39.281950318Z",
+  "generated": "2026-11-17T16:24:42.121577752Z",
   "tiers": [
     {
       "key": "HT1",
@@ -8520,6 +8520,28 @@
       "licensed": false
     },
     {
+      "uuid": "5d384c8c-0f30-369b-860c-fa0370221a71",
+      "name": "dampers2009",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 1,
+      "deaths": 0,
+      "bestStreak": 1,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "b5676f2d-8425-31ae-bec4-dd031cd2b284",
       "name": "Etrik898",
       "points": 0,
@@ -11137,6 +11159,28 @@
           "deaths": 3
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "99723202-373b-39f5-95af-fff433d95710",
+      "name": "4it776ohl",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
