@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-17T12:04:39.281824995Z",
+  "generated": "2026-11-17T14:29:39.286719560Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5186,6 +5186,42 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "ab349e1e-2301-3f38-88f3-df886c00ab54",
+      "name": "smertblizko",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 18,
+      "deaths": 8,
+      "bestStreak": 1,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 17,
+          "deaths": 5
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        }
+      }
     },
     {
       "uuid": "b9b40c58-c8bc-3ace-a822-aa1303da2f39",
@@ -10896,6 +10932,42 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "6273bd1f-b8a4-35f0-8e42-8b16a8680412",
+      "name": "ZAVTRAK_GYDRONOM",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 5,
+      "deaths": 18,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 5
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
+        }
+      }
     },
     {
       "uuid": "785a681a-c070-3a81-9dbd-d585f7b5da26",
