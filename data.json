@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-17T21:24:41.987377910Z",
+  "generated": "2026-11-17T21:29:41.986643889Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3263,6 +3263,36 @@
           "losses": 3,
           "kills": 1,
           "deaths": 7
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "812010e3-548e-38d0-9422-71cd7486bc6e",
+      "name": "xyecoco",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 2,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 1,
+          "deaths": 3
         }
       },
       "licensed": false
@@ -7397,18 +7427,18 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 2,
+      "wins": 3,
       "losses": 0,
-      "kills": 3,
-      "deaths": 0,
-      "bestStreak": 0,
+      "kills": 6,
+      "deaths": 2,
+      "bestStreak": 1,
       "kits": {
         "akm_atl": {
-          "games": 1,
-          "wins": 1,
+          "games": 2,
+          "wins": 2,
           "losses": 0,
-          "kills": 1,
-          "deaths": 0
+          "kills": 4,
+          "deaths": 1
         },
         "vintovka": {
           "games": 1,
