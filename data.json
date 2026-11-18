@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-18T15:59:23.862816320Z",
+  "generated": "2026-11-18T16:04:23.862328087Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6793,10 +6793,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 84,
+      "wins": 85,
       "losses": 45,
-      "kills": 767,
-      "deaths": 528,
+      "kills": 779,
+      "deaths": 530,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -6810,8 +6810,8 @@
           "games": 8,
           "wins": 5,
           "losses": 3,
-          "kills": 53,
-          "deaths": 41
+          "kills": 62,
+          "deaths": 43
         },
         "dmr_atl": {
           "games": 9,
@@ -6821,10 +6821,10 @@
           "deaths": 31
         },
         "p90_atl": {
-          "games": 52,
-          "wins": 35,
+          "games": 53,
+          "wins": 36,
           "losses": 14,
-          "kills": 418,
+          "kills": 421,
           "deaths": 273
         },
         "vintovka": {
@@ -9111,9 +9111,9 @@
         "tournament": 1000
       },
       "wins": 51,
-      "losses": 66,
-      "kills": 444,
-      "deaths": 603,
+      "losses": 67,
+      "kills": 447,
+      "deaths": 610,
       "bestStreak": 7,
       "kits": {
         "akm_atl": {
@@ -9127,8 +9127,8 @@
           "games": 9,
           "wins": 3,
           "losses": 6,
-          "kills": 46,
-          "deaths": 57
+          "kills": 48,
+          "deaths": 62
         },
         "dmr_atl": {
           "games": 8,
@@ -9138,11 +9138,11 @@
           "deaths": 43
         },
         "p90_atl": {
-          "games": 45,
+          "games": 46,
           "wins": 18,
-          "losses": 26,
-          "kills": 223,
-          "deaths": 276
+          "losses": 27,
+          "kills": 224,
+          "deaths": 278
         },
         "vintovka": {
           "games": 5,
@@ -10750,6 +10750,42 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "3b4e0ddc-8465-3b2d-a0bd-9e88184b5942",
+      "name": "AwakE001",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 4,
+      "deaths": 23,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 5
+        },
+        "p90_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 3,
+          "deaths": 18
+        }
+      }
     },
     {
       "uuid": "7898e475-76c5-3b84-8361-f5e4ac11edd1",
