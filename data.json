@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-18T23:14:23.861636471Z",
+  "generated": "2026-11-18T23:19:23.857694075Z",
   "tiers": [
     {
       "key": "HT1",
@@ -10809,10 +10809,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 3,
-      "losses": 15,
-      "kills": 37,
-      "deaths": 65,
+      "wins": 5,
+      "losses": 16,
+      "kills": 43,
+      "deaths": 68,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -10837,18 +10837,25 @@
           "deaths": 3
         },
         "p90_atl": {
-          "games": 3,
-          "wins": 0,
+          "games": 4,
+          "wins": 1,
           "losses": 3,
-          "kills": 13,
+          "kills": 14,
           "deaths": 14
         },
         "vintovka": {
+          "games": 2,
+          "wins": 1,
+          "losses": 1,
+          "kills": 3,
+          "deaths": 2
+        },
+        "m1novi": {
           "games": 1,
           "wins": 0,
           "losses": 1,
-          "kills": 0,
-          "deaths": 2
+          "kills": 2,
+          "deaths": 3
         },
         "tournament": {
           "games": 1,
@@ -14354,6 +14361,49 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "e4928ae8-eb60-3578-b73c-d836f7b52f10",
+      "name": "DeathPierceMe",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 2,
+      "kills": 6,
+      "deaths": 11,
+      "bestStreak": 0,
+      "kits": {
+        "p90_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 3,
+          "deaths": 6
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 3
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 2
+        }
+      }
     },
     {
       "uuid": "eb9d01bd-ccc8-3da5-a17d-d5fdf1aec9b3",
