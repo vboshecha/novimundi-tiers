@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-18T10:59:44.709413349Z",
+  "generated": "2026-11-18T11:04:44.481843051Z",
   "tiers": [
     {
       "key": "HT1",
@@ -8052,7 +8052,8 @@
       "kills": 0,
       "deaths": 3,
       "bestStreak": 0,
-      "kits": {}
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "8430c954-7833-3433-8211-27cc0e386c8a",
@@ -9353,7 +9354,8 @@
       "kills": 0,
       "deaths": 3,
       "bestStreak": 0,
-      "kits": {}
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "c6d5c7b7-867b-35bf-adfa-d4dd029af36e",
@@ -11955,7 +11957,8 @@
       "kills": 0,
       "deaths": 0,
       "bestStreak": 0,
-      "kits": {}
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "f95614fa-5ac6-3432-9429-1c16435a6b6f",
@@ -13830,7 +13833,8 @@
       "kills": 0,
       "deaths": 3,
       "bestStreak": 0,
-      "kits": {}
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "22d21557-3e8a-3043-a795-9f5f2f588503",
