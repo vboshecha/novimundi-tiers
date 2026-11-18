@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-18T17:14:23.856406698Z",
+  "generated": "2026-11-18T17:29:23.860756203Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3244,6 +3244,35 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "55d12286-a095-3c1b-8b65-761cad56f761",
+      "name": "safrel_41",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 3,
+      "kills": 0,
+      "deaths": 9,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 2,
+          "wins": 0,
+          "losses": 2,
+          "kills": 0,
+          "deaths": 6
+        }
+      }
     },
     {
       "uuid": "865ed580-cbe1-3032-bf14-f1568d1d8fcb",
@@ -8403,9 +8432,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 10,
+      "wins": 13,
       "losses": 2,
-      "kills": 37,
+      "kills": 46,
       "deaths": 23,
       "bestStreak": 0,
       "kits": {
@@ -8417,10 +8446,10 @@
           "deaths": 5
         },
         "tournament": {
-          "games": 5,
-          "wins": 5,
+          "games": 7,
+          "wins": 7,
           "losses": 0,
-          "kills": 23,
+          "kills": 29,
           "deaths": 10
         }
       },
