@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-17T22:29:41.983010409Z",
+  "generated": "2026-11-18T10:59:44.709413349Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1572,6 +1572,28 @@
           "deaths": 3
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "1cf24833-e638-3b51-99aa-36ac607576c0",
+      "name": "b31ryas4dqu",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -3778,6 +3800,28 @@
       "licensed": false
     },
     {
+      "uuid": "101167e3-2de1-33d9-bf29-12079ff027a5",
+      "name": "86hyo63",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "580c5adf-84c9-32f4-bac8-ac475b140dc6",
       "name": "BlueV2015",
       "points": 0,
@@ -4412,6 +4456,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "ffa7a262-04a9-311a-b824-9652d8c27620",
+      "name": "vqkue6",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "b1ec59df-5238-3865-b4b1-d2d2233537df",
@@ -5393,6 +5459,28 @@
       "licensed": false
     },
     {
+      "uuid": "286d11f6-e2e4-3d64-aaa1-478b3d790b75",
+      "name": "n6rgmi",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "b9b40c58-c8bc-3ace-a822-aa1303da2f39",
       "name": "KeslerVak",
       "points": 0,
@@ -5884,6 +5972,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "288ff041-8ab8-345c-9c93-9b7a4d5375e2",
+      "name": "viz3pa3vr83q",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "b6f89005-dae3-360e-8efb-85b41fa0ff88",
@@ -6645,6 +6755,28 @@
           "deaths": 1
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "8978ab3c-62a4-3972-99ac-e1a0e08bacaf",
+      "name": "zual6",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -7900,6 +8032,27 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "db617af1-70c0-3ea6-8f13-77312590944d",
+      "name": "3iuz1",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {}
     },
     {
       "uuid": "8430c954-7833-3433-8211-27cc0e386c8a",
@@ -9180,6 +9333,27 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "c4d6f1b6-01cb-3c3d-8957-1e85c026a512",
+      "name": "w2jripo",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {}
     },
     {
       "uuid": "c6d5c7b7-867b-35bf-adfa-d4dd029af36e",
@@ -11763,6 +11937,27 @@
       "licensed": false
     },
     {
+      "uuid": "8a805b85-a12f-39c8-8b90-2998e0aa340c",
+      "name": "srampers2009",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 0,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {}
+    },
+    {
       "uuid": "f95614fa-5ac6-3432-9429-1c16435a6b6f",
       "name": "Tul_",
       "points": 0,
@@ -13615,6 +13810,27 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "6f7d7203-baa7-3008-b784-cefe56641b1f",
+      "name": "es46wu",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {}
     },
     {
       "uuid": "22d21557-3e8a-3043-a795-9f5f2f588503",
