@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-18T17:44:23.856338901Z",
+  "generated": "2026-11-18T19:44:23.860151188Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6817,6 +6817,42 @@
       "licensed": false
     },
     {
+      "uuid": "8fa19236-58ce-3cb2-8479-535992717901",
+      "name": "13_Capybara_13",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 2
+        }
+      }
+    },
+    {
       "uuid": "60d2251e-fbda-39e3-a527-c70c5eb00ed0",
       "name": "Kirjary",
       "points": 0,
@@ -7624,9 +7660,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 8,
+      "wins": 9,
       "losses": 5,
-      "kills": 43,
+      "kills": 46,
       "deaths": 31,
       "bestStreak": 3,
       "kits": {
@@ -7634,8 +7670,15 @@
           "games": 2,
           "wins": 2,
           "losses": 0,
-          "kills": 4,
+          "kills": 5,
           "deaths": 1
+        },
+        "aug_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 0
         },
         "dmr_atl": {
           "games": 1,
