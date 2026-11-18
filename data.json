@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-18T21:14:23.869345098Z",
+  "generated": "2026-11-18T21:19:23.869708619Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1443,8 +1443,8 @@
       },
       "wins": 1,
       "losses": 2,
-      "kills": 12,
-      "deaths": 16,
+      "kills": 17,
+      "deaths": 18,
       "bestStreak": 1,
       "kits": {
         "aug_atl": {
@@ -1458,8 +1458,8 @@
           "games": 0,
           "wins": 0,
           "losses": 0,
-          "kills": 3,
-          "deaths": 0
+          "kills": 8,
+          "deaths": 2
         }
       },
       "licensed": false
@@ -7310,8 +7310,8 @@
       },
       "wins": 0,
       "losses": 1,
-      "kills": 0,
-      "deaths": 9,
+      "kills": 2,
+      "deaths": 11,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -7325,8 +7325,8 @@
           "games": 0,
           "wins": 0,
           "losses": 0,
-          "kills": 0,
-          "deaths": 3
+          "kills": 2,
+          "deaths": 5
         }
       }
     },
@@ -9821,7 +9821,7 @@
       "wins": 3,
       "losses": 1,
       "kills": 25,
-      "deaths": 9,
+      "deaths": 12,
       "bestStreak": 3,
       "kits": {
         "aug_atl": {
@@ -9836,7 +9836,7 @@
           "wins": 0,
           "losses": 0,
           "kills": 3,
-          "deaths": 0
+          "deaths": 3
         }
       },
       "licensed": false
