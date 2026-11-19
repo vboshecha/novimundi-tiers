@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-19T12:44:23.861772760Z",
+  "generated": "2026-11-19T12:49:23.863948228Z",
   "tiers": [
     {
       "key": "HT1",
@@ -216,10 +216,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 92,
+      "wins": 93,
       "losses": 75,
-      "kills": 948,
-      "deaths": 551,
+      "kills": 953,
+      "deaths": 554,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1568,9 +1568,9 @@
         "tournament": 1000
       },
       "wins": 109,
-      "losses": 83,
-      "kills": 1333,
-      "deaths": 751,
+      "losses": 84,
+      "kills": 1336,
+      "deaths": 757,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2983,6 +2983,28 @@
           "deaths": 5
         }
       },
+      "licensed": true
+    },
+    {
+      "uuid": "79c475ab-58c8-3fe7-a6ae-9481a92968ab",
+      "name": "RedWarP",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 4,
+      "deaths": 6,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": true
     },
     {
