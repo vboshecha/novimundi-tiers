@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-19T19:09:23.862062382Z",
+  "generated": "2026-11-19T19:14:23.857732116Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4671,17 +4671,17 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 14,
+      "wins": 17,
       "losses": 7,
-      "kills": 63,
+      "kills": 68,
       "deaths": 44,
       "bestStreak": 4,
       "kits": {
         "akm_atl": {
-          "games": 3,
-          "wins": 2,
+          "games": 4,
+          "wins": 3,
           "losses": 1,
-          "kills": 6,
+          "kills": 9,
           "deaths": 7
         },
         "aug_atl": {
@@ -12277,6 +12277,35 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "8184ec86-7f76-38d6-8fc0-27da7cb1902b",
+      "name": "Rallkors",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 3,
+      "kills": 2,
+      "deaths": 10,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 3
+        }
+      }
     },
     {
       "uuid": "1a87a71c-cd7f-340c-bfa7-ac62d3c3cac8",
