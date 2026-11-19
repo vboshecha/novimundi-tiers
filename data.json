@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-19T19:14:23.857732116Z",
+  "generated": "2026-11-19T19:34:23.857608291Z",
   "tiers": [
     {
       "key": "HT1",
@@ -12305,7 +12305,8 @@
           "kills": 0,
           "deaths": 3
         }
-      }
+      },
+      "licensed": false
     },
     {
       "uuid": "1a87a71c-cd7f-340c-bfa7-ac62d3c3cac8",
