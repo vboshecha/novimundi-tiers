@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-19T08:49:23.867828078Z",
+  "generated": "2026-11-19T08:54:23.867586946Z",
   "tiers": [
     {
       "key": "HT1",
@@ -781,8 +781,8 @@
       },
       "wins": 22,
       "losses": 13,
-      "kills": 196,
-      "deaths": 84,
+      "kills": 205,
+      "deaths": 89,
       "bestStreak": 10,
       "kits": {
         "akm_atl": {
@@ -810,8 +810,8 @@
           "games": 4,
           "wins": 2,
           "losses": 2,
-          "kills": 22,
-          "deaths": 10
+          "kills": 31,
+          "deaths": 15
         },
         "vintovka": {
           "games": 1,
@@ -11162,8 +11162,8 @@
       },
       "wins": 94,
       "losses": 48,
-      "kills": 879,
-      "deaths": 564,
+      "kills": 886,
+      "deaths": 571,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -11191,8 +11191,8 @@
           "games": 55,
           "wins": 38,
           "losses": 14,
-          "kills": 450,
-          "deaths": 286
+          "kills": 457,
+          "deaths": 293
         },
         "vintovka": {
           "games": 6,
@@ -12076,8 +12076,8 @@
       },
       "wins": 54,
       "losses": 76,
-      "kills": 498,
-      "deaths": 675,
+      "kills": 504,
+      "deaths": 679,
       "bestStreak": 7,
       "kits": {
         "akm_atl": {
@@ -12105,8 +12105,8 @@
           "games": 48,
           "wins": 18,
           "losses": 29,
-          "kills": 241,
-          "deaths": 299
+          "kills": 247,
+          "deaths": 303
         },
         "vintovka": {
           "games": 5,
@@ -12839,8 +12839,8 @@
       },
       "wins": 1,
       "losses": 12,
-      "kills": 37,
-      "deaths": 91,
+      "kills": 39,
+      "deaths": 99,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -12868,8 +12868,8 @@
           "games": 3,
           "wins": 0,
           "losses": 3,
-          "kills": 10,
-          "deaths": 40
+          "kills": 12,
+          "deaths": 48
         }
       },
       "licensed": false
