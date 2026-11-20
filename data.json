@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-20T19:54:23.882917140Z",
+  "generated": "2026-11-20T19:59:23.878466692Z",
   "tiers": [
     {
       "key": "HT1",
@@ -144,8 +144,8 @@
       },
       "wins": 70,
       "losses": 230,
-      "kills": 772,
-      "deaths": 521,
+      "kills": 773,
+      "deaths": 523,
       "bestStreak": 10,
       "kits": {
         "akm_atl": {
@@ -194,8 +194,8 @@
           "games": 7,
           "wins": 5,
           "losses": 2,
-          "kills": 37,
-          "deaths": 16
+          "kills": 38,
+          "deaths": 18
         }
       },
       "licensed": false
@@ -2316,7 +2316,7 @@
       "wins": 5,
       "losses": 7,
       "kills": 50,
-      "deaths": 93,
+      "deaths": 94,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -2359,7 +2359,7 @@
           "wins": 0,
           "losses": 1,
           "kills": 4,
-          "deaths": 9
+          "deaths": 10
         }
       },
       "licensed": false
@@ -6233,7 +6233,7 @@
       "wins": 1,
       "losses": 11,
       "kills": 41,
-      "deaths": 108,
+      "deaths": 109,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -6262,7 +6262,7 @@
           "wins": 0,
           "losses": 2,
           "kills": 6,
-          "deaths": 25
+          "deaths": 26
         }
       },
       "licensed": false
@@ -7410,7 +7410,7 @@
       },
       "wins": 10,
       "losses": 19,
-      "kills": 78,
+      "kills": 80,
       "deaths": 120,
       "bestStreak": 4,
       "kits": {
@@ -7453,7 +7453,7 @@
           "games": 4,
           "wins": 0,
           "losses": 4,
-          "kills": 14,
+          "kills": 16,
           "deaths": 31
         }
       },
@@ -13741,7 +13741,7 @@
       },
       "wins": 3,
       "losses": 12,
-      "kills": 85,
+      "kills": 86,
       "deaths": 118,
       "bestStreak": 1,
       "kits": {
@@ -13777,7 +13777,7 @@
           "games": 2,
           "wins": 0,
           "losses": 2,
-          "kills": 27,
+          "kills": 28,
           "deaths": 25
         }
       },
