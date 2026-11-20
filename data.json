@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-20T09:54:23.862248410Z",
+  "generated": "2026-11-20T09:59:23.856323546Z",
   "tiers": [
     {
       "key": "HT1",
@@ -216,7 +216,7 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 95,
+      "wins": 96,
       "losses": 75,
       "kills": 965,
       "deaths": 557,
@@ -12737,7 +12737,7 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 1,
+      "losses": 2,
       "kills": 2,
       "deaths": 6,
       "bestStreak": 0,
