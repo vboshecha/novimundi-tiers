@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-20T17:19:23.855419062Z",
+  "generated": "2026-11-20T18:09:23.857361721Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5214,6 +5214,36 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "28727e39-184e-37fb-a434-715446e13860",
+      "name": "Kilyha",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 3,
+      "losses": 0,
+      "kills": 5,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "e6c531de-4bae-310c-b692-82ddc36510b2",
@@ -13018,6 +13048,36 @@
       "deaths": 6,
       "bestStreak": 0,
       "kits": {},
+      "licensed": false
+    },
+    {
+      "uuid": "a07f3b3d-56c1-3163-b836-e1d280f7cb85",
+      "name": "EgorKatalov",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 3,
+      "kills": 0,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
       "licensed": false
     },
     {
