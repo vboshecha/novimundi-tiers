@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-20T14:04:23.856268953Z",
+  "generated": "2026-11-20T14:59:23.863160113Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5244,10 +5244,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 17,
+      "wins": 18,
       "losses": 12,
-      "kills": 44,
-      "deaths": 19,
+      "kills": 48,
+      "deaths": 22,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -9163,9 +9163,9 @@
         "tournament": 1000
       },
       "wins": 4,
-      "losses": 7,
-      "kills": 11,
-      "deaths": 16,
+      "losses": 8,
+      "kills": 16,
+      "deaths": 19,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -14384,6 +14384,28 @@
           "deaths": 12
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "cc775a54-51ce-3199-a2fd-8a45e781b62c",
+      "name": "Marokimaru",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
