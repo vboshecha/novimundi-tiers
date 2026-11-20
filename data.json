@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-20T11:44:23.871270100Z",
+  "generated": "2026-11-20T11:49:23.872546031Z",
   "tiers": [
     {
       "key": "HT1",
@@ -142,10 +142,10 @@
         "m1novi": 984,
         "tournament": 984
       },
-      "wins": 56,
+      "wins": 57,
       "losses": 228,
-      "kills": 587,
-      "deaths": 459,
+      "kills": 593,
+      "deaths": 460,
       "bestStreak": 10,
       "kits": {
         "akm_atl": {
@@ -184,17 +184,17 @@
           "deaths": 49
         },
         "m1novi": {
-          "games": 12,
-          "wins": 9,
+          "games": 13,
+          "wins": 10,
           "losses": 3,
-          "kills": 113,
-          "deaths": 69
+          "kills": 115,
+          "deaths": 70
         },
         "tournament": {
           "games": 5,
           "wins": 3,
           "losses": 2,
-          "kills": 9,
+          "kills": 13,
           "deaths": 7
         }
       },
@@ -1441,10 +1441,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 22,
+      "wins": 23,
       "losses": 10,
-      "kills": 178,
-      "deaths": 116,
+      "kills": 184,
+      "deaths": 117,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -1476,17 +1476,17 @@
           "deaths": 4
         },
         "m1novi": {
-          "games": 6,
-          "wins": 5,
+          "games": 7,
+          "wins": 6,
           "losses": 1,
           "kills": 62,
-          "deaths": 38
+          "deaths": 39
         },
         "tournament": {
           "games": 2,
           "wins": 2,
           "losses": 0,
-          "kills": 10,
+          "kills": 16,
           "deaths": 3
         }
       },
@@ -6115,6 +6115,43 @@
       "licensed": false
     },
     {
+      "uuid": "86808236-f628-3306-8561-d5189d3f0640",
+      "name": "n9ktar1n",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 8,
+      "deaths": 15,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 8,
+          "deaths": 12
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 3
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "071a69bb-0204-3198-8236-ce9231023a3f",
       "name": "Xsilgraz",
       "points": 0,
@@ -7256,9 +7293,9 @@
         "tournament": 1000
       },
       "wins": 9,
-      "losses": 8,
-      "kills": 21,
-      "deaths": 23,
+      "losses": 9,
+      "kills": 23,
+      "deaths": 28,
       "bestStreak": 4,
       "kits": {
         "akm_atl": {
@@ -7283,18 +7320,18 @@
           "deaths": 0
         },
         "m1novi": {
-          "games": 1,
+          "games": 2,
           "wins": 1,
-          "losses": 0,
-          "kills": 10,
-          "deaths": 11
+          "losses": 1,
+          "kills": 12,
+          "deaths": 12
         },
         "tournament": {
           "games": 2,
           "wins": 0,
           "losses": 2,
           "kills": 1,
-          "deaths": 3
+          "deaths": 7
         }
       },
       "licensed": true
