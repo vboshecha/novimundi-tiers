@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-20T12:24:23.871622872Z",
+  "generated": "2026-11-20T12:29:23.874742310Z",
   "tiers": [
     {
       "key": "HT1",
@@ -144,8 +144,8 @@
       },
       "wins": 59,
       "losses": 228,
-      "kills": 648,
-      "deaths": 474,
+      "kills": 661,
+      "deaths": 476,
       "bestStreak": 10,
       "kits": {
         "akm_atl": {
@@ -1443,8 +1443,8 @@
       },
       "wins": 25,
       "losses": 10,
-      "kills": 212,
-      "deaths": 139,
+      "kills": 215,
+      "deaths": 143,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -3150,11 +3150,11 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
+      "wins": 2,
       "losses": 3,
-      "kills": 15,
+      "kills": 16,
       "deaths": 27,
-      "bestStreak": 0,
+      "bestStreak": 1,
       "kits": {},
       "licensed": true
     },
@@ -6131,7 +6131,7 @@
       "wins": 0,
       "losses": 3,
       "kills": 16,
-      "deaths": 42,
+      "deaths": 47,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -7301,8 +7301,8 @@
       },
       "wins": 9,
       "losses": 11,
-      "kills": 37,
-      "deaths": 56,
+      "kills": 41,
+      "deaths": 61,
       "bestStreak": 4,
       "kits": {
         "akm_atl": {
@@ -7525,6 +7525,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "b6db8a05-7aa8-38dc-bb64-e7720a8e4350",
+      "name": "kasinka_top",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "05d13b02-b7a8-323a-a83a-4fc9df48709e",
@@ -13442,8 +13464,8 @@
       },
       "wins": 0,
       "losses": 2,
-      "kills": 14,
-      "deaths": 31,
+      "kills": 16,
+      "deaths": 37,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
