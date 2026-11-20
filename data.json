@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-20T16:54:23.860338882Z",
+  "generated": "2026-11-20T16:59:23.859930640Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1441,11 +1441,11 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 30,
+      "wins": 32,
       "losses": 10,
-      "kills": 267,
-      "deaths": 169,
-      "bestStreak": 6,
+      "kills": 281,
+      "deaths": 175,
+      "bestStreak": 8,
       "kits": {
         "akm_atl": {
           "games": 2,
@@ -1458,7 +1458,7 @@
           "games": 12,
           "wins": 8,
           "losses": 4,
-          "kills": 74,
+          "kills": 76,
           "deaths": 53
         },
         "dmr_atl": {
@@ -1475,12 +1475,19 @@
           "kills": 7,
           "deaths": 4
         },
+        "vintovka": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 11,
+          "deaths": 5
+        },
         "m1novi": {
-          "games": 9,
-          "wins": 8,
+          "games": 10,
+          "wins": 9,
           "losses": 1,
-          "kills": 87,
-          "deaths": 52
+          "kills": 88,
+          "deaths": 53
         },
         "tournament": {
           "games": 4,
@@ -6087,6 +6094,50 @@
           "losses": 2,
           "kills": 2,
           "deaths": 21
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "885b7bea-61e2-31f8-8a0b-707e7ad50180",
+      "name": "TEEEEEEEEMA",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 10,
+      "deaths": 24,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 2
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 5,
+          "deaths": 11
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 5,
+          "deaths": 11
         }
       },
       "licensed": false
