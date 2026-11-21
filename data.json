@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-21T13:44:23.882346512Z",
+  "generated": "2026-11-21T13:49:23.878358843Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4016,10 +4016,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 20,
+      "wins": 21,
       "losses": 24,
-      "kills": 232,
-      "deaths": 186,
+      "kills": 234,
+      "deaths": 191,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -7684,10 +7684,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 20,
+      "wins": 21,
       "losses": 29,
-      "kills": 174,
-      "deaths": 227,
+      "kills": 176,
+      "deaths": 230,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -8440,9 +8440,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 4,
-      "kills": 20,
-      "deaths": 14,
+      "losses": 5,
+      "kills": 26,
+      "deaths": 17,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
@@ -10224,9 +10224,9 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 2,
-      "kills": 4,
-      "deaths": 7,
+      "losses": 3,
+      "kills": 8,
+      "deaths": 10,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -13289,10 +13289,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
-      "kills": 7,
-      "deaths": 14,
+      "kills": 10,
+      "deaths": 18,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -13833,9 +13833,9 @@
         "tournament": 1000
       },
       "wins": 8,
-      "losses": 5,
+      "losses": 6,
       "kills": 16,
-      "deaths": 22,
+      "deaths": 27,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -15159,10 +15159,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 7,
+      "wins": 8,
       "losses": 7,
-      "kills": 31,
-      "deaths": 27,
+      "kills": 39,
+      "deaths": 29,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
