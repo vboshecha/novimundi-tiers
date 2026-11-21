@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-21T13:54:23.875543828Z",
+  "generated": "2026-11-21T13:59:23.867776708Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4018,8 +4018,8 @@
       },
       "wins": 22,
       "losses": 25,
-      "kills": 238,
-      "deaths": 195,
+      "kills": 241,
+      "deaths": 196,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -7868,6 +7868,36 @@
       "licensed": false
     },
     {
+      "uuid": "7379a938-82f1-34b6-96ac-861241487e9d",
+      "name": "PutinSosalXuy12",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 5,
+      "deaths": 11,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 5,
+          "deaths": 11
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "401117dd-b5a7-39fe-b2ba-50559f73b579",
       "name": "ICelci",
       "points": 0,
@@ -8255,10 +8285,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
+      "wins": 2,
       "losses": 1,
-      "kills": 19,
-      "deaths": 13,
+      "kills": 25,
+      "deaths": 17,
       "bestStreak": 0,
       "kits": {
         "p90_atl": {
@@ -8269,11 +8299,11 @@
           "deaths": 10
         },
         "m1novi": {
-          "games": 1,
-          "wins": 1,
+          "games": 2,
+          "wins": 2,
           "losses": 0,
-          "kills": 12,
-          "deaths": 3
+          "kills": 18,
+          "deaths": 7
         }
       },
       "licensed": false
@@ -8441,8 +8471,8 @@
       },
       "wins": 4,
       "losses": 6,
-      "kills": 32,
-      "deaths": 23,
+      "kills": 37,
+      "deaths": 24,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
@@ -10226,7 +10256,7 @@
       "wins": 3,
       "losses": 4,
       "kills": 10,
-      "deaths": 15,
+      "deaths": 18,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -13291,8 +13321,8 @@
       },
       "wins": 4,
       "losses": 5,
-      "kills": 16,
-      "deaths": 21,
+      "kills": 17,
+      "deaths": 24,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -15161,8 +15191,8 @@
       },
       "wins": 10,
       "losses": 7,
-      "kills": 45,
-      "deaths": 31,
+      "kills": 46,
+      "deaths": 33,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
