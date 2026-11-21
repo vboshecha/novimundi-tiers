@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-21T16:54:23.855425397Z",
+  "generated": "2026-11-21T18:19:23.857509339Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3393,6 +3393,36 @@
           "losses": 4,
           "kills": 15,
           "deaths": 25
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "1f60e8cb-c23b-3b4b-a1ea-f93092111d0e",
+      "name": "Artem_011282",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 3,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 1
         }
       },
       "licensed": false
@@ -15346,9 +15376,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 13,
-      "kills": 82,
-      "deaths": 73,
+      "losses": 14,
+      "kills": 83,
+      "deaths": 76,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -15359,11 +15389,11 @@
           "deaths": 7
         },
         "m1novi": {
-          "games": 7,
+          "games": 8,
           "wins": 0,
-          "losses": 7,
-          "kills": 27,
-          "deaths": 31
+          "losses": 8,
+          "kills": 28,
+          "deaths": 34
         }
       },
       "licensed": true
