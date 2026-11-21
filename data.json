@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-21T15:14:23.872343489Z",
+  "generated": "2026-11-21T15:19:23.881505652Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4017,9 +4017,9 @@
         "tournament": 1000
       },
       "wins": 27,
-      "losses": 33,
-      "kills": 300,
-      "deaths": 253,
+      "losses": 34,
+      "kills": 301,
+      "deaths": 258,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7341,6 +7341,28 @@
       "licensed": false
     },
     {
+      "uuid": "b9093cf9-31ad-3a7c-a199-46ce369bccc0",
+      "name": "Stariy_Dog",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 14,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
+    },
+    {
       "uuid": "77bcec08-fce9-360c-a98a-ee9d08aabdd9",
       "name": "Viper",
       "points": 0,
@@ -7692,9 +7714,9 @@
         "tournament": 1000
       },
       "wins": 22,
-      "losses": 32,
-      "kills": 195,
-      "deaths": 260,
+      "losses": 33,
+      "kills": 198,
+      "deaths": 267,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -8476,10 +8498,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 7,
+      "wins": 8,
       "losses": 16,
-      "kills": 98,
-      "deaths": 80,
+      "kills": 104,
+      "deaths": 85,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -12995,8 +13017,8 @@
       },
       "wins": 7,
       "losses": 5,
-      "kills": 70,
-      "deaths": 58,
+      "kills": 71,
+      "deaths": 60,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
@@ -15227,9 +15249,9 @@
         "tournament": 1000
       },
       "wins": 20,
-      "losses": 10,
-      "kills": 109,
-      "deaths": 89,
+      "losses": 11,
+      "kills": 111,
+      "deaths": 93,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -15286,9 +15308,9 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 10,
-      "kills": 62,
-      "deaths": 55,
+      "losses": 11,
+      "kills": 68,
+      "deaths": 60,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
