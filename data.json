@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-21T13:39:23.882660331Z",
+  "generated": "2026-11-21T13:44:23.882346512Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4016,9 +4016,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 18,
+      "wins": 20,
       "losses": 24,
-      "kills": 225,
+      "kills": 232,
       "deaths": 186,
       "bestStreak": 0,
       "kits": {
@@ -7684,10 +7684,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 19,
-      "losses": 28,
-      "kills": 171,
-      "deaths": 223,
+      "wins": 20,
+      "losses": 29,
+      "kills": 174,
+      "deaths": 227,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -8439,10 +8439,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 2,
-      "losses": 3,
-      "kills": 14,
-      "deaths": 11,
+      "wins": 3,
+      "losses": 4,
+      "kills": 20,
+      "deaths": 14,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
@@ -10223,10 +10223,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
-      "losses": 1,
-      "kills": 1,
-      "deaths": 2,
+      "wins": 2,
+      "losses": 2,
+      "kills": 4,
+      "deaths": 7,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -13289,10 +13289,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
-      "losses": 3,
-      "kills": 3,
-      "deaths": 10,
+      "wins": 2,
+      "losses": 4,
+      "kills": 7,
+      "deaths": 14,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -13832,10 +13832,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 7,
-      "losses": 4,
+      "wins": 8,
+      "losses": 5,
       "kills": 16,
-      "deaths": 18,
+      "deaths": 22,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
@@ -15159,10 +15159,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 6,
-      "losses": 6,
-      "kills": 30,
-      "deaths": 23,
+      "wins": 7,
+      "losses": 7,
+      "kills": 31,
+      "deaths": 27,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
