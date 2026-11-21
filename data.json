@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-21T20:29:23.856221580Z",
+  "generated": "2026-11-21T21:49:23.862588542Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3009,6 +3009,28 @@
       "kills": 1,
       "deaths": 11,
       "bestStreak": 1,
+      "kits": {},
+      "licensed": false
+    },
+    {
+      "uuid": "87407462-06a8-33f4-b1ff-e06869fafece",
+      "name": "krull_tepess",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 1,
+      "bestStreak": 0,
       "kits": {},
       "licensed": false
     },
@@ -13343,6 +13365,28 @@
           "deaths": 3
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "39e88a16-8126-3ace-8845-41d3faa81502",
+      "name": "Brandon_Holland",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 1,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
