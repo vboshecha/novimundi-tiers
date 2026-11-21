@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-21T07:44:23.865432869Z",
+  "generated": "2026-11-21T07:49:23.862567817Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6230,10 +6230,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 4,
+      "wins": 5,
       "losses": 15,
-      "kills": 81,
-      "deaths": 174,
+      "kills": 84,
+      "deaths": 177,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6265,11 +6265,11 @@
           "deaths": 3
         },
         "m1novi": {
-          "games": 5,
-          "wins": 0,
+          "games": 6,
+          "wins": 1,
           "losses": 5,
-          "kills": 26,
-          "deaths": 51
+          "kills": 29,
+          "deaths": 54
         },
         "tournament": {
           "games": 4,
@@ -7663,10 +7663,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 13,
+      "wins": 14,
       "losses": 9,
       "kills": 118,
-      "deaths": 134,
+      "deaths": 138,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -7698,11 +7698,11 @@
           "deaths": 10
         },
         "m1novi": {
-          "games": 4,
-          "wins": 2,
+          "games": 5,
+          "wins": 3,
           "losses": 2,
           "kills": 19,
-          "deaths": 34
+          "deaths": 38
         },
         "tournament": {
           "games": 3,
@@ -13754,9 +13754,9 @@
         "tournament": 1000
       },
       "wins": 5,
-      "losses": 14,
-      "kills": 137,
-      "deaths": 158,
+      "losses": 15,
+      "kills": 144,
+      "deaths": 161,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -13781,11 +13781,11 @@
           "deaths": 8
         },
         "m1novi": {
-          "games": 4,
+          "games": 5,
           "wins": 0,
-          "losses": 4,
-          "kills": 35,
-          "deaths": 43
+          "losses": 5,
+          "kills": 42,
+          "deaths": 46
         },
         "tournament": {
           "games": 3,
