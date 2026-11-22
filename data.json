@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-22T12:44:23.857013635Z",
+  "generated": "2026-11-22T14:29:23.860631425Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6741,10 +6741,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 33,
-      "losses": 33,
-      "kills": 82,
-      "deaths": 43,
+      "wins": 35,
+      "losses": 34,
+      "kills": 85,
+      "deaths": 44,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6762,10 +6762,10 @@
           "deaths": 1
         },
         "dmr_atl": {
-          "games": 3,
-          "wins": 2,
+          "games": 4,
+          "wins": 3,
           "losses": 1,
-          "kills": 4,
+          "kills": 5,
           "deaths": 2
         },
         "p90_atl": {
@@ -6783,11 +6783,11 @@
           "deaths": 6
         },
         "m1novi": {
-          "games": 3,
+          "games": 4,
           "wins": 3,
-          "losses": 0,
+          "losses": 1,
           "kills": 5,
-          "deaths": 1
+          "deaths": 2
         },
         "tournament": {
           "games": 8,
@@ -13856,10 +13856,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 26,
-      "losses": 83,
-      "kills": 90,
-      "deaths": 150,
+      "wins": 27,
+      "losses": 85,
+      "kills": 91,
+      "deaths": 153,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -13877,11 +13877,11 @@
           "deaths": 3
         },
         "dmr_atl": {
-          "games": 7,
+          "games": 8,
           "wins": 3,
-          "losses": 4,
+          "losses": 5,
           "kills": 12,
-          "deaths": 18
+          "deaths": 19
         },
         "p90_atl": {
           "games": 5,
@@ -13898,10 +13898,10 @@
           "deaths": 12
         },
         "m1novi": {
-          "games": 5,
-          "wins": 1,
+          "games": 6,
+          "wins": 2,
           "losses": 4,
-          "kills": 2,
+          "kills": 3,
           "deaths": 7
         },
         "tournament": {
