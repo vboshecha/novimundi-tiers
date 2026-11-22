@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-22T19:49:23.855351997Z",
+  "generated": "2026-11-22T22:34:23.867226865Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5850,6 +5850,43 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "0d93a5b8-b7f4-3bbe-a9a7-cd5ed16c63b2",
+      "name": "Pvp_tyntyn",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 8,
+      "deaths": 22,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 4,
+          "deaths": 11
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 4,
+          "deaths": 11
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "b5676f2d-8425-31ae-bec4-dd031cd2b284",
@@ -15641,6 +15678,43 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "83230bf7-cf95-38d8-9b7c-98efc3ca70aa",
+      "name": "anton9999",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 2,
+      "losses": 0,
+      "kills": 22,
+      "deaths": 8,
+      "bestStreak": 2,
+      "kits": {
+        "aug_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 11,
+          "deaths": 4
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 11,
+          "deaths": 4
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "84ef40c5-cba6-31de-a236-642d23c92cee",
