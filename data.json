@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-22T18:39:23.873893728Z",
+  "generated": "2026-11-22T18:44:23.876943524Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3408,8 +3408,8 @@
       },
       "wins": 26,
       "losses": 21,
-      "kills": 106,
-      "deaths": 64,
+      "kills": 107,
+      "deaths": 65,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -3451,8 +3451,8 @@
           "games": 6,
           "wins": 3,
           "losses": 3,
-          "kills": 11,
-          "deaths": 8
+          "kills": 12,
+          "deaths": 9
         }
       },
       "licensed": false
@@ -4335,7 +4335,7 @@
       "wins": 1,
       "losses": 9,
       "kills": 19,
-      "deaths": 20,
+      "deaths": 21,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -4351,6 +4351,13 @@
           "losses": 2,
           "kills": 10,
           "deaths": 4
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
         }
       },
       "licensed": false
@@ -5148,7 +5155,7 @@
       "wins": 4,
       "losses": 6,
       "kills": 11,
-      "deaths": 22,
+      "deaths": 23,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -5164,6 +5171,13 @@
           "losses": 2,
           "kills": 2,
           "deaths": 5
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
         }
       },
       "licensed": false
@@ -8462,7 +8476,7 @@
       "wins": 10,
       "losses": 8,
       "kills": 32,
-      "deaths": 34,
+      "deaths": 38,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -11915,7 +11929,7 @@
       },
       "wins": 14,
       "losses": 32,
-      "kills": 50,
+      "kills": 51,
       "deaths": 87,
       "bestStreak": 0,
       "kits": {
@@ -11958,7 +11972,7 @@
           "games": 6,
           "wins": 1,
           "losses": 5,
-          "kills": 2,
+          "kills": 3,
           "deaths": 14
         }
       },
@@ -14324,7 +14338,7 @@
       },
       "wins": 82,
       "losses": 101,
-      "kills": 662,
+      "kills": 666,
       "deaths": 561,
       "bestStreak": 6,
       "kits": {
@@ -14485,7 +14499,7 @@
       },
       "wins": 1,
       "losses": 15,
-      "kills": 14,
+      "kills": 15,
       "deaths": 40,
       "bestStreak": 0,
       "kits": {
@@ -14514,7 +14528,7 @@
           "games": 1,
           "wins": 0,
           "losses": 1,
-          "kills": 2,
+          "kills": 3,
           "deaths": 3
         }
       },
