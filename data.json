@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-22T11:59:23.866332695Z",
+  "generated": "2026-11-22T12:04:23.861209460Z",
   "tiers": [
     {
       "key": "HT1",
@@ -7181,9 +7181,9 @@
         "tournament": 1000
       },
       "wins": 17,
-      "losses": 17,
-      "kills": 60,
-      "deaths": 72,
+      "losses": 18,
+      "kills": 63,
+      "deaths": 73,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7486,10 +7486,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 20,
+      "wins": 21,
       "losses": 15,
-      "kills": 137,
-      "deaths": 57,
+      "kills": 139,
+      "deaths": 59,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -12523,10 +12523,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 111,
+      "wins": 113,
       "losses": 58,
-      "kills": 1054,
-      "deaths": 662,
+      "kills": 1059,
+      "deaths": 663,
       "bestStreak": 6,
       "kits": {
         "akm_atl": {
@@ -12554,8 +12554,8 @@
           "games": 68,
           "wins": 47,
           "losses": 18,
-          "kills": 563,
-          "deaths": 349
+          "kills": 565,
+          "deaths": 350
         },
         "vintovka": {
           "games": 6,
@@ -13615,9 +13615,9 @@
         "tournament": 1000
       },
       "wins": 68,
-      "losses": 94,
-      "kills": 640,
-      "deaths": 846,
+      "losses": 96,
+      "kills": 641,
+      "deaths": 851,
       "bestStreak": 7,
       "kits": {
         "akm_atl": {
@@ -13645,8 +13645,8 @@
           "games": 62,
           "wins": 24,
           "losses": 37,
-          "kills": 324,
-          "deaths": 393
+          "kills": 325,
+          "deaths": 395
         },
         "vintovka": {
           "games": 5,
@@ -15623,9 +15623,9 @@
         "tournament": 1000
       },
       "wins": 17,
-      "losses": 32,
-      "kills": 146,
-      "deaths": 147,
+      "losses": 33,
+      "kills": 147,
+      "deaths": 150,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
