@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-23T12:29:23.863593660Z",
+  "generated": "2026-11-23T12:34:23.865046449Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1975,18 +1975,25 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 0,
-      "losses": 2,
-      "kills": 29,
-      "deaths": 38,
+      "wins": 1,
+      "losses": 3,
+      "kills": 32,
+      "deaths": 46,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 0,
+          "games": 1,
           "wins": 0,
+          "losses": 1,
+          "kills": 12,
+          "deaths": 19
+        },
+        "dmr_atl": {
+          "games": 1,
+          "wins": 1,
           "losses": 0,
-          "kills": 11,
-          "deaths": 17
+          "kills": 2,
+          "deaths": 6
         },
         "p90_atl": {
           "games": 1,
@@ -7350,17 +7357,24 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 2,
-      "kills": 12,
-      "deaths": 41,
+      "losses": 3,
+      "kills": 13,
+      "deaths": 45,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 1,
+          "games": 2,
           "wins": 1,
-          "losses": 0,
+          "losses": 1,
           "kills": 4,
-          "deaths": 18
+          "deaths": 19
+        },
+        "dmr_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 3
         },
         "p90_atl": {
           "games": 1,
@@ -7386,18 +7400,18 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 11,
-      "losses": 7,
-      "kills": 227,
-      "deaths": 114,
+      "wins": 12,
+      "losses": 8,
+      "kills": 235,
+      "deaths": 118,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 4,
-          "wins": 2,
+          "games": 5,
+          "wins": 3,
           "losses": 2,
-          "kills": 57,
-          "deaths": 23
+          "kills": 58,
+          "deaths": 24
         },
         "aug_atl": {
           "games": 1,
@@ -7407,11 +7421,11 @@
           "deaths": 7
         },
         "dmr_atl": {
-          "games": 1,
+          "games": 2,
           "wins": 1,
-          "losses": 0,
-          "kills": 18,
-          "deaths": 11
+          "losses": 1,
+          "kills": 25,
+          "deaths": 14
         },
         "p90_atl": {
           "games": 5,
@@ -8088,15 +8102,15 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 8,
+      "losses": 9,
       "kills": 130,
       "deaths": 101,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 3,
+          "games": 4,
           "wins": 1,
-          "losses": 2,
+          "losses": 3,
           "kills": 25,
           "deaths": 22
         },
@@ -14903,16 +14917,16 @@
         "tournament": 1000
       },
       "wins": 14,
-      "losses": 38,
-      "kills": 254,
-      "deaths": 404,
+      "losses": 40,
+      "kills": 262,
+      "deaths": 408,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 6,
+          "games": 7,
           "wins": 0,
-          "losses": 6,
-          "kills": 37,
+          "losses": 7,
+          "kills": 39,
           "deaths": 44
         },
         "aug_atl": {
@@ -14923,11 +14937,11 @@
           "deaths": 52
         },
         "dmr_atl": {
-          "games": 4,
+          "games": 5,
           "wins": 1,
-          "losses": 3,
-          "kills": 28,
-          "deaths": 50
+          "losses": 4,
+          "kills": 34,
+          "deaths": 54
         },
         "p90_atl": {
           "games": 16,
@@ -16843,15 +16857,15 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 3,
+      "losses": 4,
       "kills": 14,
       "deaths": 31,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "kills": 3,
           "deaths": 9
         },
