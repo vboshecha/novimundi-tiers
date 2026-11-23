@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-23T18:19:23.862575567Z",
+  "generated": "2026-11-23T18:24:23.861680838Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4407,11 +4407,25 @@
         "tournament": 1000
       },
       "wins": 13,
-      "losses": 24,
-      "kills": 71,
-      "deaths": 59,
+      "losses": 27,
+      "kills": 72,
+      "deaths": 64,
       "bestStreak": 0,
       "kits": {
+        "akm_atl": {
+          "games": 2,
+          "wins": 0,
+          "losses": 2,
+          "kills": 0,
+          "deaths": 4
+        },
+        "dmr_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        },
         "vintovka": {
           "games": 2,
           "wins": 0,
@@ -5252,6 +5266,43 @@
           "losses": 3,
           "kills": 1,
           "deaths": 9
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "ca15fe8b-dfab-383b-915c-4f132de29aa5",
+      "name": "Abdula2014",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 5,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 2,
+          "wins": 1,
+          "losses": 1,
+          "kills": 5,
+          "deaths": 2
+        },
+        "dmr_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
         }
       },
       "licensed": false
@@ -12097,24 +12148,24 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 22,
-      "losses": 51,
-      "kills": 84,
-      "deaths": 131,
+      "wins": 24,
+      "losses": 52,
+      "kills": 89,
+      "deaths": 134,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 1,
-          "wins": 0,
-          "losses": 1,
-          "kills": 1,
-          "deaths": 2
+          "games": 3,
+          "wins": 1,
+          "losses": 2,
+          "kills": 4,
+          "deaths": 4
         },
         "dmr_atl": {
           "games": 1,
           "wins": 1,
           "losses": 0,
-          "kills": 0,
+          "kills": 2,
           "deaths": 0
         },
         "p90_atl": {
