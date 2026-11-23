@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-23T12:14:23.861759859Z",
+  "generated": "2026-11-23T12:19:23.869749532Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1977,10 +1977,17 @@
       },
       "wins": 0,
       "losses": 2,
-      "kills": 18,
-      "deaths": 21,
+      "kills": 20,
+      "deaths": 26,
       "bestStreak": 0,
       "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 2,
+          "deaths": 5
+        },
         "p90_atl": {
           "games": 1,
           "wins": 0,
@@ -7342,12 +7349,19 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 0,
+      "wins": 1,
       "losses": 2,
-      "kills": 8,
-      "deaths": 23,
+      "kills": 11,
+      "deaths": 27,
       "bestStreak": 0,
       "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 4
+        },
         "p90_atl": {
           "games": 1,
           "wins": 0,
@@ -7373,17 +7387,17 @@
         "tournament": 1000
       },
       "wins": 11,
-      "losses": 6,
-      "kills": 195,
-      "deaths": 106,
+      "losses": 7,
+      "kills": 204,
+      "deaths": 108,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 3,
+          "games": 4,
           "wins": 2,
-          "losses": 1,
-          "kills": 25,
-          "deaths": 15
+          "losses": 2,
+          "kills": 34,
+          "deaths": 17
         },
         "aug_atl": {
           "games": 1,
@@ -8074,17 +8088,17 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 7,
-      "kills": 120,
-      "deaths": 93,
+      "losses": 8,
+      "kills": 126,
+      "deaths": 98,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 2,
+          "games": 3,
           "wins": 1,
-          "losses": 1,
-          "kills": 15,
-          "deaths": 14
+          "losses": 2,
+          "kills": 21,
+          "deaths": 19
         },
         "aug_atl": {
           "games": 1,
@@ -14889,17 +14903,17 @@
         "tournament": 1000
       },
       "wins": 14,
-      "losses": 37,
-      "kills": 237,
-      "deaths": 387,
+      "losses": 38,
+      "kills": 243,
+      "deaths": 392,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 5,
+          "games": 6,
           "wins": 0,
-          "losses": 5,
-          "kills": 20,
-          "deaths": 27
+          "losses": 6,
+          "kills": 26,
+          "deaths": 32
         },
         "aug_atl": {
           "games": 5,
@@ -16829,11 +16843,18 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 2,
-      "kills": 11,
-      "deaths": 22,
+      "losses": 3,
+      "kills": 12,
+      "deaths": 28,
       "bestStreak": 0,
       "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 1,
+          "deaths": 6
+        },
         "p90_atl": {
           "games": 1,
           "wins": 0,
