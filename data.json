@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-24T17:21:39.254384667Z",
+  "generated": "2026-11-24T17:26:39.252406893Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5617,9 +5617,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 15,
+      "wins": 16,
       "losses": 3,
-      "kills": 64,
+      "kills": 67,
       "deaths": 32,
       "bestStreak": 0,
       "kits": {
@@ -8774,6 +8774,36 @@
       "licensed": false
     },
     {
+      "uuid": "01939cec-cdeb-376d-999a-5e347936621c",
+      "name": "banana250",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 4,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
+      "licensed": true
+    },
+    {
       "uuid": "88311584-478f-3c08-b772-8f9aa2bbb7e3",
       "name": "Chezee",
       "points": 0,
@@ -9299,6 +9329,36 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "ccdc2827-ca9d-3de8-a159-af4453a84586",
+      "name": "Hades",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "184cc62b-ca7c-3b26-bf04-930910fd700f",
@@ -10900,18 +10960,25 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 0,
-      "losses": 1,
-      "kills": 10,
-      "deaths": 8,
+      "wins": 1,
+      "losses": 2,
+      "kills": 11,
+      "deaths": 11,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 1,
-          "wins": 0,
+          "games": 2,
+          "wins": 1,
           "losses": 1,
-          "kills": 10,
-          "deaths": 8
+          "kills": 11,
+          "deaths": 9
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
         }
       },
       "licensed": true
@@ -15097,18 +15164,18 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 3,
-      "losses": 1,
-      "kills": 21,
-      "deaths": 22,
+      "wins": 4,
+      "losses": 2,
+      "kills": 24,
+      "deaths": 23,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 2,
+          "games": 3,
           "wins": 2,
-          "losses": 0,
-          "kills": 19,
-          "deaths": 19
+          "losses": 1,
+          "kills": 20,
+          "deaths": 20
         },
         "dmr_atl": {
           "games": 1,
@@ -15116,6 +15183,13 @@
           "losses": 0,
           "kills": 2,
           "deaths": 2
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
         }
       },
       "licensed": false
@@ -16536,6 +16610,28 @@
       "licensed": true
     },
     {
+      "uuid": "585cff4c-23fe-358e-9df3-e462b81ef76a",
+      "name": "magnt_z",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "73c10800-1dfd-30b6-aea1-246d7b39f8f9",
       "name": "egor_maklabyhin",
       "points": 0,
@@ -17063,6 +17159,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "cf82452b-a9ed-3295-aeae-3e7a3cc5a272",
+      "name": "SOD_ZAPRET",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "74e9fcd1-4aa1-3230-820b-3643bdc7a692",
