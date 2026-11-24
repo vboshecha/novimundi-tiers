@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-24T15:51:39.239509616Z",
+  "generated": "2026-11-24T15:56:39.234190932Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1073,9 +1073,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 35,
+      "wins": 37,
       "losses": 208,
-      "kills": 396,
+      "kills": 404,
       "deaths": 481,
       "bestStreak": 1,
       "kits": {
@@ -1108,10 +1108,10 @@
           "deaths": 18
         },
         "m1novi": {
-          "games": 7,
-          "wins": 4,
+          "games": 8,
+          "wins": 5,
           "losses": 3,
-          "kills": 31,
+          "kills": 37,
           "deaths": 27
         },
         "tournament": {
@@ -14517,6 +14517,36 @@
       "bestStreak": 0,
       "kits": {},
       "licensed": false
+    },
+    {
+      "uuid": "1ae8913c-3ab2-343f-ab65-8043fe05c604",
+      "name": "alexlava",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 0,
+      "deaths": 9,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 6
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "6976e957-672c-320b-b408-5a768ed94b20",
