@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-24T16:36:39.239246653Z",
+  "generated": "2026-11-24T16:41:39.242068760Z",
   "tiers": [
     {
       "key": "HT1",
@@ -998,10 +998,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 19,
+      "wins": 20,
       "losses": 62,
-      "kills": 213,
-      "deaths": 190,
+      "kills": 220,
+      "deaths": 194,
       "bestStreak": 3,
       "kits": {
         "akm_atl": {
@@ -1050,8 +1050,8 @@
           "games": 3,
           "wins": 0,
           "losses": 3,
-          "kills": 13,
-          "deaths": 11
+          "kills": 19,
+          "deaths": 14
         }
       },
       "licensed": true
@@ -12074,6 +12074,28 @@
       "licensed": true
     },
     {
+      "uuid": "19a05ad7-c4f6-35f3-98b1-25e4baf390e6",
+      "name": "koshechki_horosh",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 3,
+      "kills": 0,
+      "deaths": 6,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "34de8235-aea5-3ce9-b2f8-01f1c1729bef",
       "name": "lifeisstrange",
       "points": 0,
@@ -12379,9 +12401,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 3,
-      "kills": 23,
-      "deaths": 22,
+      "losses": 4,
+      "kills": 27,
+      "deaths": 29,
       "bestStreak": 2,
       "kits": {
         "vintovka": {
@@ -12397,6 +12419,13 @@
           "losses": 1,
           "kills": 7,
           "deaths": 4
+        },
+        "tournament": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 6
         }
       },
       "licensed": true
@@ -15946,11 +15975,11 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 7,
+      "wins": 10,
       "losses": 12,
-      "kills": 28,
+      "kills": 34,
       "deaths": 28,
-      "bestStreak": 0,
+      "bestStreak": 3,
       "kits": {
         "dmr_atl": {
           "games": 1,
