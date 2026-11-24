@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-24T19:51:39.238138773Z",
+  "generated": "2026-11-24T19:56:39.237790110Z",
   "tiers": [
     {
       "key": "HT1",
@@ -10636,9 +10636,9 @@
         "tournament": 1000
       },
       "wins": 34,
-      "losses": 93,
-      "kills": 111,
-      "deaths": 254,
+      "losses": 95,
+      "kills": 112,
+      "deaths": 276,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -10663,11 +10663,11 @@
           "deaths": 2
         },
         "vintovka": {
-          "games": 33,
+          "games": 34,
           "wins": 7,
-          "losses": 26,
+          "losses": 27,
           "kills": 49,
-          "deaths": 110
+          "deaths": 115
         },
         "m1novi": {
           "games": 2,
@@ -10677,11 +10677,11 @@
           "deaths": 5
         },
         "tournament": {
-          "games": 64,
+          "games": 65,
           "wins": 23,
-          "losses": 41,
-          "kills": 38,
-          "deaths": 66
+          "losses": 42,
+          "kills": 39,
+          "deaths": 83
         }
       },
       "licensed": true
@@ -16076,10 +16076,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 145,
+      "wins": 147,
       "losses": 81,
-      "kills": 465,
-      "deaths": 253,
+      "kills": 487,
+      "deaths": 254,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
@@ -16104,10 +16104,10 @@
           "deaths": 0
         },
         "vintovka": {
-          "games": 66,
-          "wins": 45,
+          "games": 67,
+          "wins": 46,
           "losses": 21,
-          "kills": 180,
+          "kills": 185,
           "deaths": 108
         },
         "m1novi": {
@@ -16118,11 +16118,11 @@
           "deaths": 9
         },
         "tournament": {
-          "games": 82,
-          "wins": 52,
+          "games": 83,
+          "wins": 53,
           "losses": 30,
-          "kills": 134,
-          "deaths": 62
+          "kills": 151,
+          "deaths": 63
         }
       },
       "licensed": false
