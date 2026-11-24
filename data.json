@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-24T04:56:39.235989019Z",
+  "generated": "2026-11-24T13:11:39.241220416Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5780,6 +5780,43 @@
       "licensed": false
     },
     {
+      "uuid": "a8fce102-4e00-3a94-9bb8-64b77b545302",
+      "name": "PEPESHNENE",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 4,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 2
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "af322c0e-3a80-383c-9848-b4c3465f316d",
       "name": "H1DeZsMY",
       "points": 0,
@@ -8331,6 +8368,43 @@
           "losses": 5,
           "kills": 24,
           "deaths": 39
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "dd1e2825-282a-34e8-845a-093945fb9a3a",
+      "name": "Egorys_Amogys",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 2,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        },
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 2,
+          "deaths": 3
         }
       },
       "licensed": false
