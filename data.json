@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-25T14:41:39.233290092Z",
+  "generated": "2026-11-25T18:16:39.239333207Z",
   "tiers": [
     {
       "key": "HT1",
@@ -9963,6 +9963,43 @@
       "licensed": true
     },
     {
+      "uuid": "87f77730-e30e-363e-89d7-87b157266759",
+      "name": "kotik6",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 2,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 2,
+          "deaths": 3
+        },
+        "vintovka": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "a8cbce2f-8f78-3997-b597-d6545ddd121d",
       "name": "0u9r22ckvz2",
       "points": 0,
@@ -14565,6 +14602,43 @@
       "deaths": 0,
       "bestStreak": 1,
       "kits": {},
+      "licensed": false
+    },
+    {
+      "uuid": "f98f8580-9873-34b2-8d95-6da7aaff044f",
+      "name": "dolarezz_z",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 4,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {
+        "akm_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 2
+        },
+        "vintovka": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        }
+      },
       "licensed": false
     },
     {
