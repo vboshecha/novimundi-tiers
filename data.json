@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-25T20:01:39.239716084Z",
+  "generated": "2026-11-25T20:06:39.240024983Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1976,9 +1976,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 6,
-      "kills": 58,
-      "deaths": 88,
+      "losses": 7,
+      "kills": 65,
+      "deaths": 98,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -1989,11 +1989,11 @@
           "deaths": 19
         },
         "aug_atl": {
-          "games": 0,
+          "games": 1,
           "wins": 0,
-          "losses": 0,
-          "kills": 7,
-          "deaths": 10
+          "losses": 1,
+          "kills": 12,
+          "deaths": 16
         },
         "dmr_atl": {
           "games": 2,
@@ -7638,10 +7638,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 20,
+      "wins": 21,
       "losses": 11,
-      "kills": 359,
-      "deaths": 166,
+      "kills": 367,
+      "deaths": 172,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7652,11 +7652,11 @@
           "deaths": 24
         },
         "aug_atl": {
-          "games": 2,
-          "wins": 2,
+          "games": 3,
+          "wins": 3,
           "losses": 0,
-          "kills": 31,
-          "deaths": 16
+          "kills": 37,
+          "deaths": 20
         },
         "dmr_atl": {
           "games": 3,
@@ -15782,9 +15782,9 @@
         "tournament": 1000
       },
       "wins": 17,
-      "losses": 48,
-      "kills": 324,
-      "deaths": 507,
+      "losses": 49,
+      "kills": 332,
+      "deaths": 514,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -15795,11 +15795,11 @@
           "deaths": 44
         },
         "aug_atl": {
-          "games": 6,
+          "games": 7,
           "wins": 2,
-          "losses": 3,
-          "kills": 40,
-          "deaths": 67
+          "losses": 4,
+          "kills": 45,
+          "deaths": 73
         },
         "dmr_atl": {
           "games": 6,
