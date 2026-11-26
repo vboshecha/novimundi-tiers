@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-26T20:21:39.248461454Z",
+  "generated": "2026-11-26T20:26:39.239718249Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1390,10 +1390,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 64,
-      "losses": 47,
-      "kills": 245,
-      "deaths": 139,
+      "wins": 66,
+      "losses": 48,
+      "kills": 249,
+      "deaths": 141,
       "bestStreak": 10,
       "kits": {
         "akm_atl": {
@@ -9392,9 +9392,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 9,
+      "wins": 10,
       "losses": 5,
-      "kills": 59,
+      "kills": 60,
       "deaths": 67,
       "bestStreak": 0,
       "kits": {
@@ -9413,10 +9413,10 @@
           "deaths": 17
         },
         "tournament": {
-          "games": 2,
-          "wins": 2,
+          "games": 3,
+          "wins": 3,
           "losses": 0,
-          "kills": 17,
+          "kills": 18,
           "deaths": 11
         }
       },
@@ -16477,10 +16477,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 152,
-      "losses": 83,
-      "kills": 513,
-      "deaths": 263,
+      "wins": 153,
+      "losses": 85,
+      "kills": 516,
+      "deaths": 267,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
@@ -16793,9 +16793,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 3,
-      "kills": 9,
-      "deaths": 11,
+      "losses": 4,
+      "kills": 10,
+      "deaths": 14,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -17409,9 +17409,9 @@
         "tournament": 1000
       },
       "wins": 6,
-      "losses": 5,
+      "losses": 6,
       "kills": 22,
-      "deaths": 53,
+      "deaths": 54,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -17429,11 +17429,11 @@
           "deaths": 13
         },
         "tournament": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "kills": 2,
-          "deaths": 9
+          "deaths": 10
         }
       },
       "licensed": false
