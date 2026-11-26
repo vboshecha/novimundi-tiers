@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-26T13:46:39.233344249Z",
+  "generated": "2026-11-26T14:31:39.243952903Z",
   "tiers": [
     {
       "key": "HT1",
@@ -5044,6 +5044,28 @@
       "licensed": false
     },
     {
+      "uuid": "f246e3a5-ab20-36a9-bc8c-079e3640f0e9",
+      "name": "Cvit0r",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 5,
+      "deaths": 6,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "7a677cb0-3f40-30ec-98aa-cde30bfcd61c",
       "name": "tschernomorez",
       "points": 0,
@@ -5781,6 +5803,28 @@
       "losses": 1,
       "kills": 0,
       "deaths": 3,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
+      "uuid": "aca0f1c8-88ff-363f-8b6b-673f5462a1af",
+      "name": "ImmortalForeverr",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 1,
+      "kills": 6,
+      "deaths": 5,
       "bestStreak": 0,
       "kits": {},
       "licensed": false
