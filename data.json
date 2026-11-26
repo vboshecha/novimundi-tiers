@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-26T19:26:39.240113481Z",
+  "generated": "2026-11-26T19:31:39.242540039Z",
   "tiers": [
     {
       "key": "HT1",
@@ -9393,9 +9393,9 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 1,
-      "kills": 19,
-      "deaths": 37,
+      "losses": 2,
+      "kills": 22,
+      "deaths": 38,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -9406,11 +9406,11 @@
           "deaths": 1
         },
         "m1novi": {
-          "games": 0,
+          "games": 1,
           "wins": 0,
-          "losses": 0,
-          "kills": 6,
-          "deaths": 16
+          "losses": 1,
+          "kills": 8,
+          "deaths": 17
         },
         "tournament": {
           "games": 1,
@@ -16652,18 +16652,18 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 0,
+      "wins": 1,
       "losses": 1,
-      "kills": 32,
-      "deaths": 19,
+      "kills": 38,
+      "deaths": 21,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
-          "games": 0,
-          "wins": 0,
+          "games": 1,
+          "wins": 1,
           "losses": 0,
-          "kills": 22,
-          "deaths": 8
+          "kills": 25,
+          "deaths": 10
         },
         "tournament": {
           "games": 1,
@@ -17346,6 +17346,36 @@
           "losses": 0,
           "kills": 2,
           "deaths": 0
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "bbee53b8-3a32-3d2a-9c7f-e474ac250cea",
+      "name": "N01kss",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 7,
+      "deaths": 17,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 7,
+          "deaths": 13
         }
       },
       "licensed": false
