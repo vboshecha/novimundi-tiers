@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-26T20:16:39.254799066Z",
+  "generated": "2026-11-26T20:21:39.248461454Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1391,9 +1391,9 @@
         "tournament": 1000
       },
       "wins": 64,
-      "losses": 46,
-      "kills": 244,
-      "deaths": 137,
+      "losses": 47,
+      "kills": 245,
+      "deaths": 139,
       "bestStreak": 10,
       "kits": {
         "akm_atl": {
@@ -1418,11 +1418,11 @@
           "deaths": 61
         },
         "tournament": {
-          "games": 38,
+          "games": 39,
           "wins": 19,
-          "losses": 19,
+          "losses": 20,
           "kills": 55,
-          "deaths": 33
+          "deaths": 34
         }
       },
       "licensed": false
@@ -9392,10 +9392,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 8,
+      "wins": 9,
       "losses": 5,
-      "kills": 53,
-      "deaths": 66,
+      "kills": 59,
+      "deaths": 67,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -9413,11 +9413,11 @@
           "deaths": 17
         },
         "tournament": {
-          "games": 1,
-          "wins": 1,
+          "games": 2,
+          "wins": 2,
           "losses": 0,
-          "kills": 11,
-          "deaths": 10
+          "kills": 17,
+          "deaths": 11
         }
       },
       "licensed": false
@@ -10692,7 +10692,7 @@
         "tournament": 1000
       },
       "wins": 11,
-      "losses": 26,
+      "losses": 27,
       "kills": 57,
       "deaths": 78,
       "bestStreak": 3,
@@ -10719,9 +10719,9 @@
           "deaths": 3
         },
         "tournament": {
-          "games": 8,
+          "games": 9,
           "wins": 3,
-          "losses": 5,
+          "losses": 6,
           "kills": 9,
           "deaths": 14
         }
@@ -16477,10 +16477,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 151,
+      "wins": 152,
       "losses": 83,
       "kills": 513,
-      "deaths": 262,
+      "deaths": 263,
       "bestStreak": 5,
       "kits": {
         "akm_atl": {
@@ -16519,8 +16519,8 @@
           "deaths": 9
         },
         "tournament": {
-          "games": 84,
-          "wins": 54,
+          "games": 85,
+          "wins": 55,
           "losses": 30,
           "kills": 164,
           "deaths": 64
@@ -16652,10 +16652,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 5,
+      "wins": 6,
       "losses": 6,
-      "kills": 69,
-      "deaths": 41,
+      "kills": 72,
+      "deaths": 42,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -16673,11 +16673,11 @@
           "deaths": 10
         },
         "tournament": {
-          "games": 1,
-          "wins": 0,
+          "games": 2,
+          "wins": 1,
           "losses": 1,
-          "kills": 10,
-          "deaths": 11
+          "kills": 13,
+          "deaths": 12
         }
       },
       "licensed": false
@@ -16792,9 +16792,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 0,
+      "wins": 1,
       "losses": 3,
-      "kills": 7,
+      "kills": 9,
       "deaths": 11,
       "bestStreak": 0,
       "kits": {
@@ -16806,10 +16806,10 @@
           "deaths": 4
         },
         "tournament": {
-          "games": 0,
-          "wins": 0,
+          "games": 1,
+          "wins": 1,
           "losses": 0,
-          "kills": 0,
+          "kills": 1,
           "deaths": 1
         }
       },
@@ -17409,9 +17409,9 @@
         "tournament": 1000
       },
       "wins": 6,
-      "losses": 4,
-      "kills": 20,
-      "deaths": 44,
+      "losses": 5,
+      "kills": 22,
+      "deaths": 53,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -17427,6 +17427,13 @@
           "losses": 1,
           "kills": 7,
           "deaths": 13
+        },
+        "tournament": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 2,
+          "deaths": 9
         }
       },
       "licensed": false
