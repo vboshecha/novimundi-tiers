@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T12:21:39.238068459Z",
+  "generated": "2026-11-27T12:26:39.234709372Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4986,18 +4986,18 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 12,
-      "losses": 32,
-      "kills": 139,
-      "deaths": 173,
+      "wins": 14,
+      "losses": 33,
+      "kills": 146,
+      "deaths": 177,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 7,
-          "wins": 2,
+          "games": 8,
+          "wins": 3,
           "losses": 5,
-          "kills": 31,
-          "deaths": 47
+          "kills": 35,
+          "deaths": 48
         },
         "aug_atl": {
           "games": 9,
@@ -5014,11 +5014,11 @@
           "deaths": 3
         },
         "p90_atl": {
-          "games": 4,
-          "wins": 1,
+          "games": 5,
+          "wins": 2,
           "losses": 3,
-          "kills": 20,
-          "deaths": 19
+          "kills": 22,
+          "deaths": 20
         },
         "vintovka": {
           "games": 2,
@@ -10613,18 +10613,18 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 21,
-      "losses": 4,
-      "kills": 130,
-      "deaths": 61,
+      "wins": 22,
+      "losses": 6,
+      "kills": 134,
+      "deaths": 68,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 4,
+          "games": 5,
           "wins": 3,
-          "losses": 1,
-          "kills": 11,
-          "deaths": 5
+          "losses": 2,
+          "kills": 12,
+          "deaths": 9
         },
         "aug_atl": {
           "games": 6,
@@ -10634,11 +10634,11 @@
           "deaths": 11
         },
         "p90_atl": {
-          "games": 4,
+          "games": 5,
           "wins": 4,
-          "losses": 0,
-          "kills": 25,
-          "deaths": 9
+          "losses": 1,
+          "kills": 26,
+          "deaths": 11
         },
         "vintovka": {
           "games": 2,
