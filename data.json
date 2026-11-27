@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T15:01:39.239493415Z",
+  "generated": "2026-11-27T15:11:39.264608198Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2713,9 +2713,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 14,
+      "wins": 15,
       "losses": 32,
-      "kills": 84,
+      "kills": 85,
       "deaths": 136,
       "bestStreak": 0,
       "kits": {
@@ -5417,7 +5417,7 @@
       },
       "wins": 8,
       "losses": 9,
-      "kills": 28,
+      "kills": 29,
       "deaths": 83,
       "bestStreak": 0,
       "kits": {
@@ -6436,9 +6436,9 @@
         "tournament": 1000
       },
       "wins": 29,
-      "losses": 47,
-      "kills": 93,
-      "deaths": 177,
+      "losses": 48,
+      "kills": 94,
+      "deaths": 179,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -6940,9 +6940,9 @@
         "tournament": 1000
       },
       "wins": 22,
-      "losses": 63,
+      "losses": 64,
       "kills": 34,
-      "deaths": 168,
+      "deaths": 171,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -9080,6 +9080,28 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "a4bb8735-6936-3fe5-8e07-920b43361116",
+      "name": "sweetprincess",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": true
     },
     {
       "uuid": "bd5763a4-733e-3c99-9804-b09c8a5f58e8",
@@ -13789,9 +13811,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 20,
+      "wins": 21,
       "losses": 26,
-      "kills": 48,
+      "kills": 51,
       "deaths": 90,
       "bestStreak": 0,
       "kits": {
@@ -14898,9 +14920,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 47,
+      "wins": 48,
       "losses": 124,
-      "kills": 202,
+      "kills": 204,
       "deaths": 335,
       "bestStreak": 0,
       "kits": {
@@ -15202,6 +15224,28 @@
           "deaths": 6
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "d7029012-ff10-3513-8449-0b0d9137ed2c",
+      "name": "arikost",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 1,
+      "deaths": 2,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
