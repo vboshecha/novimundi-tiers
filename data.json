@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T19:01:39.233387759Z",
+  "generated": "2026-11-27T20:51:39.247589421Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6539,6 +6539,36 @@
       "licensed": false
     },
     {
+      "uuid": "4dff60dc-5e76-3bf2-9931-de9ebd9280ca",
+      "name": "Gruso_o4Hb",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 10,
+      "deaths": 11,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 10,
+          "deaths": 11
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "a9540ef2-6b54-378f-b6cf-5504b7deed3e",
       "name": "Darknes23071",
       "points": 0,
@@ -12308,6 +12338,36 @@
       "licensed": true
     },
     {
+      "uuid": "b5be24a8-dc1a-3fea-a759-71e1624522fb",
+      "name": "Marixyanna20133",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 1,
+      "deaths": 0,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "38ec7d78-9b89-3113-b45b-07ff586a1022",
       "name": "desch",
       "points": 0,
@@ -12821,6 +12881,36 @@
           "losses": 1,
           "kills": 3,
           "deaths": 4
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "dfa8a419-f7ae-386c-a4dc-a854ad1bf0ca",
+      "name": "TryMore1337",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 11,
+      "deaths": 10,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 11,
+          "deaths": 10
         }
       },
       "licensed": false
@@ -18617,6 +18707,36 @@
           "losses": 6,
           "kills": 14,
           "deaths": 22
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "f462888d-d0e3-39ba-8e79-0bc2ad165ad3",
+      "name": "_TochoNead_",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 1,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
         }
       },
       "licensed": false
