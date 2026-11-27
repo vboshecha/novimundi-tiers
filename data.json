@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T13:41:39.235181029Z",
+  "generated": "2026-11-27T13:51:39.236949831Z",
   "tiers": [
     {
       "key": "HT1",
@@ -13139,8 +13139,8 @@
       },
       "wins": 0,
       "losses": 1,
-      "kills": 8,
-      "deaths": 15,
+      "kills": 10,
+      "deaths": 21,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
