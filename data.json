@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T17:01:39.238547448Z",
+  "generated": "2026-11-27T17:06:39.234617895Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3970,6 +3970,28 @@
           "deaths": 2
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "c0250fce-e6e9-35ea-b5e3-6bbe7c739f8b",
+      "name": "geraed_med",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 2,
+      "deaths": 0,
+      "bestStreak": 1,
+      "kits": {},
       "licensed": false
     },
     {
@@ -17318,9 +17340,9 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 4,
+      "losses": 5,
       "kills": 10,
-      "deaths": 10,
+      "deaths": 11,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
