@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T15:31:39.251526033Z",
+  "generated": "2026-11-27T15:36:39.240590492Z",
   "tiers": [
     {
       "key": "HT1",
@@ -7818,23 +7818,23 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 9,
-      "kills": 40,
-      "deaths": 119,
+      "losses": 10,
+      "kills": 44,
+      "deaths": 122,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
-          "games": 3,
+          "games": 4,
           "wins": 2,
-          "losses": 1,
-          "kills": 10,
-          "deaths": 35
+          "losses": 2,
+          "kills": 12,
+          "deaths": 38
         },
         "aug_atl": {
           "games": 1,
           "wins": 0,
           "losses": 1,
-          "kills": 6,
+          "kills": 8,
           "deaths": 8
         },
         "dmr_atl": {
@@ -7949,25 +7949,25 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 28,
+      "wins": 29,
       "losses": 16,
-      "kills": 488,
-      "deaths": 232,
+      "kills": 492,
+      "deaths": 235,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 6,
-          "wins": 4,
+          "games": 7,
+          "wins": 5,
           "losses": 2,
-          "kills": 93,
-          "deaths": 41
+          "kills": 96,
+          "deaths": 43
         },
         "aug_atl": {
           "games": 4,
           "wins": 4,
           "losses": 0,
-          "kills": 50,
-          "deaths": 27
+          "kills": 51,
+          "deaths": 28
         },
         "dmr_atl": {
           "games": 3,
@@ -16386,24 +16386,24 @@
         "tournament": 1000
       },
       "wins": 20,
-      "losses": 58,
-      "kills": 402,
-      "deaths": 606,
+      "losses": 59,
+      "kills": 405,
+      "deaths": 611,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 8,
+          "games": 9,
           "wins": 0,
-          "losses": 8,
-          "kills": 63,
-          "deaths": 66
+          "losses": 9,
+          "kills": 66,
+          "deaths": 69
         },
         "aug_atl": {
           "games": 8,
           "wins": 2,
           "losses": 5,
           "kills": 52,
-          "deaths": 86
+          "deaths": 88
         },
         "dmr_atl": {
           "games": 6,
