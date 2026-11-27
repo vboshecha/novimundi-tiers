@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T11:16:39.244639539Z",
+  "generated": "2026-11-27T11:21:39.247595855Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2466,9 +2466,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 7,
+      "wins": 8,
       "losses": 18,
-      "kills": 153,
+      "kills": 181,
       "deaths": 233,
       "bestStreak": 0,
       "kits": {
@@ -2483,7 +2483,7 @@
           "games": 9,
           "wins": 2,
           "losses": 7,
-          "kills": 46,
+          "kills": 54,
           "deaths": 94
         },
         "p90_atl": {
@@ -2501,10 +2501,10 @@
           "deaths": 8
         },
         "m1novi": {
-          "games": 8,
-          "wins": 4,
+          "games": 9,
+          "wins": 5,
           "losses": 4,
-          "kills": 67,
+          "kills": 87,
           "deaths": 68
         },
         "tournament": {
@@ -3609,6 +3609,43 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "7d3caad7-5ad3-3c0b-8e0f-367a9d9c8dca",
+      "name": "dwadaw",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 15,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 4
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 11
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "27678e03-2856-3e18-b4a1-31bd21706a5f",
@@ -13194,6 +13231,43 @@
           "losses": 0,
           "kills": 1,
           "deaths": 2
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "cff23de1-22bc-351e-ac94-e295d48cda50",
+      "name": "kasipidr",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 15,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 4
+        },
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 11
         }
       },
       "licensed": false
