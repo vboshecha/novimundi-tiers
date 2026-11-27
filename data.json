@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T21:11:39.253655793Z",
+  "generated": "2026-11-27T21:16:39.245770819Z",
   "tiers": [
     {
       "key": "HT1",
@@ -6554,8 +6554,8 @@
       },
       "wins": 1,
       "losses": 1,
-      "kills": 22,
-      "deaths": 16,
+      "kills": 25,
+      "deaths": 20,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -7234,9 +7234,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 25,
+      "wins": 26,
       "losses": 6,
-      "kills": 236,
+      "kills": 239,
       "deaths": 120,
       "bestStreak": 18,
       "kits": {
@@ -12353,8 +12353,8 @@
       },
       "wins": 3,
       "losses": 3,
-      "kills": 21,
-      "deaths": 21,
+      "kills": 25,
+      "deaths": 28,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -12915,8 +12915,8 @@
       },
       "wins": 1,
       "losses": 1,
-      "kills": 16,
-      "deaths": 22,
+      "kills": 20,
+      "deaths": 25,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -18675,6 +18675,28 @@
       "licensed": false
     },
     {
+      "uuid": "0077ddc7-a71d-33a3-bd4e-f89e4c66777b",
+      "name": "kochgolda0131",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 6,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "c1d48ca7-ad09-3a2d-95f8-492cd806694d",
       "name": "Ofigin",
       "points": 0,
@@ -18741,8 +18763,8 @@
       },
       "wins": 3,
       "losses": 3,
-      "kills": 21,
-      "deaths": 21,
+      "kills": 28,
+      "deaths": 25,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
