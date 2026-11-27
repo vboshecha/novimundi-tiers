@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T17:06:39.234617895Z",
+  "generated": "2026-11-27T17:11:39.235151460Z",
   "tiers": [
     {
       "key": "HT1",
@@ -17341,8 +17341,8 @@
       },
       "wins": 2,
       "losses": 5,
-      "kills": 10,
-      "deaths": 11,
+      "kills": 17,
+      "deaths": 17,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
