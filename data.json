@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T12:46:39.235051405Z",
+  "generated": "2026-11-27T13:36:39.235990610Z",
   "tiers": [
     {
       "key": "HT1",
@@ -13117,6 +13117,36 @@
       "licensed": false
     },
     {
+      "uuid": "aea2c406-1e09-3f66-b731-fa0f0c167fb6",
+      "name": "flora93",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 7,
+      "deaths": 9,
+      "bestStreak": 0,
+      "kits": {
+        "p90_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 0,
+          "kills": 7,
+          "deaths": 9
+        }
+      },
+      "licensed": true
+    },
+    {
       "uuid": "aa438bef-5247-3602-a133-01bf51924194",
       "name": "borend19",
       "points": 0,
@@ -16571,6 +16601,28 @@
           "deaths": 4
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "d038988d-a50e-36cc-bdae-b6b681becef7",
+      "name": "Sad1str",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 9,
+      "deaths": 7,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
