@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T12:11:39.237782949Z",
+  "generated": "2026-11-27T12:16:39.238699702Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4986,18 +4986,18 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 11,
-      "losses": 26,
-      "kills": 131,
-      "deaths": 158,
+      "wins": 12,
+      "losses": 29,
+      "kills": 135,
+      "deaths": 164,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 5,
+          "games": 6,
           "wins": 2,
-          "losses": 3,
+          "losses": 4,
           "kills": 30,
-          "deaths": 42
+          "deaths": 43
         },
         "aug_atl": {
           "games": 8,
@@ -5028,18 +5028,18 @@
           "deaths": 1
         },
         "m1novi": {
-          "games": 2,
-          "wins": 0,
+          "games": 3,
+          "wins": 1,
           "losses": 2,
-          "kills": 2,
+          "kills": 3,
           "deaths": 5
         },
         "tournament": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
-          "kills": 2,
-          "deaths": 3
+          "losses": 2,
+          "kills": 3,
+          "deaths": 5
         }
       },
       "licensed": true
@@ -10613,17 +10613,17 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 15,
-      "losses": 3,
-      "kills": 115,
-      "deaths": 53,
+      "wins": 18,
+      "losses": 4,
+      "kills": 121,
+      "deaths": 57,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
-          "games": 2,
-          "wins": 1,
+          "games": 3,
+          "wins": 2,
           "losses": 1,
-          "kills": 6,
+          "kills": 7,
           "deaths": 4
         },
         "aug_atl": {
@@ -10647,12 +10647,19 @@
           "kills": 12,
           "deaths": 4
         },
-        "tournament": {
+        "m1novi": {
           "games": 1,
-          "wins": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 1
+        },
+        "tournament": {
+          "games": 2,
+          "wins": 2,
           "losses": 0,
-          "kills": 22,
-          "deaths": 8
+          "kills": 24,
+          "deaths": 9
         }
       },
       "licensed": true
