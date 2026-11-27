@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T13:51:39.236949831Z",
+  "generated": "2026-11-27T13:56:39.242526176Z",
   "tiers": [
     {
       "key": "HT1",
@@ -142,10 +142,10 @@
         "m1novi": 984,
         "tournament": 984
       },
-      "wins": 79,
+      "wins": 80,
       "losses": 243,
-      "kills": 1014,
-      "deaths": 652,
+      "kills": 1022,
+      "deaths": 653,
       "bestStreak": 10,
       "kits": {
         "akm_atl": {
@@ -184,10 +184,10 @@
           "deaths": 55
         },
         "m1novi": {
-          "games": 26,
-          "wins": 19,
+          "games": 27,
+          "wins": 20,
           "losses": 7,
-          "kills": 299,
+          "kills": 305,
           "deaths": 153
         },
         "tournament": {
@@ -6164,6 +6164,28 @@
           "deaths": 1
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "8eb0b501-cdff-3325-81f8-56144663b6d8",
+      "name": "Monica_95",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 3,
+      "deaths": 12,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -12501,6 +12523,36 @@
       "licensed": false
     },
     {
+      "uuid": "7e50eeb1-fda2-3005-b23f-e3b3e45cc59f",
+      "name": "Nedon11",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 1,
+      "deaths": 8,
+      "bestStreak": 0,
+      "kits": {
+        "m1novi": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 6
+        }
+      },
+      "licensed": false
+    },
+    {
       "uuid": "6abc6571-70bc-3114-9159-0585c0387f8b",
       "name": "Svastigo1488s",
       "points": 0,
@@ -13138,9 +13190,9 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 1,
-      "kills": 10,
-      "deaths": 21,
+      "losses": 2,
+      "kills": 13,
+      "deaths": 22,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -13151,11 +13203,11 @@
           "deaths": 6
         },
         "p90_atl": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
           "losses": 0,
-          "kills": 7,
-          "deaths": 9
+          "kills": 10,
+          "deaths": 10
         }
       },
       "licensed": true
@@ -16631,10 +16683,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "kills": 19,
-      "deaths": 10,
+      "kills": 35,
+      "deaths": 15,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
