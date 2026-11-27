@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T11:31:39.258437290Z",
+  "generated": "2026-11-27T11:36:39.251910580Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2466,9 +2466,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 9,
+      "wins": 10,
       "losses": 18,
-      "kills": 210,
+      "kills": 237,
       "deaths": 234,
       "bestStreak": 0,
       "kits": {
@@ -2480,10 +2480,10 @@
           "deaths": 21
         },
         "aug_atl": {
-          "games": 10,
-          "wins": 3,
+          "games": 11,
+          "wins": 4,
           "losses": 7,
-          "kills": 83,
+          "kills": 110,
           "deaths": 95
         },
         "p90_atl": {
@@ -3625,17 +3625,17 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "kills": 0,
-      "deaths": 27,
+      "deaths": 36,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "kills": 0,
-          "deaths": 16
+          "deaths": 25
         },
         "m1novi": {
           "games": 1,
@@ -4609,6 +4609,36 @@
       "bestStreak": 0,
       "kits": {},
       "licensed": true
+    },
+    {
+      "uuid": "f410cb33-730a-3f02-a896-86d5d93a25fd",
+      "name": "bvccbc",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 0,
+      "deaths": 14,
+      "bestStreak": 0,
+      "kits": {
+        "aug_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 0,
+          "deaths": 14
+        }
+      },
+      "licensed": false
     },
     {
       "uuid": "9db4f94b-a9e4-3398-8170-4bb500dced29",
@@ -13250,17 +13280,17 @@
         "tournament": 1000
       },
       "wins": 0,
-      "losses": 2,
+      "losses": 3,
       "kills": 1,
-      "deaths": 27,
+      "deaths": 36,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
-          "games": 1,
+          "games": 2,
           "wins": 0,
-          "losses": 1,
+          "losses": 2,
           "kills": 1,
-          "deaths": 16
+          "deaths": 25
         },
         "m1novi": {
           "games": 1,
