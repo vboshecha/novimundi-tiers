@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-27T17:11:39.235151460Z",
+  "generated": "2026-11-27T17:16:39.233306263Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3987,9 +3987,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 0,
-      "kills": 2,
-      "deaths": 0,
+      "losses": 1,
+      "kills": 10,
+      "deaths": 13,
       "bestStreak": 1,
       "kits": {},
       "licensed": false
@@ -17340,7 +17340,7 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 5,
+      "losses": 6,
       "kills": 17,
       "deaths": 17,
       "bestStreak": 0,
@@ -17499,6 +17499,28 @@
           "deaths": 17
         }
       },
+      "licensed": true
+    },
+    {
+      "uuid": "a7a5a59d-c27a-3217-8230-c7e89d4605a1",
+      "name": "velik_cherry",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 1,
+      "losses": 0,
+      "kills": 14,
+      "deaths": 10,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": true
     },
     {
