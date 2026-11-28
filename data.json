@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-28T09:11:39.258216334Z",
+  "generated": "2026-11-28T09:16:39.260228281Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1975,10 +1975,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
-      "kills": 17,
-      "deaths": 19,
+      "kills": 18,
+      "deaths": 20,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
@@ -2225,10 +2225,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 10,
+      "wins": 11,
       "losses": 65,
-      "kills": 45,
-      "deaths": 74,
+      "kills": 47,
+      "deaths": 75,
       "bestStreak": 1,
       "kits": {
         "vintovka": {
@@ -2265,7 +2265,7 @@
       "wins": 13,
       "losses": 2,
       "kills": 96,
-      "deaths": 37,
+      "deaths": 38,
       "bestStreak": 0,
       "kits": {
         "aug_atl": {
@@ -6584,7 +6584,7 @@
       },
       "wins": 2,
       "losses": 4,
-      "kills": 29,
+      "kills": 30,
       "deaths": 45,
       "bestStreak": 0,
       "kits": {
@@ -9309,9 +9309,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 8,
+      "losses": 9,
       "kills": 24,
-      "deaths": 20,
+      "deaths": 22,
       "bestStreak": 0,
       "kits": {
         "m1novi": {
@@ -14450,9 +14450,9 @@
         "tournament": 1000
       },
       "wins": 11,
-      "losses": 21,
-      "kills": 23,
-      "deaths": 47,
+      "losses": 22,
+      "kills": 24,
+      "deaths": 48,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -15346,9 +15346,9 @@
         "tournament": 1000
       },
       "wins": 50,
-      "losses": 132,
-      "kills": 213,
-      "deaths": 349,
+      "losses": 133,
+      "kills": 216,
+      "deaths": 350,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -17526,10 +17526,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 16,
+      "wins": 17,
       "losses": 20,
       "kills": 73,
-      "deaths": 67,
+      "deaths": 68,
       "bestStreak": 3,
       "kits": {
         "dmr_atl": {
