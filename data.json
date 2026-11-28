@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-28T15:56:39.236234957Z",
+  "generated": "2026-11-28T16:11:39.238725536Z",
   "tiers": [
     {
       "key": "HT1",
@@ -2953,6 +2953,28 @@
       "licensed": true
     },
     {
+      "uuid": "d18a0879-2eca-3e3b-9dee-39baff977a65",
+      "name": "Obsido4ka",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 18,
+      "deaths": 11,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
+    },
+    {
       "uuid": "78ca309e-cfbf-3d5a-88ae-4db3eab655b7",
       "name": "Faktilov",
       "points": 0,
@@ -4147,9 +4169,9 @@
         "tournament": 1000
       },
       "wins": 1,
-      "losses": 1,
-      "kills": 10,
-      "deaths": 13,
+      "losses": 2,
+      "kills": 19,
+      "deaths": 30,
       "bestStreak": 1,
       "kits": {},
       "licensed": false
@@ -7626,6 +7648,28 @@
         }
       },
       "licensed": true
+    },
+    {
+      "uuid": "a91b77fd-6eff-3e4d-af2e-288380c71b91",
+      "name": "PolinkaGvozdomet",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 18,
+      "deaths": 21,
+      "bestStreak": 0,
+      "kits": {},
+      "licensed": false
     },
     {
       "uuid": "5325a22b-f74c-31d3-9384-7dff9516fe48",
@@ -18301,10 +18345,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 1,
+      "wins": 2,
       "losses": 0,
-      "kills": 14,
-      "deaths": 10,
+      "kills": 32,
+      "deaths": 25,
       "bestStreak": 0,
       "kits": {},
       "licensed": true
