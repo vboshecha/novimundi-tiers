@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-28T18:26:39.240790125Z",
+  "generated": "2026-11-28T18:31:39.237348164Z",
   "tiers": [
     {
       "key": "HT1",
@@ -4251,8 +4251,8 @@
       },
       "wins": 0,
       "losses": 1,
-      "kills": 4,
-      "deaths": 8,
+      "kills": 17,
+      "deaths": 18,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -4261,6 +4261,13 @@
           "losses": 0,
           "kills": 1,
           "deaths": 3
+        },
+        "dmr_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 13,
+          "deaths": 10
         }
       },
       "licensed": false
@@ -7695,8 +7702,8 @@
       },
       "wins": 0,
       "losses": 3,
-      "kills": 29,
-      "deaths": 38,
+      "kills": 45,
+      "deaths": 60,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -7712,6 +7719,13 @@
           "losses": 0,
           "kills": 2,
           "deaths": 7
+        },
+        "p90_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 11,
+          "deaths": 16
         }
       },
       "licensed": false
@@ -14801,10 +14815,24 @@
       },
       "wins": 1,
       "losses": 0,
-      "kills": 19,
-      "deaths": 13,
+      "kills": 44,
+      "deaths": 24,
       "bestStreak": 0,
       "kits": {
+        "akm_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 18,
+          "deaths": 11
+        },
+        "aug_atl": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 7,
+          "deaths": 0
+        },
         "dmr_atl": {
           "games": 0,
           "wins": 0,
@@ -18215,8 +18243,8 @@
       },
       "wins": 0,
       "losses": 1,
-      "kills": 17,
-      "deaths": 18,
+      "kills": 19,
+      "deaths": 27,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -18231,7 +18259,7 @@
           "wins": 0,
           "losses": 0,
           "kills": 2,
-          "deaths": 2
+          "deaths": 4
         },
         "p90_atl": {
           "games": 0,
