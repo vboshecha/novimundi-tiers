@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-28T14:51:39.239412763Z",
+  "generated": "2026-11-28T14:56:39.237357337Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1073,10 +1073,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 39,
+      "wins": 41,
       "losses": 221,
-      "kills": 493,
-      "deaths": 654,
+      "kills": 502,
+      "deaths": 657,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -1101,11 +1101,11 @@
           "deaths": 9
         },
         "vintovka": {
-          "games": 4,
-          "wins": 3,
+          "games": 5,
+          "wins": 4,
           "losses": 1,
-          "kills": 9,
-          "deaths": 18
+          "kills": 15,
+          "deaths": 20
         },
         "m1novi": {
           "games": 9,
@@ -13353,6 +13353,36 @@
           "losses": 0,
           "kills": 11,
           "deaths": 10
+        }
+      },
+      "licensed": false
+    },
+    {
+      "uuid": "60e5288b-3a6b-3d4f-88e5-79d9ea9739cd",
+      "name": "sharpnessss123",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 3,
+      "deaths": 10,
+      "bestStreak": 0,
+      "kits": {
+        "vintovka": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 2,
+          "deaths": 6
         }
       },
       "licensed": false
