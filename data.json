@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-28T19:41:39.243054337Z",
+  "generated": "2026-11-28T19:46:39.243106659Z",
   "tiers": [
     {
       "key": "HT1",
@@ -8241,9 +8241,9 @@
         "tournament": 1000
       },
       "wins": 3,
-      "losses": 12,
-      "kills": 55,
-      "deaths": 182,
+      "losses": 13,
+      "kills": 56,
+      "deaths": 185,
       "bestStreak": 1,
       "kits": {
         "akm_atl": {
@@ -8254,11 +8254,11 @@
           "deaths": 38
         },
         "aug_atl": {
-          "games": 2,
+          "games": 3,
           "wins": 1,
-          "losses": 1,
-          "kills": 14,
-          "deaths": 31
+          "losses": 2,
+          "kills": 15,
+          "deaths": 34
         },
         "dmr_atl": {
           "games": 2,
@@ -8372,10 +8372,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 31,
+      "wins": 32,
       "losses": 17,
-      "kills": 564,
-      "deaths": 251,
+      "kills": 568,
+      "deaths": 253,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -8386,11 +8386,11 @@
           "deaths": 43
         },
         "aug_atl": {
-          "games": 5,
-          "wins": 4,
+          "games": 6,
+          "wins": 5,
           "losses": 1,
-          "kills": 80,
-          "deaths": 36
+          "kills": 84,
+          "deaths": 38
         },
         "dmr_atl": {
           "games": 3,
@@ -16360,9 +16360,9 @@
         "tournament": 1000
       },
       "wins": 71,
-      "losses": 104,
-      "kills": 691,
-      "deaths": 910,
+      "losses": 105,
+      "kills": 693,
+      "deaths": 912,
       "bestStreak": 7,
       "kits": {
         "akm_atl": {
@@ -16373,11 +16373,11 @@
           "deaths": 80
         },
         "aug_atl": {
-          "games": 14,
+          "games": 15,
           "wins": 6,
-          "losses": 8,
-          "kills": 88,
-          "deaths": 110
+          "losses": 9,
+          "kills": 90,
+          "deaths": 112
         },
         "dmr_atl": {
           "games": 12,
