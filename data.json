@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-28T08:31:39.244551775Z",
+  "generated": "2026-11-28T08:36:39.242846254Z",
   "tiers": [
     {
       "key": "HT1",
@@ -1959,6 +1959,28 @@
           "deaths": 14
         }
       },
+      "licensed": false
+    },
+    {
+      "uuid": "65659765-d495-37d4-a839-75f5e7c8d301",
+      "name": "freezzee227",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 1,
+      "kills": 3,
+      "deaths": 5,
+      "bestStreak": 0,
+      "kits": {},
       "licensed": false
     },
     {
@@ -6553,9 +6575,9 @@
         "tournament": 1000
       },
       "wins": 2,
-      "losses": 1,
-      "kills": 27,
-      "deaths": 24,
+      "losses": 3,
+      "kills": 29,
+      "deaths": 36,
       "bestStreak": 0,
       "kits": {
         "vintovka": {
@@ -9273,8 +9295,8 @@
       },
       "wins": 3,
       "losses": 5,
-      "kills": 20,
-      "deaths": 9,
+      "kills": 24,
+      "deaths": 10,
       "bestStreak": 0,
       "kits": {
         "tournament": {
@@ -13446,10 +13468,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 3,
+      "wins": 5,
       "losses": 9,
-      "kills": 75,
-      "deaths": 119,
+      "kills": 87,
+      "deaths": 121,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -17468,10 +17490,10 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 14,
+      "wins": 15,
       "losses": 15,
-      "kills": 54,
-      "deaths": 50,
+      "kills": 57,
+      "deaths": 55,
       "bestStreak": 3,
       "kits": {
         "dmr_atl": {
