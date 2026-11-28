@@ -1,6 +1,6 @@
 {
   "server": "NoviMundi",
-  "generated": "2026-11-28T13:56:39.244882747Z",
+  "generated": "2026-11-28T14:01:39.243431947Z",
   "tiers": [
     {
       "key": "HT1",
@@ -3611,9 +3611,9 @@
         "tournament": 1000
       },
       "wins": 47,
-      "losses": 121,
+      "losses": 122,
       "kills": 320,
-      "deaths": 492,
+      "deaths": 495,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
@@ -5052,9 +5052,9 @@
         "m1novi": 1000,
         "tournament": 1000
       },
-      "wins": 66,
+      "wins": 67,
       "losses": 77,
-      "kills": 476,
+      "kills": 482,
       "deaths": 325,
       "bestStreak": 0,
       "kits": {
@@ -13137,6 +13137,43 @@
       "licensed": false
     },
     {
+      "uuid": "c5844920-39c6-3ac9-adc4-92dd3b07e6bf",
+      "name": "deZaan",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 0,
+      "losses": 2,
+      "kills": 3,
+      "deaths": 4,
+      "bestStreak": 0,
+      "kits": {
+        "p90_atl": {
+          "games": 1,
+          "wins": 0,
+          "losses": 1,
+          "kills": 2,
+          "deaths": 3
+        },
+        "m1novi": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 1,
+          "deaths": 0
+        }
+      },
+      "licensed": true
+    },
+    {
       "uuid": "9dfa9770-0244-3951-8b1d-d041b20cc5c1",
       "name": "Shadows089",
       "points": 0,
@@ -13312,6 +13349,43 @@
         }
       },
       "licensed": false
+    },
+    {
+      "uuid": "3ffc7a5f-6242-3b0c-bc44-b168ec02f0ec",
+      "name": "INVINCIBLE",
+      "points": 0,
+      "tiers": {},
+      "elo": {
+        "akm_atl": 1000,
+        "aug_atl": 1000,
+        "dmr_atl": 1000,
+        "p90_atl": 1000,
+        "vintovka": 1000,
+        "m1novi": 1000,
+        "tournament": 1000
+      },
+      "wins": 2,
+      "losses": 0,
+      "kills": 4,
+      "deaths": 3,
+      "bestStreak": 0,
+      "kits": {
+        "p90_atl": {
+          "games": 1,
+          "wins": 1,
+          "losses": 0,
+          "kills": 3,
+          "deaths": 2
+        },
+        "m1novi": {
+          "games": 0,
+          "wins": 0,
+          "losses": 0,
+          "kills": 0,
+          "deaths": 1
+        }
+      },
+      "licensed": true
     },
     {
       "uuid": "a12da3a0-4fb1-384f-b377-b74746608212",
@@ -15613,9 +15687,9 @@
         "tournament": 1000
       },
       "wins": 56,
-      "losses": 138,
+      "losses": 139,
       "kills": 245,
-      "deaths": 375,
+      "deaths": 378,
       "bestStreak": 0,
       "kits": {
         "akm_atl": {
